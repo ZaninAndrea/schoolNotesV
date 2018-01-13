@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-a971b78a38c171341928.js",
+      "component---src-pages-index-js-a971b78a38c171341928.js.map"
+    ],
+    "path---filosofia-schopenhauer": [
+      "path---filosofia-schopenhauer-856a93e56e8491045ab4.js",
+      "path---filosofia-schopenhauer-856a93e56e8491045ab4.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---filosofia-fichte-schelling-hegel": [
+      "path---filosofia-fichte-schelling-hegel-99d6868fb986af906194.js",
+      "path---filosofia-fichte-schelling-hegel-99d6868fb986af906194.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-c8e2e914d2835422e680.js",
+      "component---src-layouts-index-js-c8e2e914d2835422e680.js.map"
+    ],
+    "component---src-templates-blog-template-js": [
+      "component---src-templates-blog-template-js-e922938edd2cb5d69bab.js",
+      "component---src-templates-blog-template-js-e922938edd2cb5d69bab.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-33209d3a2b8236f186b8.js",
+      "commons-33209d3a2b8236f186b8.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-d85a2cc37f19a1eba15a.js",
+      "component---src-pages-page-2-js-d85a2cc37f19a1eba15a.js.map"
+    ],
+    "app": [
+      "app-efe5115d7c7896dba489.js",
+      "build-js-styles.css",
+      "app-efe5115d7c7896dba489.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
