@@ -9,9 +9,24 @@ export default function Template({
   return (
     <div className="blog-post-container">
       <Helmet title={frontmatter.title} />
-      <a href={"/schoolNotesV/pdfs/" + frontmatter.pdfPath} download>
-        Download appunti originali
+      {JSON.stringify(frontmatter)}
+      <a
+        className="downloadAppunti"
+        href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
+        download
+      >
+        <i className="fas fa-download" />&nbsp;&nbsp;Download appunti completi
       </a>
+      &nbsp;&nbsp;&nbsp;
+      <a
+        className="downloadAppunti"
+        href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
+        download
+      >
+        <i className="fas fa-download" />&nbsp;&nbsp;Download appunti riassunti
+      </a>
+      <br />
+      <br />
       <div className="blog-post">
         <div
           className="markdown-body"
@@ -30,7 +45,7 @@ export const pageQuery = graphql`
         date
         path
         title
-        pdfPath
+        pdfCompletoPath
       }
     }
   }
