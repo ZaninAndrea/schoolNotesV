@@ -51,7 +51,7 @@ div {
 }
 
 @supports (-ms-ime-align: auto) {
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 800px) {
     .notesMain {
       display: block;
       min-height: calc(100vh - 90px);

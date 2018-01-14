@@ -35,7 +35,7 @@ export default function Template({ data, location: { pathname } }) {
         {list.map(item => (
           <li>
             <Link
-              to={pathname + "#" + slugger.slug(item.value)}
+              to={"#" + slugger.slug(item.value)}
               className="navigationLinks"
             >
               {item.value}

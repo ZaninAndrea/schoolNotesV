@@ -7,7 +7,7 @@ index: 1
 
 # Fichte
 
-Per Fichte il principio di tutta la realtà è l'Io, Io razionalità, non Io individuale.
+Per Fichte il principio di tutta la realtà è l'Io, Io razionalità, non Io individuale.  
 Scrive tre principi assoluti della scienza:
 
 1. L'io pone se stesso --> Le leggi della logica devono essere accettate dall'Io
@@ -26,7 +26,7 @@ Secondo Fichte l'implicazione di tipo etico-politico vede l'uomo che deve render
 
 Per Schelling l'infinito è un unità indistinta di spirito e materia, la materia è la manifestazione dello spirito.
 
-Attraverso il pensiero lo spirito riesce a comprendere la materia.
+Attraverso il pensiero lo spirito riesce a comprendere la materia.  
 Con l'arte comprendiamo l'unità tra spirito e materia, che erano originariamente unite, ma si mostrano divise nel mondo. Questo ci da accesso all'assoluto.
 
 # Hegel
@@ -41,19 +41,19 @@ Il sistema filosofico di Hegel si basa su:
 
 ## Scienza della logica
 
-La logica per Hegel non è solamente una tecnica del ragionamento, ma un catalogo di concetti puri che si usano per pensare.
+La logica per Hegel non è solamente una tecnica del ragionamento, ma un catalogo di concetti puri che si usano per pensare.  
 Questi concetti non vengono solo trovati, ma dedotti l'uno dall'altro con metodo dialettico.
 
 Per Hegel non esiste la cosa in sè, esiste solo il mondo come lo pensiamo noi, quindi i concetti puri non sono mediatori con la realtà, bensì la struttura della realtà.
 
 ### Il metodo dialettico
 
-Per Hegel da un concetto determinato, **tesi**, se ne **deduce** un altro, **antitesi**, e l'insieme dei 2 produce la **sintesi**.
+Per Hegel da un concetto determinato, **tesi**, se ne **deduce** un altro, **antitesi**, e l'insieme dei 2 produce la **sintesi**.  
 La tesi è compresa con l'**intelletto** (facoltà del finito), ossia come separata dal suo oppposto, ma questo è contraddittorio, perché l'essenza di un concetto è legata al suo opposto. La sintesi invece è prodotta dalla **ragione** (facoltà dell'infinito).
 
 Hegel usa il verbo **aufhebung** (togliere) per indicare che tesi e antitesi vengono tolte per essere unite nella sintesi.
 
-A sua volta la sintesi può essere intesa come tesi e ripetere il ciclo.
+A sua volta la sintesi può essere intesa come tesi e ripetere il ciclo.  
 Il **processo di deduzione non è però infinito**, bensì un anello: si parte dall'essere e si arriva all'idea, che può essere intesa come sintesi di tutti i concetti oppure possiamo dire che l'idea semplicemente è tornando all'essere e chiudendo il cerchio.
 
 ## Filosofia della natura
@@ -90,11 +90,11 @@ La violazione del contratto diventa **diritto contro il torto**, il diritto vien
 
 La sintesi di diritto e morale è l'**eticità**, ossia ciò che è contemporaneamente oggettivo e sentito come giusto da tutti.
 
-La famiglia si basa sull'amore, si rovescia in società civile, basata sulla convenienza, perché la famiglia produce i membri della società civile.
+La famiglia si basa sull'amore, si rovescia in società civile, basata sulla convenienza, perché la famiglia produce i membri della società civile.  
 La sintesi di famiglia e società civile è lo stato, nel quale i contrasti della società civile si uniscono in un composto armonico come la famiglia.
 
-Per Hegel lo Stato precede i cittadini, l'esistenza del cittadino è merito dello Stato che lo ha formato. Lo stato garantisce i diritti e protegge la famiglia e la società civile.
-Lo Stato hegeliano è uno stato etico, applica quindi politiche come il proibizionismo, trattamento di fine rapporto, esercizio fisico obbligatorio, ...
+Per Hegel lo Stato precede i cittadini, l'esistenza del cittadino è merito dello Stato che lo ha formato. Lo stato garantisce i diritti e protegge la famiglia e la società civile.  
+Lo Stato hegeliano è uno stato etico, applica quindi politiche come il proibizionismo, trattamento di fine rapporto, esercizio fisico obbligatorio, ...  
 Hegel vede la Prussia come il perfetto esempio di Stato e la sua visione verrà ripresa da nazisti e fascisti.
 
 **HEGEL E HOBBES**: Hegel al contrario di Hobbes non è giusnaturalista, ritiene quindi esistano solo diritti positivi, ossia dati dallo stato. La visione di Hobbes è contrattualista (gli uomini si accordano e creano lo stato), quella di Hegel è organicista (lo stato è il corpo e gli uomini le cellule).
@@ -103,7 +103,7 @@ Hegel ritiene che la storia si sviluppi in maniera dialettica attraverso individ
 
 ### Filosofia dello spirito dell'oggetto
 
-L'antropologia studia il comportamento naturale dell'uomo (istinti, abitudini).
+L'antropologia studia il comportamento naturale dell'uomo (istinti, abitudini).  
 La fenomenologia dello spirito analizza i vari atteggiamenti che possiamo avere verso la realtà.
 La psicologia studia memoria e sentimenti.
 
@@ -119,23 +119,23 @@ L'arte è così sentimentale che diventa religione, che però è anch'essa inada
 
 Per Hegel la storia della filosofia è una progressione fino alla sua filosofia.
 
-**HEGEL SU SCHELLING**: Schelling non spiega come lo spirito coincida con la natura e lascia il compito all'arte. Non vale la proposta di Schelling che la realtà è natura e spirito, non è abbastanza: la realtà sono tutti i singoli concetti concepiti nella loro unità. Per Hegel l'Assoluto di Schelling è “la notte in cui tutte le vacche sono nere”, cioè niente di definito, dato che non ha dedotto i concetti.
-**HEGEL SU FICHTE**: Hegel non apprezza il fatto che l'Io comprenda il non-Io solo in un processo infinito.
-**HEGEL SU KANT**: Kant tenta di determinare i limiti dell'intelletto usando l'intelletto e ciò è impossibile. Inoltre Hegel non apprezza la presenza della cosa in sè che limita il pensiero
-**HEGEL E SPINOZA**: In Spinoza tutto è sostanza, mentre in Hegel tutto è assoluto. La sostanza però è un'entità metafisica, mentre l'assoluto di Hegel è il pensiero che si manifesta nella storia.
+**HEGEL SU SCHELLING**: Schelling non spiega come lo spirito coincida con la natura e lascia il compito all'arte. Non vale la proposta di Schelling che la realtà è natura e spirito, non è abbastanza: la realtà sono tutti i singoli concetti concepiti nella loro unità. Per Hegel l'Assoluto di Schelling è “la notte in cui tutte le vacche sono nere”, cioè niente di definito, dato che non ha dedotto i concetti.  
+**HEGEL SU FICHTE**: Hegel non apprezza il fatto che l'Io comprenda il non-Io solo in un processo infinito.   
+**HEGEL SU KANT**: Kant tenta di determinare i limiti dell'intelletto usando l'intelletto e ciò è impossibile. Inoltre Hegel non apprezza la presenza della cosa in sè che limita il pensiero  
+**HEGEL E SPINOZA**: In Spinoza tutto è sostanza, mentre in Hegel tutto è assoluto. La sostanza però è un'entità metafisica, mentre l'assoluto di Hegel è il pensiero che si manifesta nella storia.  
 
 ### Fenomenologia dello spirito
 
 Nella Fenomenologia dello Spirito, Hegel analizza i vari atteggiamenti che possiamo avere rispetto alla realtà, che egli articola in:
 
-* **coscienza** (tesi): è il conoscere ciò che mi sta di fronte. Questa conoscenza **non va a fondo nella realtà**, deve invece riconoscere che ci sono dei concetti universali (spazio, tempo, ...) attraverso i quali posso affermare che un oggetto è vero
-* **autocoscienza** (antitesi): La sostanza non è nulla di reale, è solo un concetto del soggetto, quindi devo **occuparmi del soggetto** della percezione, non dell'oggetto. Con questo rovesciamento dialettico la coscienza diventa autocoscienza.
+* **coscienza** (tesi): è il conoscere ciò che mi sta di fronte. Questa conoscenza **non va a fondo nella realtà**, deve invece riconoscere che ci sono dei concetti universali (spazio, tempo, ...) attraverso i quali posso affermare che un oggetto è vero  
+* **autocoscienza** (antitesi): La sostanza non è nulla di reale, è solo un concetto del soggetto, quindi devo **occuparmi del soggetto** della percezione, non dell'oggetto. Con questo rovesciamento dialettico la coscienza diventa autocoscienza.    
   2 autocoscienze che si incontrano **si scontrano**, perché entrambe vogliono essere il soggetto. L'autocoscienza che non è disposta a sottomettersi diventa padrone, l'altra servo. Il servo però attraverso il lavoro evolve la sua conoscenza, rovesciamento dialettico: il servo diventa padrone.
 * spirito (sintesi): la realtà intesa come continuo divenire, l'idea che dopo essersi alienata nella natura ritorna pienamente in-sè nell'uomo
 
 I vari momenti della storia e della filosofia seguono un processo dialettico.
 
-L’influenza di Hegel sui posteri è stata enorme.
+L’influenza di Hegel sui posteri è stata enorme.  
 Da Hegel saltano fuori:
 
 * L’irrazionalismo (Schopenhauer e Nietzsche)
