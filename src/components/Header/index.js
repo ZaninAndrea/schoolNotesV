@@ -2,12 +2,7 @@ import React from "react";
 import Link from "gatsby-link";
 
 const Header = () => (
-  <div
-    style={{
-      background: "#F85959",
-      marginBottom: "1.45rem"
-    }}
-  >
+  <div className="header">
     <div
       style={{
         margin: "0 auto",

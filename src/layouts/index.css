@@ -1,5 +1,5 @@
 body {
-  padding: 0;
+  padding: 100px 0 0 0;
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -17,4 +17,21 @@ body {
   border-radius: 20px;
   color: white;
   text-decoration: none;
+}
+
+.notesLink {
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ac005d;
+  padding-left: 38px;
+  margin-bottom: 15px;
+}
+
+.header {
+  background: #f85959;
+  margin-bottom: 1.45rem;
+  position: fixed;
+  top: 0;
+  width: 100vw;
 }
