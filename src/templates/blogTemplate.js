@@ -41,7 +41,6 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        date
         path
         title
         pdfCompletoPath

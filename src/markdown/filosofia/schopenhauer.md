@@ -1,6 +1,5 @@
 ---
 path: "/filosofia/schopenhauer"
-date: "13/01/2018"
 title: "Schopenhauer"
 pdfCompletoPath: "filo-schopenhauer.pdf"
 ---
