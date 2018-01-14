@@ -7,17 +7,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
-      ) {
+      allMarkdownRemark(limit: 1000) {
         edges {
           node {
             excerpt(pruneLength: 250)
             html
             id
             frontmatter {
-              date
               path
               title
             }
@@ -27,6 +23,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
   `).then(result => {
     if (result.errors) {
+      console.log(result);
       return Promise.reject(result.errors);
     }
 

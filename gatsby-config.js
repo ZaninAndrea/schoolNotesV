@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Appunti Quinta"
+    title: "Appunti Quinta",
+    siteUrl: `http://andreazanin.me/schoolNotesV/`
   },
   pathPrefix: "/schoolNotesV",
   plugins: [
@@ -13,6 +14,9 @@ module.exports = {
         path: `${__dirname}/src/markdown`,
         name: "markdown-pages"
       }
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`
     }
   ]
 };
