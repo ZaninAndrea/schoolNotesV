@@ -1,7 +1,11 @@
 body {
-  margin: 100px 0 0 0;
+  margin: 90px 0 0 0;
   padding: 0;
+  box-sizing: border-box;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+div {
+  box-sizing: border-box;
 }
 
 .subjectTitle {
@@ -12,11 +16,75 @@ body {
   background: #ac005d;
   padding: 10px;
   height: 30px;
-  display: inline-block;
+  display: block;
   line-height: 30px;
   border-radius: 20px;
   color: white;
   text-decoration: none;
+  margin: auto;
+  width: max-content;
+}
+
+.notesContainer {
+  height: calc(100vh - 94px);
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-template-rows: 70px auto;
+  grid-column-gap: 10px;
+  grid-template-areas: "sidebarDownload main" "sidebarList main";
+}
+
+@media screen and (orientation: portrait), screen and (max-width: 600px) {
+  .notesContainer {
+    grid-template-columns: auto;
+    grid-template-areas: "sidebarDownload" "main";
+  }
+
+  .sidebarList {
+    display: none;
+  }
+  .notesMain {
+    padding: 15px !important;
+  }
+}
+
+@supports (-ms-ime-align: auto) {
+  @media screen and (max-width: 600px) {
+    .notesMain {
+      display: block;
+      min-height: calc(100vh - 90px);
+      margin-top: 150px;
+    }
+    .sidebarDownload {
+      display: none;
+    }
+  }
+}
+
+.notesMain {
+  grid-area: main;
+  overflow: auto;
+  margin: 0;
+  padding: 0 calc((100% - 800px)/2);
+}
+.sidebarList {
+  grid-area: sidebarList;
+  overflow: auto;
+  margin: 0;
+  padding: 15px;
+}
+.sidebarDownload {
+  height: 70px;
+  grid-area: sidebarDownload;
+  padding: 10px;
+}
+
+.indexContainer {
+  height: calc(100vh - 90px);
+  overflow: auto;
+  padding-left: calc((100vw - 960px)/2);
 }
 
 .notesLink {
@@ -30,8 +98,17 @@ body {
 
 .header {
   background: #f85959;
-  margin-bottom: 1.45rem;
   position: fixed;
   top: 0;
   width: 100vw;
+}
+
+.sidebar ul,
+.sidebar li {
+  list-style: none;
+}
+
+.navigationLinks {
+  text-decoration: none;
+  color: #ac005d;
 }

@@ -34,7 +34,10 @@ export default function Template({ data, location: { pathname } }) {
       <ul>
         {list.map(item => (
           <li>
-            <Link to={pathname + "#" + slugger.slug(item.value)}>
+            <Link
+              to={pathname + "#" + slugger.slug(item.value)}
+              className="navigationLinks"
+            >
               {item.value}
             </Link>
             {generateHTMLList(item.children)}
@@ -47,23 +50,24 @@ export default function Template({ data, location: { pathname } }) {
   const headingsList = generateHTMLList(renderList(headings, 1));
 
   return (
-    <div className="blog-post-container">
+    <div className="notesContainer">
       <Helmet title={frontmatter.title} />
-      {frontmatter.pdfCompletoPath ? (
-        <a
-          className="downloadAppunti"
-          href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
-          download
-        >
-          <i className="fas fa-download" />&nbsp;&nbsp;Download appunti completi
-        </a>
-      ) : (
-        ""
-      )}
-      {headingsList}
-      <br />
-      <br />
-      <div className="blog-post">
+      <div className="sidebarDownload">
+        {frontmatter.pdfCompletoPath ? (
+          <a
+            className="downloadAppunti"
+            href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
+            download
+          >
+            <i className="fas fa-download" />&nbsp;&nbsp;Download appunti
+            completi
+          </a>
+        ) : (
+          "Non ci sono appunti da scaricare"
+        )}
+      </div>
+      <div className="sidebarList">{headingsList}</div>
+      <div className="notesMain">
         <div
           className="markdown-body"
           dangerouslySetInnerHTML={{ __html: html }}

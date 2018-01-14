@@ -26,7 +26,7 @@ class IndexPage extends Component {
     const pages = this.props.data.allMarkdownRemark.edges;
 
     return (
-      <div className="notesContainer">
+      <div className="indexContainer">
         <Subject
           title="Filosofia"
           onClick={this.openSubject("Filosofia")}
