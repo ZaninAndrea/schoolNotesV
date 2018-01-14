@@ -9,7 +9,7 @@ export default function Template({
   return (
     <div className="blog-post-container">
       <Helmet title={frontmatter.title} />
-      <a href={"/static/" + frontmatter.pdfPath} download>
+      <a href={"/schoolNotesV/pdfs/" + frontmatter.pdfPath} download>
         Download appunti originali
       </a>
       <div className="blog-post">
