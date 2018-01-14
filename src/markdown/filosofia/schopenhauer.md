@@ -2,6 +2,7 @@
 path: "/filosofia/schopenhauer"
 title: "Schopenhauer"
 pdfCompletoPath: "filo-schopenhauer.pdf"
+index: 2
 ---
 
 # Schopenhauer

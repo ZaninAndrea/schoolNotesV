@@ -1,23 +1,6 @@
 import React, { Component } from "react";
 import Link from "gatsby-link";
-
-const SubjectHeader = ({ title, onClick, open }) => (
-  <h1 onClick={onClick} className="subjectTitle">
-    {open ? (
-      <i className="fas fa-chevron-down" />
-    ) : (
-      <i className="fas fa-chevron-up" />
-    )}{" "}
-    {title}
-  </h1>
-);
-
-const Subject = ({ title, onClick, open, children }) => (
-  <div className="subject">
-    <SubjectHeader title={title} onClick={onClick} open={open} />
-    {open ? <div>{children}</div> : ""}
-  </div>
-);
+import Subject from "../components/Subject";
 
 class IndexPage extends Component {
   constructor() {
@@ -30,7 +13,8 @@ class IndexPage extends Component {
       openScienze: false,
       openFisica: false,
       openStoriaArte: false,
-      openMatematica: false
+      openMatematica: false,
+      openEnglish: false
     };
   }
   openSubject = subject => () =>
@@ -38,65 +22,89 @@ class IndexPage extends Component {
       ["open" + subject]: !oldState["open" + subject]
     }));
 
-  render = () => (
-    <div className="notesContainer">
-      <Subject
-        title="Filosofia"
-        onClick={this.openSubject("Filosofia")}
-        open={this.state.openFilosofia}
-      >
-        <Link to="/filosofia/fichte-schelling-hegel" className="notesLink">
-          Fichte, Schelling, Hegel
-        </Link>
-        <Link to="/filosofia/schopenhauer" className="notesLink">
-          Schopenhauer
-        </Link>
-      </Subject>
+  render = () => {
+    const pages = this.props.data.allMarkdownRemark.edges;
 
-      <Subject
-        title="Storia"
-        onClick={this.openSubject("Storia")}
-        open={this.state.openStoria}
-      >
-        Non ci sono ancora appunti
-      </Subject>
-      <Subject
-        title="Storia dell'Arte"
-        onClick={this.openSubject("StoriaArte")}
-        open={this.state.openStoriaArte}
-      >
-        Non ci sono ancora appunti
-      </Subject>
-      <Subject
-        title="Italiano"
-        onClick={this.openSubject("Italiano")}
-        open={this.state.openItaliano}
-      >
-        Non ci sono ancora appunti
-      </Subject>
-      <Subject
-        title="Latino"
-        onClick={this.openSubject("Latino")}
-        open={this.state.openLatino}
-      >
-        Non ci sono ancora appunti
-      </Subject>
-      <Subject
-        title="Matematica"
-        onClick={this.openSubject("Matematica")}
-        open={this.state.openMatematica}
-      >
-        Non ci sono ancora appunti
-      </Subject>
-      <Subject
-        title="Fisica"
-        onClick={this.openSubject("Fisica")}
-        open={this.state.openFisica}
-      >
-        Non ci sono ancora appunti
-      </Subject>
-    </div>
-  );
+    return (
+      <div className="notesContainer">
+        <Subject
+          title="Filosofia"
+          onClick={this.openSubject("Filosofia")}
+          open={this.state.openFilosofia}
+          path="filosofia"
+          pages={pages}
+        />
+
+        <Subject
+          title="Storia"
+          onClick={this.openSubject("Storia")}
+          open={this.state.openStoria}
+          pages={pages}
+          path="storia"
+        />
+        <Subject
+          title="Storia dell'Arte"
+          onClick={this.openSubject("StoriaArte")}
+          open={this.state.openStoriaArte}
+          pages={pages}
+          path="storia-arte"
+        />
+        <Subject
+          title="Italiano"
+          onClick={this.openSubject("Italiano")}
+          open={this.state.openItaliano}
+          pages={pages}
+          path="italiano"
+        />
+        <Subject
+          title="Latino"
+          onClick={this.openSubject("Latino")}
+          open={this.state.openLatino}
+          path="latino"
+          pages={pages}
+          path="latino"
+        />
+        <Subject
+          title="Matematica"
+          onClick={this.openSubject("Matematica")}
+          open={this.state.openMatematica}
+          pages={pages}
+          path="matematica"
+        />
+        <Subject
+          title="Fisica"
+          onClick={this.openSubject("Fisica")}
+          open={this.state.openFisica}
+          pages={pages}
+          path="fisica"
+        />
+        <Subject
+          title="English literature"
+          onClick={this.openSubject("English")}
+          open={this.state.openEnglish}
+          pages={pages}
+          path="english"
+        />
+      </div>
+    );
+  };
 }
 
 export default IndexPage;
+
+export const query = graphql`
+  query LayoutQuery {
+    allMarkdownRemark {
+      totalCount
+      edges {
+        node {
+          frontmatter {
+            title
+            path
+            index
+          }
+        }
+      }
+    }
+  }
+`;

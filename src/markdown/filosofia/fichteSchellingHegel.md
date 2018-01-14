@@ -2,6 +2,7 @@
 path: "/filosofia/fichte-schelling-hegel"
 title: "Fichte, Schelling, Hegel"
 pdfCompletoPath: "filo-fichte-schelling-hegel.pdf"
+index: 1
 ---
 
 # Fichte

@@ -9,8 +9,10 @@
     "gatsby-plugin-catch-links": "^1.0.14",
     "gatsby-plugin-react-helmet": "^2.0.3",
     "gatsby-plugin-sitemap": "^1.2.9",
+    "gatsby-remark-autolink-headers": "^1.4.11",
     "gatsby-source-filesystem": "^1.5.11",
     "gatsby-transformer-remark": "^1.7.28",
+    "github-slugger": "^1.2.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
