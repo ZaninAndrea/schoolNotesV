@@ -9,7 +9,6 @@ export default function Template({
   return (
     <div className="blog-post-container">
       <Helmet title={frontmatter.title} />
-      {JSON.stringify(frontmatter)}
       <a
         className="downloadAppunti"
         href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
@@ -18,13 +17,13 @@ export default function Template({
         <i className="fas fa-download" />&nbsp;&nbsp;Download appunti completi
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a
+      {/* <a
         className="downloadAppunti"
         href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
         download
       >
         <i className="fas fa-download" />&nbsp;&nbsp;Download appunti riassunti
-      </a>
+      </a> */}
       <br />
       <br />
       <div className="blog-post">
