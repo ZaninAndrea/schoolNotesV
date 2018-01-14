@@ -1,20 +1,16 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-9f7a8b8221e943660c0c.js",
-      "component---src-pages-index-js-9f7a8b8221e943660c0c.js.map"
-    ],
-    "path---filosofia-schopenhauer": [
-      "path---filosofia-schopenhauer-9759d5dfddf7d1b80a74.js",
-      "path---filosofia-schopenhauer-9759d5dfddf7d1b80a74.js.map"
+      "component---src-pages-index-js-328ac76c6a7e1819e885.js",
+      "component---src-pages-index-js-328ac76c6a7e1819e885.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---filosofia-fichte-schelling-hegel": [
-      "path---filosofia-fichte-schelling-hegel-58c0378dc4701be0d423.js",
-      "path---filosofia-fichte-schelling-hegel-58c0378dc4701be0d423.js.map"
+      "path---filosofia-fichte-schelling-hegel-f0451b19e138f320e010.js",
+      "path---filosofia-fichte-schelling-hegel-f0451b19e138f320e010.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-cf41c388d44a15e45bc5.js",
@@ -25,8 +21,12 @@
       "component---src-templates-blog-template-js-31a8fc8f5014eb92eb10.js.map"
     ],
     "path---index": [
-      "path---index-e4c70dad5b05e9db9cd1.js",
-      "path---index-e4c70dad5b05e9db9cd1.js.map"
+      "path---index-ae54dd009910476d8fc3.js",
+      "path---index-ae54dd009910476d8fc3.js.map"
+    ],
+    "path---filosofia-1-schopenhauer": [
+      "path---filosofia-1-schopenhauer-202f2f7f20fa1fbedd14.js",
+      "path---filosofia-1-schopenhauer-202f2f7f20fa1fbedd14.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -41,9 +41,9 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-82eed02f3d6003e3b784.js",
+      "app-d81b68de11248549d301.js",
       "build-js-styles.css",
-      "app-82eed02f3d6003e3b784.js.map",
+      "app-d81b68de11248549d301.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
