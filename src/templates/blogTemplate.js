@@ -62,7 +62,7 @@ export default function Template({ data, location: { pathname } }) {
             <i className="fas fa-download" />&nbsp;&nbsp;Download appunti lunghi
           </a>
         ) : (
-          "Non ci sono appunti da scaricare"
+          ""
         )}
         <a className="print" onClick={() => window.print()}>
           <i className="fas fa-print" />&nbsp;&nbsp;Stampa

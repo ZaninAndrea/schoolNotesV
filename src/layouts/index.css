@@ -108,6 +108,10 @@ div {
   margin: 0;
   padding: 15px;
 }
+.sidebarList ul,
+.sidebarList li {
+  list-style-type: none !important;
+}
 .sidebarDownload {
   height: 70px;
   grid-area: sidebarDownload;
