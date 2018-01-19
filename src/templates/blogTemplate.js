@@ -59,12 +59,14 @@ export default function Template({ data, location: { pathname } }) {
             href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
             download
           >
-            <i className="fas fa-download" />&nbsp;&nbsp;Download appunti
-            completi
+            <i className="fas fa-download" />&nbsp;&nbsp;Download appunti lunghi
           </a>
         ) : (
           "Non ci sono appunti da scaricare"
         )}
+        <a className="print" onClick={() => window.print()}>
+          <i className="fas fa-print" />&nbsp;&nbsp;Stampa
+        </a>
       </div>
       <div className="sidebarList">{headingsList}</div>
       <div className="notesMain">

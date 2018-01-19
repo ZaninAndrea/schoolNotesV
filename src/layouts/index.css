@@ -12,17 +12,28 @@ div {
   cursor: pointer;
 }
 
-.downloadAppunti {
+.downloadAppunti,
+.print {
   background: #ac005d;
   padding: 10px;
   height: 30px;
-  display: block;
+  display: inline-block;
   line-height: 30px;
   border-radius: 20px;
   color: white;
   text-decoration: none;
   margin: auto;
   width: max-content;
+  cursor: pointer;
+}
+
+.downloadAppunti {
+  margin-left: calc((100% - 335px)/2);
+  margin-right: 5px;
+}
+.print {
+  margin-right: calc((100% - 335px)/2);
+  margin-left: 5px;
 }
 
 .notesContainer {
@@ -60,6 +71,31 @@ div {
     .sidebarDownload {
       display: none;
     }
+  }
+}
+
+@media print {
+  .notesContainer {
+    display: inline;
+  }
+
+  @page {
+    margin: 0;
+  }
+  body {
+    margin: 1.6cm;
+  }
+
+  .notesMain {
+    overflow: visible !important;
+    padding: 0;
+    display: inline;
+  }
+
+  .sidebarList,
+  .sidebarDownload,
+  .header {
+    display: none;
   }
 }
 
