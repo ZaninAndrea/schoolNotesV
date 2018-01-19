@@ -8,7 +8,7 @@ index: 3
 # Nietzsche
 
 Si ispira a Schopenhauer e ai suoi studi di filologia greca.  
-La sua idea fondamentale è che il criterio di giudizio delle filosofienon sia la verità, ma se sono salutari, ossia se esprimono la volontà di potenza.
+La sua idea fondamentale è che il criterio di giudizio delle filosofie non sia la verità, ma se sono salutari, ossia se esprimono la volontà di potenza.
 
 Nietzsche tende a far filosofia per aforismi o brevi paragrafetti architettati per soprendere e provacare stupore, con giudizi taglienti.
 
@@ -28,10 +28,10 @@ L'uomo crede di essere speciale perché intelligente, ma l'intelligenza è solo 
 L'uomo si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale omnium contra omnes (Hobbes).  
 La pulsione dell'uomo verso la verità in realtà è verso l'autoconservazione.
 
-La realtà è un chaoes e ci siamo inventati la verità per cercare di riordinarlo, ma ci riusciamo solo in parte.
+La realtà è un chaos e ci siamo inventati la verità per cercare di riordinarlo, ma ci riusciamo solo in parte.
 **La verità quindi è mentire tutti quanti nello stesso modo, mentire non è immorale**.
 
-La menzogna viene percepita dalla società come un pericolo e quindi la bandisce colui che mente. La truffa non viene punita perché truffa in sè, ma per il danno che arreca.
+La menzogna viene percepita dalla società come un pericolo e quindi essa bandisce colui che mente. La truffa non viene punita perché truffa in sè, ma per il danno che arreca.
 
 > ## Frase da tatuare
 >
@@ -78,7 +78,7 @@ Questa nuova giustizia è perversa, perché non serve all'autoconservazione.
 Di fronte alla morale **non dobbiamo chiederci se sia giusta o sbagliata**, bensì da dove venga, in che condizione i valori si siano sviluppati.  
 E.g. Il cristianesimo secondo Nietzsche ha prodotto una morale degli schiavi.
 
-Esistono 2 tipi di mroali:
+Esistono 2 tipi di morali:
 
 * **morale dei signori**: la legge del più forte, è la migliore, perché aiuta la vita
 * **morale degli schiavi**: siamo tutti uguali, è contro natura

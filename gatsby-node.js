@@ -33,7 +33,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       createPage({
         path:
           "/" +
-          slugger.slug(node.frontmatter.category) +
+          node.frontmatter.category +
           "/" +
           slugger.slug(node.frontmatter.title),
         component: blogPostTemplate,

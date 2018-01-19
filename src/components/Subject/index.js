@@ -29,7 +29,7 @@ class Subject extends Component {
             <Link
               to={
                 "/" +
-                slugger.slug(page.node.frontmatter.category) +
+                page.node.frontmatter.category +
                 "/" +
                 slugger.slug(page.node.frontmatter.title)
               }

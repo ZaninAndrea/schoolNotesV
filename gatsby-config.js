@@ -3,7 +3,6 @@ module.exports = {
     title: "Appunti Quinta",
     siteUrl: `http://andreazanin.me/schoolNotesV/`
   },
-  pathPrefix: "/schoolNotesV",
   plugins: [
     "gatsby-plugin-react-helmet",
     `gatsby-transformer-remark`,
