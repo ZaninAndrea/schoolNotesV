@@ -3,20 +3,22 @@ import Link from "gatsby-link";
 import Subject from "../components/Subject";
 
 class IndexPage extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
 
-    this.state = {
-      openFilosofia: false,
-      openStoria: false,
-      openItaliano: false,
-      openScienze: false,
-      openFisica: false,
-      openStoriaArte: false,
-      openMatematica: false,
-      openEnglish: false
-    };
+    const categories = props.data.allMarkdownRemark.edges
+      .map(item => item.node.frontmatter.category)
+      .filter(function(elem, index, self) {
+        return index === self.indexOf(elem);
+      });
+
+    this.state = { categories };
+
+    categories.forEach(category => {
+      this.state[`open${category}`] = false;
+    });
   }
+
   openSubject = subject => () =>
     this.setState(oldState => ({
       ["open" + subject]: !oldState["open" + subject]
@@ -27,7 +29,16 @@ class IndexPage extends Component {
 
     return (
       <div className="indexContainer">
-        <Subject
+        {this.state.categories.map(category => (
+          <Subject
+            title={category}
+            onClick={this.openSubject(category)}
+            open={this.state[`open${category}`]}
+            category={category}
+            pages={pages}
+          />
+        ))}
+        {/* <Subject
           title="Filosofia"
           onClick={this.openSubject("Filosofia")}
           open={this.state.openFilosofia}
@@ -84,7 +95,7 @@ class IndexPage extends Component {
           open={this.state.openEnglish}
           pages={pages}
           path="english"
-        />
+        /> */}
       </div>
     );
   };
@@ -100,8 +111,8 @@ export const query = graphql`
         node {
           frontmatter {
             title
-            path
             index
+            category
           }
         }
       }

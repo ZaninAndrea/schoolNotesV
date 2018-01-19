@@ -30,7 +30,7 @@ div {
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: max-content auto;
+  grid-template-columns: minmax(30%, min-content) auto;
   grid-template-rows: 70px auto;
   grid-column-gap: 10px;
   grid-template-areas: "sidebarDownload main" "sidebarList main";

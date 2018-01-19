@@ -72,17 +72,21 @@ export default function Template({ data, location: { pathname } }) {
           className="markdown-body"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+        <br />
+        <br />
+        <br />
       </div>
     </div>
   );
 }
 
 export const pageQuery = graphql`
-  query BlogPostByPath($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query BlogPostByPath($category: String!, $title: String!) {
+    markdownRemark(
+      frontmatter: { category: { eq: $category }, title: { eq: $title } }
+    ) {
       html
       frontmatter {
-        path
         title
         pdfCompletoPath
       }

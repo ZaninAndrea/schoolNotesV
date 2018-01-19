@@ -1,5 +1,5 @@
 ---
-path: "/filosofia/schopenhauer"
+category: "Filosofia"
 title: "Schopenhauer"
 pdfCompletoPath: "filo-schopenhauer.pdf"
 index: 2
@@ -15,7 +15,7 @@ La verità è quindi coperta dal "velo di Maja" dei fenomeni e delle rappresenta
 
 **HEGEL E SCHOPENHAUER**: Per Hegel la vera natura del mondo è razionalità, per Schopenhauer invece è la volontà.
 
-**VOLONTÀ E RAPPRESENTAZIONE**: Le rappresentazioni sono soggette alle forme a priori di spazio e tempo, sono molteplici e rispettano il principio di causalità. La volontà invece è una **unica e senza un fine**.   
+**VOLONTÀ E RAPPRESENTAZIONE**: Le rappresentazioni sono soggette alle forme a priori di spazio e tempo, sono molteplici e rispettano il principio di causalità. La volontà invece è una **unica e senza un fine**.  
 La volontà non è soddisfacibile, è un infinito tendere. Il mondo è quindi infelice e assurdo.
 
 **ARTE, COMPASSIONE E ASCETISMO**: La migliore condizione per l'uomo è l'assenza di volontà, che possiamo raggiungere per 3 vie:

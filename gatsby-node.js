@@ -1,6 +1,8 @@
 const path = require("path");
+const GithubSlugger = require("github-slugger");
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
+  const slugger = new GithubSlugger();
   const { createPage } = boundActionCreators;
 
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`);
@@ -14,8 +16,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             html
             id
             frontmatter {
-              path
               title
+              category
             }
           }
         }
@@ -29,9 +31,16 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
-        path: node.frontmatter.path,
+        path:
+          "/" +
+          slugger.slug(node.frontmatter.category) +
+          "/" +
+          slugger.slug(node.frontmatter.title),
         component: blogPostTemplate,
-        context: {} // additional data can be passed via context
+        context: {
+          category: node.frontmatter.category,
+          title: node.frontmatter.title
+        } // additional data can be passed via context
       });
     });
   });

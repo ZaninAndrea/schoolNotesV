@@ -12,6 +12,7 @@
     "gatsby-remark-autolink-headers": "^1.4.11",
     "gatsby-source-filesystem": "^1.5.11",
     "gatsby-transformer-remark": "^1.7.28",
+    "gatsby-transformer-yaml": "^1.5.14",
     "github-slugger": "^1.2.0",
     "react-helmet": "^5.2.0"
   },

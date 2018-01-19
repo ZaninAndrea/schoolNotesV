@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Link from "gatsby-link";
+import GithubSlugger from "github-slugger";
 
 const SubjectHeader = ({ title, onClick, open }) => (
   <h1 onClick={onClick} className="subjectTitle">
@@ -14,17 +15,26 @@ const SubjectHeader = ({ title, onClick, open }) => (
 
 class Subject extends Component {
   render() {
-    const { title, onClick, open, children, pages, path } = this.props;
+    const { title, onClick, open, children, pages, category } = this.props;
+    const slugger = new GithubSlugger();
 
     const myPages = pages
-      .filter(page => page.node.frontmatter.path.startsWith("/" + path))
+      .filter(page => page.node.frontmatter.category === category)
       .sort((a, b) => a.node.frontmatter.index - b.node.frontmatter.index);
 
     const index =
       myPages.length === 0
         ? "Non ci sono ancora appunti"
         : myPages.map(page => (
-            <Link to={page.node.frontmatter.path} className="notesLink">
+            <Link
+              to={
+                "/" +
+                slugger.slug(page.node.frontmatter.category) +
+                "/" +
+                slugger.slug(page.node.frontmatter.title)
+              }
+              className="notesLink"
+            >
               {page.node.frontmatter.title}
             </Link>
           ));

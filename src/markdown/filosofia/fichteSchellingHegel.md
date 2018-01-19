@@ -1,5 +1,5 @@
 ---
-path: "/filosofia/fichte-schelling-hegel"
+category: "Filosofia"
 title: "Fichte, Schelling, Hegel"
 pdfCompletoPath: "filo-fichte-schelling-hegel.pdf"
 index: 1
@@ -72,13 +72,13 @@ La filosofia dello spirito si sviluppa in:
 
 * assoluto
 * oggetto:
-  --> diritto: + proprietà + contratto + diritto contro il torto
-  --> morale
-  --> eticità + famiglia + società civile + stato
+  * diritto: proprietà --> contratto --> diritto contro il torto
+  * morale
+  * eticità: famiglia --> società civile --> stato
 * soggetto
-  --> antropologia (studia lo spirito naturale dell'uomo; es. istinti, abitudini)
-  --> fenomenologia dello spirito; produzioni culturali umane
-  --> psicologia (immaginazioni, memoria, sentimenti)
+  * antropologia (studia lo spirito naturale dell'uomo; es. istinti, abitudini)
+  * fenomenologia dello spirito; produzioni culturali umane
+  * psicologia (immaginazioni, memoria, sentimenti)
 
 ### Filosofia dello spirito dell'oggetto
 
@@ -101,7 +101,7 @@ Hegel vede la Prussia come il perfetto esempio di Stato e la sua visione verrà 
 
 Hegel ritiene che la storia si sviluppi in maniera dialettica attraverso individui speciali in grado di incarnare la razionalità dello spirito della storia (Es. Napoleone).
 
-### Filosofia dello spirito dell'oggetto
+### Filosofia dello spirito del soggetto
 
 L'antropologia studia il comportamento naturale dell'uomo (istinti, abitudini).  
 La fenomenologia dello spirito analizza i vari atteggiamenti che possiamo avere verso la realtà.
@@ -120,16 +120,16 @@ L'arte è così sentimentale che diventa religione, che però è anch'essa inada
 Per Hegel la storia della filosofia è una progressione fino alla sua filosofia.
 
 **HEGEL SU SCHELLING**: Schelling non spiega come lo spirito coincida con la natura e lascia il compito all'arte. Non vale la proposta di Schelling che la realtà è natura e spirito, non è abbastanza: la realtà sono tutti i singoli concetti concepiti nella loro unità. Per Hegel l'Assoluto di Schelling è “la notte in cui tutte le vacche sono nere”, cioè niente di definito, dato che non ha dedotto i concetti.  
-**HEGEL SU FICHTE**: Hegel non apprezza il fatto che l'Io comprenda il non-Io solo in un processo infinito.   
+**HEGEL SU FICHTE**: Hegel non apprezza il fatto che l'Io comprenda il non-Io solo in un processo infinito.  
 **HEGEL SU KANT**: Kant tenta di determinare i limiti dell'intelletto usando l'intelletto e ciò è impossibile. Inoltre Hegel non apprezza la presenza della cosa in sè che limita il pensiero  
-**HEGEL E SPINOZA**: In Spinoza tutto è sostanza, mentre in Hegel tutto è assoluto. La sostanza però è un'entità metafisica, mentre l'assoluto di Hegel è il pensiero che si manifesta nella storia.  
+**HEGEL E SPINOZA**: In Spinoza tutto è sostanza, mentre in Hegel tutto è assoluto. La sostanza però è un'entità metafisica, mentre l'assoluto di Hegel è il pensiero che si manifesta nella storia.
 
 ### Fenomenologia dello spirito
 
 Nella Fenomenologia dello Spirito, Hegel analizza i vari atteggiamenti che possiamo avere rispetto alla realtà, che egli articola in:
 
-* **coscienza** (tesi): è il conoscere ciò che mi sta di fronte. Questa conoscenza **non va a fondo nella realtà**, deve invece riconoscere che ci sono dei concetti universali (spazio, tempo, ...) attraverso i quali posso affermare che un oggetto è vero  
-* **autocoscienza** (antitesi): La sostanza non è nulla di reale, è solo un concetto del soggetto, quindi devo **occuparmi del soggetto** della percezione, non dell'oggetto. Con questo rovesciamento dialettico la coscienza diventa autocoscienza.    
+* **coscienza** (tesi): è il conoscere ciò che mi sta di fronte. Questa conoscenza **non va a fondo nella realtà**, deve invece riconoscere che ci sono dei concetti universali (spazio, tempo, ...) attraverso i quali posso affermare che un oggetto è vero
+* **autocoscienza** (antitesi): La sostanza non è nulla di reale, è solo un concetto del soggetto, quindi devo **occuparmi del soggetto** della percezione, non dell'oggetto. Con questo rovesciamento dialettico la coscienza diventa autocoscienza.  
   2 autocoscienze che si incontrano **si scontrano**, perché entrambe vogliono essere il soggetto. L'autocoscienza che non è disposta a sottomettersi diventa padrone, l'altra servo. Il servo però attraverso il lavoro evolve la sua conoscenza, rovesciamento dialettico: il servo diventa padrone.
 * spirito (sintesi): la realtà intesa come continuo divenire, l'idea che dopo essersi alienata nella natura ritorna pienamente in-sè nell'uomo
 
