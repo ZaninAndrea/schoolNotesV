@@ -3,6 +3,7 @@ category: "Filosofia"
 title: "Schopenhauer"
 pdfCompletoPath: "filo-schopenhauer.pdf"
 index: 2
+draft: false
 ---
 
 # Schopenhauer

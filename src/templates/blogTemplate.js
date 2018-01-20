@@ -56,7 +56,7 @@ export default function Template({ data, location: { pathname } }) {
         {frontmatter.pdfCompletoPath ? (
           <a
             className="downloadAppunti"
-            href={"/schoolNotesV/pdfs/" + frontmatter.pdfCompletoPath}
+            href={"/pdfs/" + frontmatter.pdfCompletoPath}
             download
           >
             <i className="fas fa-download" />&nbsp;&nbsp;Download appunti lunghi
@@ -70,13 +70,15 @@ export default function Template({ data, location: { pathname } }) {
       </div>
       <div className="sidebarList">{headingsList}</div>
       <div className="notesMain">
+        {frontmatter.draft ? (
+          <p className="draft">Questi appunti non sono completi</p>
+        ) : (
+          ""
+        )}
         <div
           className="markdown-body"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-        <br />
-        <br />
-        <br />
       </div>
     </div>
   );
@@ -91,6 +93,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         pdfCompletoPath
+        draft
       }
       headings {
         value

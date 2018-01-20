@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Appunti Quinta",
-    siteUrl: `http://andreazanin.me/schoolNotesV/`
+    siteUrl: `http://andreazanin.me/`
   },
   plugins: [
     "gatsby-plugin-react-helmet",

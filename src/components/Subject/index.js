@@ -35,7 +35,8 @@ class Subject extends Component {
               }
               className="notesLink"
             >
-              {page.node.frontmatter.title}
+              {page.node.frontmatter.title +
+                (page.node.frontmatter.draft ? " (bozza)" : "")}
             </Link>
           ));
     return (

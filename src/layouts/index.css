@@ -100,7 +100,7 @@ div {
   grid-area: main;
   overflow: auto;
   margin: 0;
-  padding: 0 calc((100% - 800px)/2);
+  padding: 15px calc((100% - 800px)/2) 35px calc((100% - 800px)/2);
 }
 .sidebarList {
   grid-area: sidebarList;
@@ -148,4 +148,14 @@ div {
 .navigationLinks {
   text-decoration: none;
   color: #ac005d;
+}
+
+p.draft {
+  width: 100%;
+  background: #ac005d;
+  margin: 15px 0;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
 }

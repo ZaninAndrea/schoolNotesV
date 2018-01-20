@@ -1,8 +1,8 @@
 ---
 category: "Filosofia"
 title: "Nietzsche"
-# pdfCompletoPath: "filo-fichte-schelling-hegel.pdf"
 index: 3
+draft: false
 ---
 
 # Nietzsche

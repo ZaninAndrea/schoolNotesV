@@ -3,6 +3,7 @@ category: "Filosofia"
 title: "Fichte, Schelling, Hegel"
 pdfCompletoPath: "filo-fichte-schelling-hegel.pdf"
 index: 1
+draft: false
 ---
 
 # Fichte

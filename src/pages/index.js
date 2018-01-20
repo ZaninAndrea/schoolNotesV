@@ -55,6 +55,7 @@ export const query = graphql`
             title
             index
             category
+            draft
           }
         }
       }
