@@ -74,15 +74,37 @@ Un acetale è una molecola di questo tipo
 * la cellulosa ha legami beta glicosidici, che gli permettono di formare legami a idrogeno, rendendola molto resistente
 
 # Acidi carbossilici
-
+* fusione del gurppo carbonile e ossidrile da il gruppo carbossilico
 * nomeclatura, e.g. acido etanoico
+* acidi grassi saturi e insaturi
+    * saturi e insaturi, gli insaturi trans hanno un curvatura piccola, quelli cis grande
+    * omega 3-6-9 in base al carbonio dell'ultimo doppio legame dalla fine
+* alto punto di ebollizione (120 gradi), si abbassa all'aumentare dei doppi legami, molto solubili il metanoico, etanoico e propanoico, gli altri sempre meno solubili
+* acidi deboli, Ka 10^-5, per effetto induttivo e delocalizzazione
+* formazione di sali (saponi), reazione di doppio scambio con una base forte
+* sostituzione nucleofila acilica
+    * acile: acido carbossilico il cui grupppo -OH è stato sostituito da una specie chimica diversa
 
-Punto di ebollizione a parità di peso molecolare: alcoli e fenoli > alogenuri, aldeidi e chetoni >> idrocarburi e eteri
+# Esteri
+* esterificazione di Fischer, acido carbossilico e alcol si combinano in un etere rilasciando acqua
+* nomenclatura
+* punto di ebollizione basso, minore degli alcoli
+* glicerolo + acidi carbossilici => grasso (estere)
+* cere: un acido carbossilico a catena lunga e un alcol a catena lunga
+* da un grasso per idrolisi alcalina torniamo al glicerolo e agli acidi grassi, questi ultimi reagiscono con la base per dare un sapone
+* il sapone cattura i grassi, ma sel'acqua è troppo dura (con molto Ca) si formano dei sali insolubili
+* gli alchilbenzensolfonati (ABS) sono stati i primi detergenti sintetici e non danno precipitati in acque dure, però dato che hanno molte ramificazioni non sono biodegradabili, per questo furono sostituiti dagli alchilsolfonati lineari (LAS)
+* struttura del DNA
+
+
+# Varie
+Punto di ebollizione a parità di peso molecolare: alcoli e fenoli > esteri, alogenuri, aldeidi e chetoni >> idrocarburi e eteri
 Acidità:
 
 * alcoli Ka 10^-16
   * alcol metilico > primario > secondario > terziario
 * fenoli Ka 10^-10 (fino a Ka 10^-1 se sono presenti sostituenti elettronegativi)
+* acidi carbossilici Ka 10^-5
 
 esercizi: p192
 
