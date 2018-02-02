@@ -50,7 +50,7 @@ Per Hegel non esiste la cosa in sè, esiste solo il mondo come lo pensiamo noi, 
 ### Il metodo dialettico
 
 Per Hegel da un concetto determinato, **tesi**, se ne **deduce** un altro, **antitesi**, e l'insieme dei 2 produce la **sintesi**.  
-La tesi è compresa con l'**intelletto** (facoltà del finito), ossia come separata dal suo oppposto, ma questo è contraddittorio, perché l'essenza di un concetto è legata al suo opposto. La sintesi invece è prodotta dalla **ragione** (facoltà dell'infinito).
+La tesi è compresa con l'**intelletto** (facoltà del finito), ossia come separata dal suo oppposto, ma questo è contraddittorio, perché l'essenza di un concetto è legata al suo opposto (*omnis determinatio est negatio*). La sintesi invece è prodotta dalla **ragione** (facoltà dell'infinito).
 
 Hegel usa il verbo **aufhebung** (togliere) per indicare che tesi e antitesi vengono tolte per essere unite nella sintesi.
 
@@ -71,7 +71,6 @@ La filosofia dello spirito è la concretizzazione in cultura della razionalità 
 
 La filosofia dello spirito si sviluppa in:
 
-* assoluto
 * oggetto:
   * diritto: proprietà --> contratto --> diritto contro il torto
   * morale
@@ -80,6 +79,7 @@ La filosofia dello spirito si sviluppa in:
   * antropologia (studia lo spirito naturale dell'uomo; es. istinti, abitudini)
   * fenomenologia dello spirito; produzioni culturali umane
   * psicologia (immaginazioni, memoria, sentimenti)
+* assoluto
 
 ### Filosofia dello spirito dell'oggetto
 

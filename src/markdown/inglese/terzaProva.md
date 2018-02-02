@@ -1,8 +1,8 @@
 ---
 category: "English literature"
-title: "From Austen to Dickens"
+title: "From Austen to the Victorian Age"
 index: 1
-draft: true
+draft: false
 ---
 
 
@@ -65,3 +65,78 @@ With the **Poor Law** of 1834 poor were amassed in **workhouses** that closely r
 
 Various social reforms were passed: women and children employment in mines was forbidden, **unions were legalized** and catholics were accepted in the government.  
 During this period the Conservatives, the Liberals and the Labour Party were born.
+
+### The British Empire
+#### The Irish question
+Due to various **famines**, the potato blight of 1845 in particular, many Irish people were left with **emigration** as their only alternative to starvation.  
+A movement for Irish independece tried presented the **Irish Home Rule Bill**, but it was rejected. The home rule is self=government.
+
+#### Foreign policy
+Britain set herself at the head of **liberal forces in Europe**. In the **Crimean War** Britain sided with Turkey and defeated Russia.
+
+During Victoria's reign **the British Empire greatly expanded**:
+- Australia and New Zeland became important centres for cattle
+- Britain started to rulee directly over India
+- the Suez Canal was realized
+- Britain won the **Boer War**, gaining territories rich in gold and diamonds
+
+### The American Frontier and the Civil War
+#### The Growth of the USA and the Gold Rush
+Thanks to the **millions of immigrants** the economy of the US grew enormously. Most of those workers settled in new territories in the West, expanding the so called **Frontier**.  
+After gold was discovered in California many people from all over the world came to look for it, this was the **Gold Rush**.  
+The South was mainly agricultural, while the North had industries and a flourishing shipping trade.
+
+#### The Civil War (1861-65)
+**The conflict arouse due to slavery**, practiced in the South, while opposed in the North, but it was also a conflict of different economies.  
+**The North won** and slavery was abolished.
+
+The USA recovered well from the civil war and their production began to outclass even Britain's.
+
+## The Victorian compromise
+### Respectability and hypocrisy
+*Victorian* is now associated with ***prudery***, altough this is not false, it's also true that many of the most unpleasant aspects were inherited from previous times.  
+The Victorian establishment tried to **cover the unpleasant aspects of life** with a veil of respectability and optimism.
+
+The **outward strictness** of Victorian morals was **incoherent** with the private life that the upper and middle class led. For example indirectly pushing thousands of women into prostitution.  
+This hypocrisy eventually led to the collapse of the Victorian standards.
+
+### Concerns for the poor and the environment
+The reaction to liberalism and industrialism was strong, many feared that Britain would split into "two nations": **the poor and the rich**. The miserable conditions of the working class inspired Marx and Engels their communist theories.  
+The were also concerns for the **damage to the environment**
+
+## The Victorian novel
+### Early Victorian novel
+For the firt time in history the novel became the **leading genre**, because it reflected the practical bent of the times, the scientific innovation and the economic developments.
+
+Victorian readers expected to be **instructed and entertained** at the same time. At the same time the writers **avoided themes that could cause shock** conforming to the moral standards.
+
+The most renowned novelist of the age was **Charles Dickens**. He shows his consciousness for themes like social injustice, poverty and corruption. He uses the **comical** to highlight those issues, however he **doesn't question the roots of society** and instead divides characters into good and bad people.
+
+Emily Bronte wrote **Wuthering Heights**, the archetype of the novel of Romantic love: the hero, Heathcliff, is a **Romantic dark hero** consumed by his love for Catherine. Tha latter although loving him marries another man to **follow social conventions**, their ghost continue to love each other after death.  
+In the ending we see the influence of Romantic and **Gothic themes**.
+
+In Charlotte Bronte's *Jane Eyre* we find a mix of realism and imagination.
+
+The general tendency of the age is that of a **mild realism**, the caracters tend to be acceptable by everyone, the public relates with them through **comedy** or the **drama of passion**.  
+The narrator is usually omniscent, with *Wuthering Heights*' 3 narrators being the great exception.
+
+### Late Victorian novel
+In the late Victorian Age ***Realism*** develops, this literary movements intends to **capture reality** in the most **precise and unjudging** way possible.  
+It dealt with the influence of the social environment on man and the complex workings of the mind and the conscience.  
+Its **predilection for poor social settings** was a reaction against the Victorian ideology.
+
+#### Stevenson
+Stevenson's masterpiece ***Dr. Jekyll and Mr. Hyde*** on a superficial level is a horror story, but on a deeper level the book **poses serious questions about human nature** and states that science cannot hope to divided the inherently bad part of mankind from the good, thus **striking at the core of the Victorian compromise**.
+
+#### Hardy
+Thomas Hardy called his works "Novels of Character and Environment", the 2 elements that, he thought, shape a man's destiny. He was inspired by Schopenhauer's *Immanent Will*.
+
+#### Wilde and Aestheticism
+The **Aesthetic Movement** beliefs are summed up in the slogan ***Art for Art's sake***, ths implied a total detachment from sociall and moral issues.  
+The most important writer of this stream is **Oscar Wilde**, he only wrote one novel: ***The Picture of Dorian Gray***, but it was immensely successful.  
+The main characters is Dorian Gray, a man who stays forever young, while his portrait ages.
+The philosophy of the book is the cult of the beautiful things and the indifference to social issues.
+
+#### Colonial novels
+With the expansion of the British Empire novels started to talk about this territories.  
+**Richard Kipling** was the first major  writer to explore the relationship between the British and the Indians, but he never questions the right of the British to be in India, he thinks that they are there to take up ***the white man's burden***.

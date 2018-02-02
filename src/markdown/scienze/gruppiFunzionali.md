@@ -38,8 +38,11 @@ draft: true
 # Eteri
 
 * nomenclatura
+* proprietà fisiche: punto di ebollizione basso (uguale ad un alcano con lo stesso pm), insolubili
 * preparazione dalla disidratazione di alcoli: meccanismo SN2 di una molecola di alcol su una seconda molecola di alcol protonato
 * sintesi di wilson
+    * primo passaggio: reazione acido base tra un alcol e una base forte, otteniamo un alcossido
+    * secondo passaggio: reazione di scambio doppio tra alcossido e alogenuro, otteniamo un etere e un sale
 
 # Aldeidi e chetoni
 
@@ -53,16 +56,16 @@ draft: true
 * saggio di Tollens
 * aldeide + eccesso alcol da un acetale
 
-# Aldosi
+## Aldosi
 
 * D --> OH legato allo stereocentro più lontano dal carbonile è a destra, L se è a sinistra
 * treosio se gli OH sono da parti opposte, eritrosio se i 2 OH sono dalla stessa parte
 
-# Chetosi
+## Chetosi
 
 * il gruppo carbonilico è generalmente in posizione 2, altrimenti va indicato nella nomenclatura
 
-# Disaccaridi, polisaccaridi
+## Disaccaridi, polisaccaridi
 
 Un acetale è una molecola di questo tipo  
 ![acetale](/images/acetale.svg)
@@ -70,11 +73,11 @@ Un acetale è una molecola di questo tipo
 * Un disaccaride è un acetale in cui l'-OH sul carbonio anomerico del monosaccaride di partenza è sostituito da un gruppo -OR
 * amilosio: 1-4 alfa (componente lineare), amilopectina: 1-6 alfa (componente ramificata)
 * glicogeno più ramificato dell'amido
-* il glicogeno è insolubile, quindi viene usato per conservare il glucosio negli animali, perché non prova ipertonicità
+* il glicogeno è insolubile, quindi viene usato per conservare il glucosio negli animali, perché non provoca ipertonicità
 * la cellulosa ha legami beta glicosidici, che gli permettono di formare legami a idrogeno, rendendola molto resistente
 
 # Acidi carbossilici
-* fusione del gurppo carbonile e ossidrile da il gruppo carbossilico
+* fusione del gruppo carbonile e ossidrile da il gruppo carbossilico
 * nomeclatura, e.g. acido etanoico
 * acidi grassi saturi e insaturi
     * saturi e insaturi, gli insaturi trans hanno un curvatura piccola, quelli cis grande
@@ -97,15 +100,35 @@ Un acetale è una molecola di questo tipo
 * struttura del DNA
 
 
-# Varie
-Punto di ebollizione a parità di peso molecolare: alcoli e fenoli > esteri, alogenuri, aldeidi e chetoni >> idrocarburi e eteri
-Acidità:
+# Proprietà fisiche
+## Punto di ebollizione
+Punto di ebollizione a parità di peso molecolare in ordine decrescente:
+1. alcoli, fenoli e acidi carbossilici
+2. esteri, alogenuri, aldeidi e chetoni
+3. idrocarburi e eteri
 
+## Acidità
 * alcoli Ka 10^-16
   * alcol metilico > primario > secondario > terziario
 * fenoli Ka 10^-10 (fino a Ka 10^-1 se sono presenti sostituenti elettronegativi)
 * acidi carbossilici Ka 10^-5
 
+## Solubilità
+| Sostanza | Solubile |
+|:--------:|:--------:|
+| alogenuri | no |
+| alcoli a catena corta | si |
+| alcoli a catena lunga | no | 
+| fenoli | si in acqua calda, poco in acqua fredda | 
+| eteri | no |
+| aldeidi e chetoni | si, molto se a basso pm |
+| acidi carbossilici a catena corta | si |
+| acidi carbossilici a catena lunga | poco |
+| esteri a catena corta | si |
+| esteri a catena lunga | no |
+
+
+# Varie
 esercizi: p192
 
 ordine di importanza dei sostituenti: OH e C=O > doppi legami > alogeni > alcani

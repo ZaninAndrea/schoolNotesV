@@ -14,7 +14,7 @@ Nietzsche tende a far filosofia per aforismi o brevi paragrafetti architettati p
 
 ## Spirito apollineo e dionisiaco
 
-Nietzsche indivuda 2 spiriti nella grecitàa classica:
+Nietzsche indivuda 2 spiriti nella grecità classica:
 
 * **dionisiaco**: porta l'uomo alla distruzione ed è il primo ad apparire storicamente
 * **apollineo**: è lo spirito della misura e dell'ordine appare successivamente
@@ -25,7 +25,7 @@ L'uomo ha paura del dionisiaco e quindi sceglie l'apollineo.
 
 L'uomo crede di essere speciale perché intelligente, ma l'intelligenza è solo un mezzo per la conservazione.
 
-L'uomo si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale omnium contra omnes (Hobbes).  
+L'uomo si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale *omnium contra omnes* (Hobbes).  
 La pulsione dell'uomo verso la verità in realtà è verso l'autoconservazione.
 
 La realtà è un chaos e ci siamo inventati la verità per cercare di riordinarlo, ma ci riusciamo solo in parte.
@@ -101,7 +101,7 @@ Zaratustra è un saggio che viaggia per il mondo in un percorso spirituale che r
 Il cammino della coscienza dagli idoli della superstizione e dalle menzogne della morale al dionisiaco e al superuomo viene raffigurato da Nietzsche in 3 tappe:
 
 1. **cammello** che rappresenta l'uomo che si piega davanti alla maestà di Dio, lo spirito crede che la sua realizzazione sia sottoporre sé stesso a tutte le privazioni gravose, anteporre gli altri a sé
-2. **leone** ("Io voglio") che reagisce e combatte e sconfigge il drago ("Tu devi), che rappresenta i valori tradizionali, il leone però vive solo per contrapporsi hai valori tradizionali e ciò non ha senso, dobbiamo arrivare al ...
+2. **leone** ("Io voglio") che reagisce e combatte e sconfigge il drago ("Tu devi"), che rappresenta i valori tradizionali, il leone però vive solo per contrapporsi hai valori tradizionali e ciò non ha senso, dobbiamo arrivare al ...
 3. **fanciullo** che esprime l'essenza dionisiaca della libertà umana, è un nuovo inizio, dopo aver abbattuto la tradizione il fanciullo è in grado di creare qualcosa di nuovo. Il fanciullo è l'ubermensch
 
 ### Eterno ritorno

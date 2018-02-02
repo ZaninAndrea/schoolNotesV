@@ -12,7 +12,7 @@ L'opera principale di Schopenhauer è "Il mondo come volontà e rappresentazione
 Dal punto di vista conoscitivo ha ragione Kant: la realtà può essere compresa solo come rappresentazione, ma possiamo anche intuire il mondo attraverso la **volontà**, perché abbiamo un corpo desiderante.  
 La verità è quindi coperta dal "velo di Maja" dei fenomeni e delle rappresentazioni che ci impedisce di capire che la vera radice del mondo è volontà.
 
-**KANT E SCHOPENHAUER**: Schopenhauer viola il principio Kantiano dll'impossibilità di conoscere la cosa in sè.
+**KANT E SCHOPENHAUER**: Schopenhauer viola il principio Kantiano dell'impossibilità di conoscere la cosa in sè.
 
 **HEGEL E SCHOPENHAUER**: Per Hegel la vera natura del mondo è razionalità, per Schopenhauer invece è la volontà.
 
