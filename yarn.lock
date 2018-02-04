@@ -3218,8 +3218,8 @@ gatsby-source-filesystem@^1.5.11:
     valid-url "^1.0.9"
 
 gatsby-transformer-nimbl@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-nimbl/-/gatsby-transformer-nimbl-1.0.0.tgz#793682e9cf0db818ea77a90424c95960ecc2ba63"
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-nimbl/-/gatsby-transformer-nimbl-1.0.1.tgz#a23a2ec4b000fa421d1b15b45f2432763751fc8b"
   dependencies:
     front-matter "^2.3.0"
     nimbl-renderer "^1.0.1"

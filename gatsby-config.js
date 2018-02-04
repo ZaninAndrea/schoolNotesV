@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/markdown`,
+        path: `C:\\Users\\zanin\\Documents\\notes\\school-notes5a`,
         name: "markdown-pages"
       }
     },
