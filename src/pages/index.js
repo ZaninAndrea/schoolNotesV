@@ -6,7 +6,7 @@ class IndexPage extends Component {
   constructor(props) {
     super(props);
 
-    const categories = props.data.allMarkdownRemark.edges
+    const categories = props.data.allNimblRenderedHtml.edges
       .map(item => item.node.frontmatter.category)
       .filter(function(elem, index, self) {
         return index === self.indexOf(elem);
@@ -25,7 +25,7 @@ class IndexPage extends Component {
     }));
 
   render = () => {
-    const pages = this.props.data.allMarkdownRemark.edges;
+    const pages = this.props.data.allNimblRenderedHtml.edges;
 
     return (
       <div className="indexContainer">
@@ -47,7 +47,7 @@ export default IndexPage;
 
 export const query = graphql`
   query LayoutQuery {
-    allMarkdownRemark {
+    allNimblRenderedHtml {
       totalCount
       edges {
         node {

@@ -9,11 +9,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark {
+      allNimblRenderedHtml {
         edges {
           node {
-            excerpt(pruneLength: 250)
-            html
             id
             frontmatter {
               title
@@ -29,7 +27,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       return Promise.reject(result.errors);
     }
 
-    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    result.data.allNimblRenderedHtml.edges.forEach(({ node }) => {
       createPage({
         path:
           "/" +

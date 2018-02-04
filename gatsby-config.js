@@ -5,7 +5,6 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
-    `gatsby-transformer-remark`,
     `gatsby-plugin-catch-links`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -18,9 +17,30 @@ module.exports = {
       resolve: `gatsby-plugin-sitemap`
     },
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: "gatsby-transformer-nimbl",
       options: {
-        plugins: [`gatsby-remark-autolink-headers`]
+        mdSettings: {
+          isPreview: false,
+          html: true,
+          linkify: false,
+          typographer: false,
+          breaks: true,
+          checkbox: true,
+          anchor: true,
+          toc: true,
+          tocLevels: [1, 2, 3, 4],
+          katex: true,
+          smartarrows: true,
+          alert: true,
+          note: true,
+          spoiler: true,
+          url: true,
+          video: true,
+          graph: true,
+          highlighter: true,
+          reviewQuestion: true
+        },
+        dir: "."
       }
     }
   ]
