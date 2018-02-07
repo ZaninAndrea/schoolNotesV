@@ -41,13 +41,13 @@ div {
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: minmax(30%, min-content) auto;
+  grid-template-columns: minmax(340px, 30%) auto;
   grid-template-rows: 70px auto;
   grid-column-gap: 10px;
   grid-template-areas: "sidebarDownload main" "sidebarList main";
 }
 
-@media screen and (orientation: portrait), screen and (max-width: 600px) {
+@media screen and (orientation: portrait), screen and (max-width: 850px) {
   .notesContainer {
     grid-template-columns: auto;
     grid-template-rows: auto;
@@ -66,7 +66,7 @@ div {
 }
 
 @supports (-ms-ime-align: auto) {
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .notesMain {
       display: block;
       min-height: calc(100vh - 90px);
