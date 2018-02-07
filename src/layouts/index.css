@@ -237,3 +237,7 @@ a.linkPreviewText:hover {
   overflow: hidden;
   text-decoration: none;
 }
+
+.katex-mathml {
+  display: none;
+}
