@@ -1,7 +1,3 @@
-html {
-  overflow: hidden;
-}
-
 body {
   margin: 90px 0 0 0;
   padding: 0;
@@ -54,14 +50,18 @@ div {
 @media screen and (orientation: portrait), screen and (max-width: 600px) {
   .notesContainer {
     grid-template-columns: auto;
-    grid-template-areas: "sidebarDownload" "main";
+    grid-template-rows: auto;
+    grid-template-areas: "main";
   }
 
   .sidebarList {
     display: none;
   }
   .notesMain {
-    padding: 15px !important;
+    padding: 10px !important;
+  }
+  .sidebarDownload {
+    display: none;
   }
 }
 
