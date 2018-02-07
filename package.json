@@ -4,29 +4,30 @@
   "version": "1.0.0",
   "author": "Andrea Zanin <99.zanin@gmail.com>",
   "dependencies": {
+    "front-matter": "^2.3.0",
     "gatsby": "^1.9.153",
     "gatsby-link": "^1.6.34",
     "gatsby-plugin-catch-links": "^1.0.14",
     "gatsby-plugin-react-helmet": "^2.0.3",
     "gatsby-plugin-sitemap": "^1.2.9",
-    "gatsby-remark-autolink-headers": "^1.4.11",
     "gatsby-source-filesystem": "^1.5.11",
-    "gatsby-transformer-remark": "^1.7.28",
+    "gatsby-transformer-nimbl": "^1.0.0",
     "gatsby-transformer-yaml": "^1.5.14",
     "github-slugger": "^1.2.0",
+    "nimbl-renderer": "^1.0.1",
     "react-helmet": "^5.2.0"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format":
-      "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy":
-      "gatsby build --prefix-paths && gh-pages -d public -b master -r https://github.com/ZaninAndrea/ZaninAndrea.github.io.git"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master -r https://github.com/ZaninAndrea/ZaninAndrea.github.io.git"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0",

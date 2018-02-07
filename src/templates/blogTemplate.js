@@ -4,8 +4,8 @@ import Link from "gatsby-link";
 import GithubSlugger from "github-slugger";
 
 export default function Template({ data, location: { pathname } }) {
-  const { markdownRemark } = data; // data.markdownRemark holds our post data
-  const { frontmatter, html, headings } = markdownRemark;
+  const { nimblRenderedHtml } = data; // data.nimblRenderedHtml holds our post data
+  const { frontmatter, html, headings } = nimblRenderedHtml;
   const slugger = new GithubSlugger();
 
   function renderList(list, depth) {
@@ -86,7 +86,7 @@ export default function Template({ data, location: { pathname } }) {
 
 export const pageQuery = graphql`
   query BlogPostByPath($category: String!, $title: String!) {
-    markdownRemark(
+    nimblRenderedHtml(
       frontmatter: { category: { eq: $category }, title: { eq: $title } }
     ) {
       html

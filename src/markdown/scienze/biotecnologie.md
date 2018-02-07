@@ -85,9 +85,9 @@ Ci sono vari tipi di cellule staminali:
 * **cellule pluripotenti**, sono leggermente differenziate, possono essere utilizzate per ricostruire un organo danneggiato (date le difficoltà non sono ancora utilizzate in medicina)
 * **cellule multipotenti o unipotenti**: possono diventare pochi tipi o un solo tipo di cellule, ma continuano a riprodursi all'infinito
 
-\*Le blastocisti sono disponibili** in quanto prodotte in eccesso durante la fecondazione assistita, **non sono però utilizzabili** secondo la legge italiana, dobbiamo quindi comprarle dall'estero.
+**Le blastocisti sono disponibili** in quanto prodotte in eccesso durante la fecondazione assistita, **non sono però utilizzabili** secondo la legge italiana, dobbiamo quindi comprarle dall'estero.
 Un tempo durante la fecondazione assistita potevano essere prodotte solo 3 blastocisti, adesso il limite è stato alzato per assicurare maggior chance di successo.
-Le blastocisti in eccesso sono tenute sotto **azoto liquido\*\*.
+Le blastocisti in eccesso sono tenute sotto **azoto liquido**.
 
 Il **metodo Yamanaka** permmette di produrre cellule staminali da cellule adulte, inducendo la **dedifferenziazione** utilizzando dei **virus** che impiantano dei geni nella coltura cellulare.
 Nell'arco di 3/4 settimane diventano delle staminali pluripotenti.
