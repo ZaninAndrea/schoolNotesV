@@ -116,6 +116,10 @@ div {
 .sidebarList li {
   list-style-type: none !important;
 }
+
+.sidebarList > ul {
+  padding-left: 10px;
+}
 .sidebarDownload {
   height: 70px;
   grid-area: sidebarDownload;

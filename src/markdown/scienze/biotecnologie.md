@@ -5,13 +5,11 @@ index: 2
 draft: false
 ---
 
-# Biotecnologie
-
 Le biotecnologie possono essere definite come
 
 > ogni tecnologia che utilizza organismi viventi o loro componenti sub-cellulari purificati al fine di ottenere notevoli quantità di prodotti utili oppure per migliorare le caratteristiche di piante e animali o per sviluppare microrganismi utili per specifici usi
 
-## Biotecnologie classiche
+# Biotecnologie classiche
 
 Le bitoecnologie classiche comprendono attività come la fermentazione,la lievitazione, l'incrocio e la selezione artificiale.
 
@@ -33,13 +31,13 @@ Oltre alla selezione artificiale abbiamo introdotto:
 
 Il limite delle biotecnologie classiche è che non possiamo selezionare un singolo gene e che possiamo fare incroci solo tra specie molto vicine dal punto di vista genetico.
 
-## Nuove biotecnologie
+# Nuove biotecnologie
 
-### Tecnologia delle colture cellulari
+## Tecnologia delle colture cellulari
 
 Possiamo coltivare singole cellule in vitro invece che interi organismi, ci\o permette di ridurre notevolmente i tempi di ricerca.
 
-#### Cellule vegetali
+### Cellule vegetali
 
 I vegetali si prestano particolarmente a questa tecnologia in quanto è più facile indurre un processo di **dedifferenziazione**. Con questo processo si può partendo da una foglia riprodurre l'intera pianta.
 
@@ -56,7 +54,7 @@ Questa tecnologia permette di:
 * fare rapidi screening e modifiche del corredo genetico
 * favorisce la conservazione di piante in vita
 
-#### Cellule animali
+### Cellule animali
 
 **Sistema modello** una riproduzione in piccola scala dell'ambiente in cui un farmaco/cosmetico/... verrà utilizzato per fare test.
 
@@ -75,7 +73,7 @@ Procedimento:
 
 Tra le linee cellulari degne di nota c'è quella di Henrietta Lacks.
 
-#### Cellule staminali
+### Cellule staminali
 
 Le cellule staminali sono cellule non differenziate che continuano a dividersi.
 
@@ -95,9 +93,9 @@ Il problema è che il virus potrebbe modificare altri geni.
 
 Le cellule staminali pluripotenti, perché non le sappiamo controllare, vengono invece utilizzare quelle unipotenti per rigenerare tessuti.
 
-### Tecnologia del DNA ricombinante
+## Tecnologia del DNA ricombinante
 
-#### Tagliare il DNA
+### Tagliare il DNA
 
 Gli **enzimi di restrizione** sono estratti dai batteri, che li usano per difendersi dai virus, e sono in grado di riconoscere e tagliare alcune sequenze di dna.
 
@@ -105,7 +103,7 @@ Alcuni enzimi possono fare un taglio assimmetrico altri un taglio netto. Nel cas
 
 Mescolando DNA con estremità coesive con il tratto di DNA che voglio inserire, alle cui estremità ho aggiunto le stesse sequenze che l'enzima ha tagliato, i 2 tendono a legarsi "riparando" il DNA.
 
-#### Separare miscele di frammenti di DNA
+### Separare miscele di frammenti di DNA
 
 Per separare frammenti di DNA di **lunghezze diverse** si può usare l'**elettroforesi su gel di agarosio**.
 
@@ -122,11 +120,11 @@ Per questo 2 campioni di DNA provenienti dalla stessa persona avranno le bande c
 
 Si preferisce usare **DNA mitocondriale**, perché ha una variabilità maggiore, riduce quindi il rischio di trovare 2 persone con le stesse sequenze.
 
-#### Incollare il DNA
+### Incollare il DNA
 
 La **DNA ligasi** è in grado di legare assieme frammenti di DNA.
 
-#### Identificare un frammento di DNA
+### Identificare un frammento di DNA
 
 Supponiamo di aver separato una serie di frammenti di DNA, per individuare un particolare frammento posso creare un frammento a filamento singolo con le basi complementari, detto **sonda**. La sonda si lega solo al filamento corrisponendente.
 
@@ -138,7 +136,7 @@ La sonda è marcata in modo da riconoscere dove si è legata.
 
 Questa tecnica è detta **Southern blotting**.
 
-#### Copiare il DNA
+### Copiare il DNA
 
 La **DNA polimerasi** è in grado di leggere un filamento stampo e produrre il complementare. Ha però bisogno di un **primer** con l'estremità 3' libera.
 
@@ -154,7 +152,7 @@ Quindi se vogliamo selezionare un gene scegliamo l'RNA maturo, che ha già perso
 
 Scegliere l'RNA ha anche il vantaggio che devo pescare solo tra i geni espressi invece che tra tutti i geni dell'organismo, perché solo quelli espressi danno origine a RNA.
 
-#### Amplificare il DNA
+### Amplificare il DNA
 
 La **PCR** (polymerase chain reaction) permette di amplificare in modo selettivo una regione del DNA.
 
@@ -175,7 +173,7 @@ Il ciclo si ripete molte volte e ogni volta riparte con una quantità maggiore d
 
 All'inizio viene prodotto DNA oltre il frammento interessato, ma diventa minoritario in pochi cicli.
 
-#### Sequenziare il DNA
+### Sequenziare il DNA
 
 Il metodo Sanger inventato nel 1975 permette di riconoscere la sequenza delle basi azotate di un campione di DNA.
 
@@ -193,7 +191,7 @@ Con tanti frammenti sono sicuro di avere catene con il terminatore su ogni base 
 
 Lavorare con sequenze lunghe è problematico, quindi si tagliano e si sequenziano le sequenze corte, che poi vengono _riassemblate_ analizzando le svorapposizioni digitalmente.
 
-##### Progetto Genoma
+#### Progetto Genoma
 
 Il progetto genoma ha sequenziato tutto il genoma umano nell'arco di 15 anni.
 
@@ -203,7 +201,7 @@ Il mappaggio dei geni inoltre ha avuto ricadute importanti nella medicina, nella
 
 Ciò ha anche avuto ricardute filosofiche, ad esempio la profilazione genetica al momento dell'assunzione, per evitare di assumere potenziali malati.
 
-#### CRISPR
+### CRISPR
 
 https://www.youtube.com/watch?v=jAhjPd4uNFY
 
@@ -216,7 +214,7 @@ I genetisti stanno utilizzando questo enzima per tagliare una sezione di DNA pre
 
 CRISPR permette di studiare l'effetto di un gene inattivandolo.
 
-#### Clonaggio del DNA
+### Clonaggio del DNA
 
 A differenza della PCR il clonaggio
 
@@ -239,7 +237,7 @@ Un'alternativa ai plasmidi, limitati nella lunghezza dei pezzi di DNA che posson
 Infine è possibile anche creare un **cromosoma artificiale**, in genere si usano dei lieviti, per l'affinità tra il loro DNA e quello di specie animali. Questi cromosomi possono trasportare sequenze anche molto lunghe.
 Il lievito oltre a duplicarsi e duplicare quindi il DNA può anche esprimerlo.
 
-##### Metodi fisici di inserimento del vettore
+#### Metodi fisici di inserimento del vettore
 
 Per inserire il vettore nella cellula ci sono più metodi.
 
@@ -249,7 +247,7 @@ Si può anche usare la **trasfezione**, ossia inserire con un ago sottilissimo u
 
 Possiamo anche usare il **cannone genico**, il DNA accoppiato con materiale inerte (come oro o tungsteno) viene letteralmente sparato nelle cellule.
 
-##### Metodi chimici di inserimento del vettore
+#### Metodi chimici di inserimento del vettore
 
 DNA in soluzione con fosfato di calcio viene naturalmente integrato nel DNA della cellula.
 
@@ -257,15 +255,15 @@ I liposomi, ossia piccole vesciocole lipidiche contenenti DNA, tendono naturalme
 
 Possiamo utilizzare i virus sia con la trasduzione generalizzata, sia con il cilo litico e lisogeno, ossia il virus si integra nella cellula e aspetta che essa si riproduca, poi ad un certo punto si attiva prendendo il controllo della cellula e facendole produrre il proprio DNA.
 
-##### Geni marcatori
+#### Geni marcatori
 
 Possiamo identificare se una cellula ha integrato il DNA utilizzando vari **marcatori**: resistenza agli antibiotici, GFP (green fluorescent protein), ...
 
-##### Biblioteche del DNA
+#### Biblioteche del DNA
 
 Posso utilizzare queste cellule con DNA inserito per conservare un determinato frammento di DNA
 
-#### Un esempio di applicazione: l'insulina
+### Un esempio di applicazione: l'insulina
 
 Nel 1980 si concludono le sperimentazioni sull'uomo della produzione batterica di insulina. Al giorno d'oggi quasi tutta l'insulina somministrata ai diabetici è batterica.
 
