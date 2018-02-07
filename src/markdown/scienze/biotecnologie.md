@@ -3,6 +3,7 @@ category: "Scienze"
 title: "Biotecnologie"
 index: 2
 draft: false
+pdfCompletoPath: "biotecnologie.pdf"
 ---
 
 Le biotecnologie possono essere definite come
@@ -11,7 +12,7 @@ Le biotecnologie possono essere definite come
 
 # Biotecnologie classiche
 
-Le bitoecnologie classiche comprendono attività come la fermentazione,la lievitazione, l'incrocio e la selezione artificiale.
+Le biotecnologie classiche comprendono attività come la fermentazione,la lievitazione, l'incrocio e la selezione artificiale.
 
 Tutte gli organismi sono soggetti a **variabilità genomica**, e.g. crossing over dei cromosomi, coniugazione batterica (2 batteri si scambiano geni).
 
