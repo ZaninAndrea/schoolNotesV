@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Appunti Quinta",
-    siteUrl: `http://andreazanin.me/`
+    siteUrl: `http://zaninandrea.github.io`
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `C:\\Users\\zanin\\Documents\\notes\\school-notes5a`,
+        path: `./src/markdown`,
         name: "markdown-pages"
       }
     },

@@ -5,7 +5,7 @@ import Helmet from "react-helmet";
 import Header from "../components/Header";
 import "./index.css";
 import "./github-markdown.css";
-import "./katex.min.css";
+// import "./katex.min.css";
 
 const TemplateWrapper = ({ children }) => (
   <div className="main">
@@ -19,6 +19,11 @@ const TemplateWrapper = ({ children }) => (
           href: "https://use.fontawesome.com/releases/v5.0.4/css/all.css",
           rel: "stylesheet"
         }
+        // {
+        //   href:
+        //     "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-beta1/katex.min.css",
+        //   rel: "stylesheet"
+        // }
       ]}
     />
     <Header />
