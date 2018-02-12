@@ -245,3 +245,7 @@ a.linkPreviewText:hover {
 .katex-mathml {
   display: none;
 }
+
+.sidebarList li a p {
+  margin: 5px 0;
+}

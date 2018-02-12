@@ -8,7 +8,7 @@ export default function Template({ data, location: { pathname } }) {
   const { frontmatter, html, headings } = nimblRenderedHtml;
   const slugger = new GithubSlugger();
 
-  function renderList(list, depth) {
+  function renderList(list, depth = 1) {
     let topLevel = [];
     for (let header of list) {
       if (header.depth !== depth && topLevel.length !== 0) {
@@ -16,6 +16,7 @@ export default function Template({ data, location: { pathname } }) {
       } else {
         topLevel.push({
           value: header.value,
+          rawText: header.rawText,
           children: []
         });
       }
@@ -35,10 +36,10 @@ export default function Template({ data, location: { pathname } }) {
         {list.map(item => (
           <li>
             <Link
-              to={"#" + slugger.slug(item.value)}
+              to={"#" + slugger.slug(item.rawText)}
               className="navigationLinks"
             >
-              {item.value}
+              <span dangerouslySetInnerHTML={{ __html: item.value }} />
             </Link>
             {generateHTMLList(item.children)}
           </li>
@@ -47,7 +48,7 @@ export default function Template({ data, location: { pathname } }) {
     );
   };
 
-  const headingsList = generateHTMLList(renderList(headings, 1));
+  const headingsList = generateHTMLList(renderList(headings));
 
   return (
     <div className="notesContainer">
@@ -98,6 +99,7 @@ export const pageQuery = graphql`
       headings {
         value
         depth
+        rawText
       }
     }
   }
