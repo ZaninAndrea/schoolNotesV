@@ -10,6 +10,7 @@ import "./katex.min.css";
 const TemplateWrapper = ({ children }) => (
   <div className="main">
     <Helmet
+      title="Appunti V"
       meta={[
         { name: "description", content: "Appunti presi durante la V" },
         { name: "keywords", content: "appunti, quinta" }
@@ -18,6 +19,10 @@ const TemplateWrapper = ({ children }) => (
         {
           href: "https://use.fontawesome.com/releases/v5.0.4/css/all.css",
           rel: "stylesheet"
+        },
+        {
+          href: "/favicons/logo512.png",
+          rel: "shortcut icon"
         }
       ]}
     />

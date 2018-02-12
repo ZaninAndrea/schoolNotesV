@@ -54,7 +54,7 @@ export default function Template({ data, location: { pathname } }) {
     <div className="notesContainer">
       <Helmet title={frontmatter.title} />
       <div className="sidebarDownload">
-        {frontmatter.pdfCompletoPath ? (
+        {/* {frontmatter.pdfCompletoPath ? (
           <a
             className="downloadAppunti"
             href={"/pdfs/" + frontmatter.pdfCompletoPath}
@@ -64,7 +64,7 @@ export default function Template({ data, location: { pathname } }) {
           </a>
         ) : (
           ""
-        )}
+        )} */}
         <a className="print" onClick={() => window.print()}>
           <i className="fas fa-print" />&nbsp;&nbsp;Stampa
         </a>
