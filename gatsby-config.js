@@ -4,6 +4,34 @@ module.exports = {
     siteUrl: `http://zaninandrea.github.io`
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Appunti V",
+        short_name: "AppuntiV",
+        start_url: "/",
+        background_color: "white",
+        theme_color: "#f85959",
+        display: "standalone",
+        icons: [
+          {
+            // Everything in /static will be copied to an equivalent
+            // directory in /public during development and build, so
+            // assuming your favicons are in /static/favicons,
+            // you can reference them here
+            src: `/favicons/logo192.png`,
+            sizes: `192x192`,
+            type: `image/png`
+          },
+          {
+            src: `/favicons/logo512.png`,
+            sizes: `512x512`,
+            type: `image/png`
+          }
+        ]
+      }
+    },
+    `gatsby-plugin-offline`,
     "gatsby-plugin-react-helmet",
     `gatsby-plugin-catch-links`,
     {
