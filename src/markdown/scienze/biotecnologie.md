@@ -264,13 +264,29 @@ Possiamo identificare se una cellula ha integrato il DNA utilizzando vari **marc
 
 Posso utilizzare queste cellule con DNA inserito per conservare un determinato frammento di DNA
 
-### Un esempio di applicazione: l'insulina
-
+#### Un esempio di applicazione: l'insulina
 Nel 1980 si concludono le sperimentazioni sull'uomo della produzione batterica di insulina. Al giorno d'oggi quasi tutta l'insulina somministrata ai diabetici è batterica.
 
-L'insulina è normalmente prodotta dal **pancreas** nelle isole del Langherans.
+L'insulina è normalmente prodotta dal **pancreas** nelle isole del Langherans. 
 Nei diabetici va introdotta esternamente, dato che il loro pancreas non la produce.
 
 L'insulina stimola la diffusione facilitata del glucosio, stimola la sintesi del glicogeno, ...
 
 Prima della sintesi batterica l'insulina veniva estratta dai pancreas di suini e bovini, con i collegati alti costi di estrazione e purificazione e il rischio di trasferimento di virus.
+
+##### Ottenere il gene per la sostanza desiderata
+Da una cellula di pancreas con la **trascriptasi inversa** traduciamo ogni messaggero nel DNA a filamento singolo corrispondente. Questo filamento singolo viene duplicato successivamente da una DNA polimerasi.
+
+Non selezioniamo solo il messaggero per l'insulina, ma **tutti i messaggeri presenti nella cellula**.
+
+Per ottenere l'mRNA estraiamo il materiale genetico dalla cellula. Per farlo possiamo usare varie tecniche, ad esempio rompere le cellule per osmosi oppure con degli enzimi che tagliano la membrana.
+
+Per separare il materiale genetico dal resto della cellula distrutta usiamo la **centrifugazione differenziale**. Ossia usiamo la centrifugazione per riordinare le particelle in strati in base al peso molecolare.
+
+##### Inserire il gene nel microrganismo
+I plasmidi utilizzati conferivano la resistenza a 2 anitbiotici, l'enzima di restrizione scelto tagliava il gene che dava la resistenza a uno dei 2.
+
+In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano in base alla resistenza agli antibiotici:
+- resistente ad un solo antibiotico --> ha il gene umano
+- resistente ad entrambi --> non ha il gene umano
+- non resistente --> non ha il plasmide
