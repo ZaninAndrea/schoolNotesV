@@ -70,6 +70,16 @@ module.exports = {
         },
         dir: "."
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-114061125-1",
+        // Puts tracking script in the head instead of the body
+        head: false,
+        // Setting this parameter is optional
+        anonymize: true
+      }
     }
   ]
 };
