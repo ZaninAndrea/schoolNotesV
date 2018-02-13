@@ -14,16 +14,26 @@ Ciò che segue viene spiegato anche ne _L’Interpretazione dei sogni_.
 
 > Quello che noi chiamiamo razionalità non è altro che uno stratagemma che gli esseri umani hanno elaborato per sopravvivere perché la vera realtà psichica è di fondo irrazionale
 
-Secondo Freud la mente è composta da **varie istanze** che si sviluppano progressivamente nel tempo:
+La giustificazione della psicoanalisi sono i suoi risultati.
+
+Secondo Freud la mente è composta da **varie istanze** che si sviluppano progressivamente nel tempo: Es, Io e Super-Io.
 
 ## Es
 
-L'**Es** rappresenta la parte **irrazionale** della psiche. Corrisponde al principio del piacere; ricerca il piacere e funziona tramite associazioni. L’Es è la più antica istanza nel nostro pensiero in quanto fin dalla nascita abbiamo delle **pulsioni** che ricercano il piacere.
+L'**Es** rappresenta la parte **irrazionale** della psiche. Corrisponde al principio del piacere; ricerca il piacere e funziona tramite associazioni.
+
+L’Es è la più antica istanza nel nostro pensiero, il suo contenuto infatti è ereditario e fin dalla nascita abbiamo delle **pulsioni** che ricercano il piacere.
+
+L'Es esprime il vero **intento vitale** del singolo individuo, che consiste nel soddisfare i propri innati bisogni.
 
 ## Io
 
-Con lo sviluppo fisico del bambino ==da una parte dell’Es si sviluppa l’Io== che permette di controllare il proprio corpo e nasce per l’**esigenza di interagire** (capisce che a dati comportamenti suoi di associano nuovi piaceri).
-L’Io ha il **compito dell’autoconservazione**, risponde al **principio di realtà** (il fatto che si agisca in base a dei dati di fatto). L’Io deve sia controllare l’Es sia il mondo esterno.
+Con lo sviluppo fisico del bambino ==da una parte dell’Es si sviluppa l’Io== che permette di controllare il proprio corpo e nasce per l’**esigenza di interagire** (capisce che a dati comportamenti si associano nuovi piaceri).
+L’Io ha il **compito dell’autoconservazione**, risponde al **principio di realtà** (il fatto che si agisca in base a dei dati di fatto). L’Io deve sia controllare l’Es, decidendo se e quando soddisfarre le pulsioni,sia il mondo esterno, evitando con la fuga stimoli di intensità eccessiva e adattandosi a quelli di intensità moderata.
+
+==L'Io aspira al piacere e si sforza di eludere il dispiacere.== Ciò che dà luogo ad un aumento di dispiacere è detto pericolo e l'Io risponde con un segnale d'angoscia.
+
+Un'azione dell'Io è corretta se si dimostra all'altezza delle esigenze dell'Es, del Super-Io e della realtà e riesce a conciliare tra loro le pretese di queste istanze.
 
 Il sonno: ==durante lo stato di sonno l’Io allenta il suo legame con il mondo esterno== e cambia la sua organizzazione. Quando si dorme si hanno delle esigenze fisiche, ==l’Io cerca di soddisfarle tramite i sogni== (es: fisicamente ho sete, allora sogno di bere un bicchiere d’acqua, in questo modo la mia soddisfazione viene soddisfatta mentalmente).
 
@@ -33,6 +43,23 @@ Il sonno: ==durante lo stato di sonno l’Io allenta il suo legame con il mondo 
 L’Io adempie ai comandi del Super-Io; quando l’Io dorme anche il Super-Io dorme.
 
 Anche quando i genitori smettono di curare il figlio, il Super-Io continua a ricordare i loro insegnamenti. In esso risiedono le **regole sociali** e gli **ideali**.
+
+==Il compito principale del Super-Io è limitare i soddisfacimenti.==
+
+## La teoria delle pulsioni
+==Le **pulsioni** sono le forze che supponiamo star dietro le tensioni dovute ai bisogni.== Esse rappresentano le richieste corporee avanzate alla vita psichica. È possibile ricondurre svariate pulsioni a 2 **pulsioni fondamentali**: l'**Eros** e la **pulsione di distruzione**.
+Obiettivo della pulsione dell'Eros è unire insieme, dell'altra è distruggere le cose, dissolvere nessi. Il fine ultimo della pulsione di distruzione è portare il vivente allo stato inorganico (pulsione di morte).
+
+Nelle funzioni biologiche le due pulsazioni fondamentali agiscono l'una contro l'altra o si combinano insieme. E.g. Mangiare: distruzione dell'oggetto con il fine di incorporarlo.
+Le modificazioni del rapporto di mescolanza delle pulsazioni hanno conseguenze tangibili. Un forte incremento dell'aggressività sessuale può trasformare un uomo appassionato in un delinquente sessuale.
+
+Le due pulsioni sono ovunque nella nostra psiche. ==All'inizio tutta la libido (energia dell'Eros) è presente nell'Io-Es ancora indifferenziato e serve a neutralizzare le tendenze distruttive che sono presenti.== La pulsione della distruzione rimane muta finché agisce all'interno, noi la avvertiamo quando si volge all'esterno come pulsione distruttiva.
+A causa del Super-Io quantità notevoli di questa pulsione si riversano dentro l'Io, dove operano in senso **autodistruttivo**. Trattenere l'aggressività è malsano, durante un attacco di collera spesso si riversa l'aggressività sulla propria persona.
+
+Nell'Io all'inizio è ammassato tutto l'importo libidico disponibile (**narcisimo primario assoluto**). In seguito la libido inizia a venire trasferita in certi oggetti (**libido oggettuale**). Per tutta la vita l'io rimane il serbatoio della libido.
+Solo nel caso dell'innamoramento l'importo libidico più rilevante è trasferito sull'oggetto che si mette in un certo senso al posto dell'Io.
+
+==Le fonti della libido sono somatiche==, essa affluisce all'Io da vari organi e zone del corpo, ciò si può evincere dall'eccitamento sessuale (zone erogene).
 
 # L'interpretazione dei sogni
 
@@ -57,7 +84,7 @@ L'Io nel ricordare il sogno agisce come un **filtro** cercando di **moderare l'E
 L'Io può difendersi dall'Es in più modi:
 
 * **Rimozione**: l'Io dimentica completamente un contenuto troppo distrubante
-* **Distorsione** dei contenuti: ad un contenuto disturbante nè viene sostuito un altro che gli assomiglia ma è accettato dall'Io
+* **Distorsione** dei contenuti: ad un contenuto disturbante ne viene sostuito un altro che gli assomiglia ma è accettato dall'Io
 * **Condensazione**: uno stesso contenuto significa più cose, invece che significare la cosa che dovrebbe significare
 * **Negazione**: i contenuti si presentano alla coscienza come negati, ad esempio invece che "quella donna era mia madre", "quella donna _non_ era mia madre"
 * **Diniego**: il rifiuto dell'Io di riconoscere un'esperienza
@@ -88,7 +115,7 @@ Freud analizza un sogno ove una signora poco conosciuta e intima ci prova con lu
 Freud definisce il bambino un **perverso polimorfo**, ossia la sua libido assume tutte le forme.
 
 ## Le fasi dello sviluppo
-Le varie fasi dello sviluppo sono
+Le varie fasi dello sviluppo sono le seguenti, non si susseguono l'un l'altra, bensì si sovrappongono.
 
 | Fase | Età | Contenuto | 
 | ---- | --- | --------- |
@@ -111,7 +138,10 @@ Gli animali agiscono per **istinto** mentre gli uomini hanno **pulsioni** come f
 
 Le **fissazioni**, derivate dalle fasi attraversate nello sviluppo diventano aspetti del carattere, i quali poi se diventano esagerati si parla di nevrosi. ==La persona trasforma le pulsioni in aspetti del carattere e abitudini per renderle accettabili dalla società==, tale processo è chiamato **sublimazione**.
 
-L’ omosessualità è considerata una perversione in quanto è nato e prevalso un amore per il padre.
+La vita sessuale umana consiste nel mettere i propri genitali in contatto con quelli di una persona dell'altro sesso. Esistono però delle stranezze:
+- **Omosessuali**: attratti dai genitali dello stesso sesso, è nato e prevalso un amore per il padre
+- **Pervertiti**: ogni voglia si manifesta come sessuale
+- **Degenerati**: bambini che manifestano molto precocemente interesse per i propri genitali
 
 ## Il caso del piccolo Hans
 Il bambino ha **paura dei cavalli** e per questo non vuole uscire di casa. La paura dei cavalli, nonostante le spiegazioni del padre, non diminuisce.
