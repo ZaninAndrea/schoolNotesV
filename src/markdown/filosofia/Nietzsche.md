@@ -5,14 +5,12 @@ index: 3
 draft: false
 ---
 
-# Nietzsche
-
 Si ispira a Schopenhauer e ai suoi studi di filologia greca.  
 La sua idea fondamentale è che il criterio di giudizio delle filosofie non sia la verità, ma se sono salutari, ossia se esprimono la volontà di potenza.
 
 Nietzsche tende a far filosofia per aforismi o brevi paragrafetti architettati per soprendere e provacare stupore, con giudizi taglienti.
 
-## Spirito apollineo e dionisiaco
+# Spirito apollineo e dionisiaco
 
 Nietzsche indivuda 2 spiriti nella grecità classica:
 
@@ -21,11 +19,11 @@ Nietzsche indivuda 2 spiriti nella grecità classica:
 
 L'uomo ha paura del dionisiaco e quindi sceglie l'apollineo.
 
-## Su verità e menzogna in senso extramorale
+# Su verità e menzogna in senso extramorale
 
 L'uomo crede di essere speciale perché intelligente, ma l'intelligenza è solo un mezzo per la conservazione.
 
-L'uomo si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale *omnium contra omnes* (Hobbes).  
+L'uomo si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale _omnium contra omnes_ (Hobbes).  
 La pulsione dell'uomo verso la verità in realtà è verso l'autoconservazione.
 
 La realtà è un chaos e ci siamo inventati la verità per cercare di riordinarlo, ma ci riusciamo solo in parte.
@@ -39,11 +37,11 @@ La menzogna viene percepita dalla società come un pericolo e quindi essa bandis
 
 **Gli uomini hanno idolatrato la verità** e ne hanno fatto qualcosa di straordinario, il problema è che questo meccanismo di difesa ci fa vivere male.
 
-## Considerazioni inattuali
+# Considerazioni inattuali
 
 Nietzsche crede di non essere espressione del suo tempo (per questo inattuali).
 
-### Considerazione sulla utilità e il danno della storia per la vita
+## Considerazione sulla utilità e il danno della storia per la vita
 
 Analizza il modo in cui la società occidentale ha concepito la storiografia:
 
@@ -53,7 +51,7 @@ Analizza il modo in cui la società occidentale ha concepito la storiografia:
 
 La storia è utile se ci permette di essere attivi nel presente
 
-## Periodo illuminista
+# Periodo illuminista
 
 Durante il suo periodo illuminista Nietzsche vuole **rischiarare la cultura** e i valori nella società.  
 Durante questo periodo scrive 3 opere:
@@ -66,7 +64,7 @@ Paul Ricoeur, filosofo francese, dice che Nietzsche sottopone le certezze dell�
 
 Ricouer accosta a Nietzsche anche Marx e Freud: sono tutti i pensatori che hanno insegnato a sospettare e ad andare dietro le apparenze. Marx sospetta che dietro la democrazia parlamentare c’è un rapporto di dominio di classe. Freud mostra che la nostra coscienza è soltanto una piccola zona della mente e in realtà dietro di essa vi sono delle movitazioni irrazionali e inconfessabili che ci muovono.
 
-## Umano troppo umano
+# Umano troppo umano
 
 **La vita è illogica**, ma noi tentiamo inutilmente di far venire fuori la logica.
 
@@ -90,13 +88,13 @@ Fino ad ora l'uomo ha acquisito i valori da fuori, adesso ognuno deve crearsi un
 
 **Ubermensch**: un uomo che non è schiavo di volontà esterne, che non riconosce limiti alla sua volontà di potenza. Traducibile come superuomo o oltreuomo
 
-## Così parlò Zaratustra
+# Così parlò Zaratustra
 
 Dopo aver fatto filosofia con il martello e distrutto tutto è ora di ricreare qualcosa.
 
 Zaratustra è un saggio che viaggia per il mondo in un percorso spirituale che rappresenta le varie tappe del superuomo che porta il suo messaggio nel mondo.
 
-### Le tre metamorfosi
+## Le tre metamorfosi
 
 Il cammino della coscienza dagli idoli della superstizione e dalle menzogne della morale al dionisiaco e al superuomo viene raffigurato da Nietzsche in 3 tappe:
 
@@ -104,7 +102,7 @@ Il cammino della coscienza dagli idoli della superstizione e dalle menzogne dell
 2. **leone** ("Io voglio") che reagisce e combatte e sconfigge il drago ("Tu devi"), che rappresenta i valori tradizionali, il leone però vive solo per contrapporsi hai valori tradizionali e ciò non ha senso, dobbiamo arrivare al ...
 3. **fanciullo** che esprime l'essenza dionisiaca della libertà umana, è un nuovo inizio, dopo aver abbattuto la tradizione il fanciullo è in grado di creare qualcosa di nuovo. Il fanciullo è l'ubermensch
 
-### Eterno ritorno
+## Eterno ritorno
 
 Dottrina sul tempo: il tempo è ciclico, ossia torneranno infinite volte gli eventi che stiamo vivendo.  
 È il pensiero più profondo, perché costringe a diventare superuomini o morire sotto questo pensiero.
@@ -113,13 +111,13 @@ Il fatto che rivivremo questo momento infinite volte rende insopportabile agire 
 
 Scarta quindi la storia cristiana, con la venuta di cristo alla fine, e la storia comunista, con il mondo socialista come punto di arrivo.
 
-#### Pensiero non-ubermensch
+### Pensiero non-ubermensch
 
 La creazione acquista significato al momento del disvelamento, la fine dei tempi. Agisco per un fine futuro.
 
 E.g. Sono pio adesso per entrare in paradiso, non sperpero per avere più soldi in futuro.
 
-#### Pensiero ubermensch
+### Pensiero ubermensch
 
 Il tempo è un cerchio, di conseguenza le mie azioni devono avere senso in sé, perché non ci sarà un momento del disvelamento.
 
@@ -127,7 +125,7 @@ L'idea del tempo ciclico non è una dottrina scientifica, ma un test esistenzial
 
 L'altruismo è negativo, devi agire solo in modo da elevare la tua esistenza.
 
-### La visione e l'enigma
+## La visione e l'enigma
 
 Zaratustra sta salendo su per un monte, ma viene trattenuto da un nano, lo spirito di gravità. Si fermano di fronte ad una porta carraia (attraverso cui passa una strada). Zaratustra dice al nano:"guarda questa porta, due sentieri conducono a essa il passato e il futuro che sono due eternità infinite indietro e in avanti. La porta è il presente.
 
@@ -138,7 +136,7 @@ Per far comprendere al nano l'importanza di ciò racconta la storia di un pastor
 
 Di fronte all'eterno ritorno potremmo essere tentati di ritenere che la nostra vita sia già accaduta e non abbiamo controllo sulla nostra vita, quello che vuole qui dire è che dobbiamo prendere una forte decisione e non saremo più in pericolo, ci trasformeremo in ubermensch.
 
-## Nichilismo
+# Nichilismo
 
 Con nichilismo si intende l'idea che i valori siano nulla. Così come di fronte all'idea dell'eterno ritorno i superuomo reagisce considerandola un'occasione di trovare senso in ogni azione da lui compiuta, alla stessa maniera di fronte alla notizia che non c'è Dio, che i valori sono nulla, ci sono 2 possibili atteggiamenti:
 
