@@ -62,7 +62,7 @@ Durante questo periodo scrive 3 opere:
 
 Paul Ricoeur, filosofo francese, dice che Nietzsche sottopone le certezze dell’occidente alla **scuola del sospetto**: tutti i valori dell’Occidente (morale, bontà, misericordia) vanno sottoposti a un’indagine. Questo implica di essere inattuali. ==I valori non valgono di per sé, ma vengono fatti valere dall’uomo.==
 
-Ricouer accosta a Nietzsche anche Marx e Freud: sono tutti i pensatori che hanno insegnato a sospettare e ad andare dietro le apparenze. Marx sospetta che dietro la democrazia parlamentare c’è un rapporto di dominio di classe. Freud mostra che la nostra coscienza è soltanto una piccola zona della mente e in realtà dietro di essa vi sono delle movitazioni irrazionali e inconfessabili che ci muovono.
+Ricouer accosta a Nietzsche anche Marx e Freud: sono tutti i pensatori che hanno insegnato a sospettare e ad andare dietro le apparenze. Marx sospetta che dietro la democrazia parlamentare ci sia un rapporto di dominio di classe. Freud mostra che la nostra coscienza è soltanto una piccola zona della mente e in realtà dietro di essa vi sono delle movitazioni irrazionali e inconfessabili che ci muovono.
 
 # Umano troppo umano
 
