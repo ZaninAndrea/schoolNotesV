@@ -10,7 +10,6 @@ Sigmund Schlomo Freud, noto come **Sigmund Freud**, (Freiberg, 6 maggio 1856 –
 # Compendio di psicoanalisi
 
 In _Compendio di psicoanalisi_ Freud raccoglie tutto il suo lavoro nel campo della psicoanalisi.
-Ciò che segue viene spiegato anche ne _L’Interpretazione dei sogni_.
 
 > Quello che noi chiamiamo razionalità non è altro che uno stratagemma che gli esseri umani hanno elaborato per sopravvivere perché la vera realtà psichica è di fondo irrazionale
 
@@ -122,7 +121,7 @@ Le varie fasi dello sviluppo sono le seguenti, non si susseguono l'un l'altra, b
 | **Orale** | 0-3 anni | le pulsioni trovano soddisfazioni prevalentemente mediante la **bocca** (succhiare il biberon, mettere le cose in bocca); compaiono alcuni impulsi sadici come mordere il capezzolo, c’è un ==desiderio di controllare e di infliggere del dolore==. |
 | **sadico/anale** | 2/3-4 anni | si sviluppa un certo piacere nel controllare; ==il bambino impara a muoversi e a controllarsi== (sfinteri inclusi). Iniziano a provare piacere nel mettere in ordine le cose, nel dolore altrui (sadismo soddisfatto mediante aggressioni). Da questo momento in poi ==il desiderio libidico va insieme ad alcune tendenze distruttive==. |
 | **fallica** | 4-6/7 anni | il piacere dei bambini si concentra sull’**organo genitale**, anche nota come **fase narcisistica** poiché il bambino inizia ad adorarsi, a imporsi sugli altri, si inventa storie. Lui ritiene che le bambine non siano normali in quanto sentono di essere prive di qualcosa (la bambina potrà soddisfare la propria mancanza fisiologica attraverso l’avere dei bambini). In questo periodo attraversa anche il **complesso di Edipo** in cui prova attrazione per la propria madre, vuole sostituirsi al padre ma questo lo minaccia e teme di essere evirato/castrato. |
-| **latente** | 6/7-10 anni | ==le pulsioni sessuali sono messe da parte==; il bambino mette al servizio l’energia psichica alla conoscenza del mondo. |
+| **latente** | 6/7-10 anni | ==le pulsioni sessuali sono messe da parte==; il bambino mette l’energia psichica al servizio della conoscenza del mondo. |
 | **sessuale** | 10+ anni | : si pensa alla sessualità concentrata nell’**accoppiamento**. C’è una certa energia psichica chiamata libido incanalata nella **sessualità**; se ci sono dei casi irrisolti nel bambino essi si riversano nella sessualità (es: qualche mancanza nel superamento della fase sadico/anale ha degli effetti sul carattere). |
 
 ## Problemi nello sviluppo
@@ -136,7 +135,7 @@ La **psicosi** è una malattia mentale in cui si ha una dissociazione nel rappor
 
 Gli animali agiscono per **istinto** mentre gli uomini hanno **pulsioni** come forma di espressione dell’energia, esse si distinguono poiché non hanno uno schema fisso e sono fluide (gli animali infatti non si ammalano mai di malattie mentali).
 
-Le **fissazioni**, derivate dalle fasi attraversate nello sviluppo diventano aspetti del carattere, i quali poi se diventano esagerati si parla di nevrosi. ==La persona trasforma le pulsioni in aspetti del carattere e abitudini per renderle accettabili dalla società==, tale processo è chiamato **sublimazione**.
+Le **fissazioni**, derivate dalle fasi attraversate nello sviluppo diventano aspetti del carattere, se diventano esagerati si parla di nevrosi. ==La persona trasforma le pulsioni in aspetti del carattere e abitudini per renderle accettabili dalla società==, tale processo è chiamato **sublimazione**.
 
 La vita sessuale umana consiste nel mettere i propri genitali in contatto con quelli di una persona dell'altro sesso. Esistono però delle stranezze:
 - **Omosessuali**: attratti dai genitali dello stesso sesso, è nato e prevalso un amore per il padre
@@ -146,7 +145,7 @@ La vita sessuale umana consiste nel mettere i propri genitali in contatto con qu
 ## Il caso del piccolo Hans
 Il bambino ha **paura dei cavalli** e per questo non vuole uscire di casa. La paura dei cavalli, nonostante le spiegazioni del padre, non diminuisce.
 
-Il papà di Hans ha gli occhiali e i cavalli no, però hanno gli occhi contornati di nero. ==Al bambino in realtà non fanno paura i cavalli ma i contorni neri intorno agli occhi perché gli identifica con il papà==.
+Il papà di Hans ha gli occhiali e i cavalli no, però hanno gli occhi contornati di nero. ==Al bambino in realtà non fanno paura i cavalli ma i contorni neri intorno agli occhi perché li identifica con il papà==.
 
 In realtà il bambino ha paura del papà perché vuole tanto bene alla mamma (è nel pieno della **fase di Edipo**). L’amore verso il padre è in conflitto con l’ostilità verso il padre: il bambino vorrebbe che il padre se ne andasse per stare con la mamma e la mattina è angosciato dalla paura che non ci sia davvero, perché se non ci fosse davvero si sentirebbe in colpa.
 
