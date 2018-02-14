@@ -10,7 +10,7 @@ draft: false
 
 Nella sua vita perderà otto dei dieci figli e entrambe le mogli.
 
-==Nel 1810 Manzoni, calvinista, si converte== insieme alla moglie ad una particolare forma di cattolicesimo: giansenismo (molto restrittivo).
+==Nel 1810 Manzoni, calvinista, si converte== insieme alla moglie ad una particolare forma di cattolicesimo: **giansenismo** (molto restrittivo).
 
 Il suo periodo più creativo fu dal 1812 al 1827.
 
