@@ -126,3 +126,37 @@ L’unica cosa che sente di poter fare è liberare la povera Lucia.
 
 La conversione è il passaggio dal caos della coscienza sporca dell’Innominato al cosmo della religione.
 
+## Caos della guerra
+**Carlo Gonzaga di Nevers**, duca del Monferrato, deve affrontare **Ferrante Gonzaga**, duca di Guastalla, che ha pretese ereditarie sui territori di Mantova e del Monferrato.
+Entrambi hanno vari appoggi politici, ma Ferrante ha supporto anche militare dai suoi alleati e inizia l'**assedio di Casale**.
+
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| guerra politica | ==La guerra viene trattata come una faccenda meramente politica== senza considerare i suoi effetti sulla popolazione |
+| ironia | "perché le guerre fatte senza una ragione sarebbero ingiuste", "che non credeste che nella guerra sia tutto rose" |
+
+Il grande ordine con cui vengono trattate le vicende militari a nostro parere è un esempio di cosmo.
+
+## Il caos sociale
+La causa prima dei tumulti fu il **prezzo fissato** del pane, che era lontano dal suo valore reale.
+Le conseguenze di questi furono **perdita di cibo**, distrutto nelle sommosse, e **consumo sconsiderato** delle riserve che sarebbero dovute bastare fino al raccolto successivo.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| Popolo vs Governo | "La moltitudine aveva voluto far nascere l'abbondanza col saccheggio e con l'incendio; il governo voleva mantenerla con la galera e con la corda" | 
+| sconsideratezza | Del governo nel fissare il prezzo del pane, del popolo nel consumare tutte le riserve | 
+
+Il caos dei tumulti vince sul tentativo di cosmo del governo
+
+## Carestia
+Manzoni descrive le varie sfaccettature della carestia che colpisce anche coloro che erano stati facoltosi o importanti (come i bravi).
+Viene proposta come soluzione creare un **lazzareto**.
+
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| carestia parificante | ==La carestia appiattisce le differenze sociali== di cui rimane solo un'ombra ("cenci sfarzosi") | 
+| speranze disattese | I contadini venendo alla città rimangono delusi dallo scoprire che tutti sono nella loro stessa situazione |
+
+Dall'ordine (cosmo) della gerarchia sociale si arriva ad un caos indifferenziato della povertà.

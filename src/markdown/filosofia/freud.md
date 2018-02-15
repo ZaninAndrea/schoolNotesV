@@ -155,10 +155,10 @@ Raccontando l’episodio drammatico il paziente lo può rivivere ma supportato d
 
 ==Il paziente spesso sviluppa sentimenti di ostilità o in alcuni casi amore verso lo psicanalista== dato che vede in egli un “genitore”, questo è noto come **transfert** mentre l’affezione del dottore verso il paziente è noto come controtransfert. 
 
-# Critica di Young a Freud
-Young ritiene che Freud sia troppo **fissato sul sesso**; ritiene che la vita psichica debba essere analizzata in modo diverso. Afferma che tutti noi abbiamo un **inconscio collettivo**, ossia una serie di simboli che sono sedimentati nelle nostre menti e che appaiono in tutte le culture.
+# Critica di Jung a Freud
+Jung ritiene che Freud sia troppo **fissato sul sesso**; ritiene che la vita psichica debba essere analizzata in modo diverso. Afferma che tutti noi abbiamo un **inconscio collettivo**, ossia una serie di simboli che sono sedimentati nelle nostre menti e che appaiono in tutte le culture.
 
-Secondo Young ognuno di noi ha un **Sé** (un progetto di vita, una personalità da realizzare) da realizzare ma che non si capisce subito poiché è nascosto dalla **Persona** (quello che la società vuole da noi) che agisce da maschera per il Sé.
+Secondo Jung ognuno di noi ha un **Sé** (un progetto di vita, una personalità da realizzare) da realizzare ma che non si capisce subito poiché è nascosto dalla **Persona** (quello che la società vuole da noi) che agisce da maschera per il Sé.
 
 Inoltre afferma ==ci siano aspetti femminili anche nei maschi (anima) e maschili nelle donne (animus)==.
 Questa interpretazione è dovuta all’attrazione verso la cultura orientale che vede la verità come una via di mezzo tra due opposti (ying e yang).
