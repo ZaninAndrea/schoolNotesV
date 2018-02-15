@@ -50,13 +50,15 @@ Anche quando i genitori smettono di curare il figlio, il Super-Io continua a ric
 Obiettivo della pulsione dell'Eros è unire insieme, dell'altra è distruggere le cose, dissolvere nessi. Il fine ultimo della pulsione di distruzione è portare il vivente allo stato inorganico (pulsione di morte).
 
 Nelle funzioni biologiche le due pulsazioni fondamentali agiscono l'una contro l'altra o si combinano insieme. E.g. Mangiare: distruzione dell'oggetto con il fine di incorporarlo.
-Le modificazioni del rapporto di mescolanza delle pulsazioni hanno conseguenze tangibili. Un forte incremento dell'aggressività sessuale può trasformare un uomo appassionato in un delinquente sessuale.
+Le modificazioni del rapporto di mescolanza delle pulsazioni hanno conseguenze tangibili. E.g. un forte incremento dell'aggressività sessuale può trasformare un uomo appassionato in un delinquente sessuale.
 
-Le due pulsioni sono ovunque nella nostra psiche. ==All'inizio tutta la libido (energia dell'Eros) è presente nell'Io-Es ancora indifferenziato e serve a neutralizzare le tendenze distruttive che sono presenti.== La pulsione della distruzione rimane muta finché agisce all'interno, noi la avvertiamo quando si volge all'esterno come pulsione distruttiva.
-A causa del Super-Io quantità notevoli di questa pulsione si riversano dentro l'Io, dove operano in senso **autodistruttivo**. Trattenere l'aggressività è malsano, durante un attacco di collera spesso si riversa l'aggressività sulla propria persona.
+Le due pulsioni sono ovunque nella nostra psiche. ==All'inizio tutta la libido disponibile (energia dell'Eros) è presente nell'Io-Es ancora indifferenziato e serve a neutralizzare le tendenze distruttive che sono presenti.== La pulsione della distruzione rimane muta finché agisce all'interno, noi la avvertiamo quando si volge all'esterno come pulsione distruttiva.
+A causa del Super-Io, che ci impedisce di riversarla all'esterno, quantità notevoli di questa pulsione si riversano dentro l'Io, dove operano in senso **autodistruttivo**. Trattenere l'aggressività è malsano, durante un attacco di collera spesso si riversa l'aggressività sulla propria persona.
 
 Nell'Io all'inizio è ammassato tutto l'importo libidico disponibile (**narcisimo primario assoluto**). In seguito la libido inizia a venire trasferita in certi oggetti (**libido oggettuale**). Per tutta la vita l'io rimane il serbatoio della libido.
 Solo nel caso dell'innamoramento l'importo libidico più rilevante è trasferito sull'oggetto che si mette in un certo senso al posto dell'Io.
+
+Abbiamo trattato solo della libido presente nell'Io, in quanto non sappiamo nulla del comportamento della libido presente nell'Es e nel Super-Io.
 
 ==Le fonti della libido sono somatiche==, essa affluisce all'Io da vari organi e zone del corpo, ciò si può evincere dall'eccitamento sessuale (zone erogene).
 
@@ -114,6 +116,8 @@ Freud analizza un sogno ove una signora poco conosciuta e intima ci prova con lu
 Freud definisce il bambino un **perverso polimorfo**, ossia la sua libido assume tutte le forme.
 
 ## Le fasi dello sviluppo
+==Freud distingue sessuale da genitale:== sessuale è un concetto più ampio e si riferisce alla ricerca del piacere da determinate zone del corpo.
+
 Le varie fasi dello sviluppo sono le seguenti, non si susseguono l'un l'altra, bensì si sovrappongono.
 
 | Fase | Età | Contenuto | 
