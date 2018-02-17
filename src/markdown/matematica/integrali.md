@@ -152,14 +152,14 @@ $$
 
 **Caso 2**
 $$
-\int\sqrt{9-x^2}dx
+\int\sqrt{a^2-x^2}dx
 $$
 
 Uso la sostituzione
 $$
 \begin{aligned}
-x&=3\sin{t}\\
-dx&=3\cos{t}
+x&=a\sin{t}\\
+dx&=a\cos{t}
 \end{aligned}
 $$
 

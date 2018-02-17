@@ -284,9 +284,70 @@ Per ottenere l'mRNA estraiamo il materiale genetico dalla cellula. Per farlo pos
 Per separare il materiale genetico dal resto della cellula distrutta usiamo la **centrifugazione differenziale**. Ossia usiamo la centrifugazione per riordinare le particelle in strati in base al peso molecolare.
 
 ##### Inserire il gene nel microrganismo
-I plasmidi utilizzati conferivano la resistenza a 2 anitbiotici, l'enzima di restrizione scelto tagliava il gene che dava la resistenza a uno dei 2.
+I plasmidi utilizzati conferiscono la resistenza a **2 antibiotici**, l'enzima di restrizione scelto taglia il gene che dava la resistenza a uno dei 2.
 
-In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano in base alla resistenza agli antibiotici:
+In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano in base alla **resistenza agli antibiotici**:
 - resistente ad un solo antibiotico --> ha il gene umano
 - resistente ad entrambi --> non ha il gene umano
 - non resistente --> non ha il plasmide
+
+Al cDNA ottenuto dalle cellule di pancreas aggiungiamo una sequenza di DNA riconosciuta dagli enzimi di restrizione, in modo da formare le sticky ends che permettono l'inserimento nel plasmide.
+
+##### Il cloning del gene
+I plasmidi tendono naturalmente ad entrare nei batteri.
+
+A questo punto iniziamo la **coltura delle cellule**, ma ==non sappiamo se le cellule hanno preso il plasmide, se il plasmide ha integrato il gene umano e se il gene integrato è quello dell'insulina==.
+
+Per **duplicare una piastra** con una garza sterile si tampona la piastra di coltura e poi si appoggia il tampone su altre piastre mantenendo l'orientazione.
+
+##### Selezionare i batteri con un gene umano
+Come spiegato precedentemente ==in base alla resistenza agli antibiotici possiamo identificare i batteri che hanno integrato un gene umano==: quelle che hanno la resistenza solo ad un antibiotico.
+
+Una volta individuata la posizione possiamo usare una delle altre copie della piastra per continuare il processo, dato che per identificare il batterio dobbiamo ucciderlo.
+
+##### Identificare il gene corretto
+Su un disco di plastica della stessa forma della piastra di petri fisso degli **anticorpi anti-insulina**.
+Per sovrapposizione alla piastra di coltura l'anticorpo aggancierà l'insulina prelevandola dalla colonia batterica.
+
+Successivamente per identificare la posizione dell'insulina utilizzo una seconda piastra di petri con **anticorpi anti-insulina marcati** (radioattivi), sempre per sovrapposizione gli anticorpi si agganciano all'insulina e quindi ==sul disco di plastica avrò degli anticorpi marcati nella posizione corrispondente a batteri che stanno producendo insulina.==
+
+Abbiamo identificato il batterio che ha integrato il gene dell'insulina!
+
+Un ulteriore complicazione che non abbiamo approfondito è la sostituzione della regione di controllo umana con quella batterica.
+
+##### Raccogliere il prodotto
+Per purificare il prodotto della sintesi fatta dal batterio possiamo usare vari metodi, tra cui la **cromatografia su colonna.**
+
+### I colori delle biotecnologie
+#### Biotecnologie rosse - Medicina
+##### Diagnostica
+Per riconoscere se una malattia è di origine batterica abbiamo più tecniche:
+- **coltura in ambiente selettivo**, se il batterio non cresce nell'ambiente selettivo non è il batterio che supponevo
+- **antibiogramma**: controllare la vulnerabilità di un batterio ad un antibiotico per scegliere quello più efficacie
+
+==Alcuni batteri non sono coltivabili== in tempi ragionevoli o richiedono misure di sicurezza estreme, quindi dobbiamo usare tecniche alternative.
+Ad esempio: amplifico il DNA con la PCR e poi con delle sonde specifiche riconosco il DNA caratteristico del batterio
+
+Con sostanze marcatore possiamo anche identificare un tumore, perché tumori a organi diversi secernono sostanze diverse e riconoscibili.
+
+##### Prodotti naturali ad uso farmaceutico
+==Alcune piante producono sostanze utili a scopo terapeutico==, invece che coltivare la piante ed estrarre la sostanza desiderata, utilizziamo le biotecnologie per produrla.
+
+##### Animali transgenici per la produzione di farmaci
+Diverse sostanze, in particolare legate alla terapia per problemi di coagulazione del sangue, sono molto **complesse e costose da coltivare**.
+
+Un'alternativa è farle produrre ad un animale. Ad esempio il maiale può essere usato per produrre **proteina C** inserendo il gene corrispondente e la regione di controllo della produzione del latte in un embrione, che poi viene impiantato.
+Quando il maiale inizierà a produrre latte produrrà anche proteina C in esso.
+
+##### Animali transgenici per studiare e sperimentare farmaci
+Un animale viene indotto a sviluppare una malattia umana in modo da poi testare dei farmaci.
+
+Possiamo anche disattivare un gene per vedere che effetto si produce.
+Per farlo posso creare una sequenza genica nella quale al gene che voglio inattivare è sostituito con una resistenza ad un **antibiotico** e successivamente un gene che rende la cellula vulnerabile ad un **antivirale**.
+Se avviene la **ricombinazione omologa** solo il gene da inattivare viene sostituito e quindi al gene da disattivare viene rimpiazzato il gene con la resistenza antibiotica.
+Se la **ricombinazione è non omologa** invece sia il gene della resistenza antibiotica sia quella della sensibilità antivirale vengono sostituiti ad un tratto di DNA diverso, quindi viene mantenuto anche il gene originale.
+
+Le situazioni finali possibili sono:
+- resistente agli antibiotici e a sensibile all'antivirale: ricombinazione non omologa, quindi il gene è mantenuto
+- ==resistente agli antibiotici, ma non sensibile all'antivirale: ricombinazione omologa, il gene è stato rimosso==
+- non resistente agli antibiotici: non è avvenuta ricombinazione, il gene è mantenuto
