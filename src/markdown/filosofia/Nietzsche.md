@@ -23,7 +23,7 @@ L'uomo ha paura del dionisiaco e quindi sceglie l'apollineo.
 
 L'uomo crede di essere speciale perché intelligente, ma ==l'intelligenza è solo un mezzo per la conservazione==.
 
-L'uomo si accorda con gli altri uomini per utilità o per noia di avere la stessa visione in modo da limitare il più brutale _omnium contra omnes_ (Hobbes).  
+L'uomo si accorda con gli altri uomini perpoter vivere in comunità di avere la stessa visione in modo da limitare il più brutale _bellum omnium contra omnes_ (Hobbes).  
 ==La pulsione dell'uomo verso la verità in realtà è verso l'autoconservazione==.
 
 La realtà è un chaos e ci siamo inventati la verità per cercare di riordinarlo, ma ci riusciamo solo in parte.
@@ -33,7 +33,7 @@ La menzogna viene percepita dalla società come un pericolo e quindi essa bandis
 
 > ## Frase da tatuare
 >
-> Che cos'è dunque la verità? Un esercito mobile di metafore, metonimie, antropomorfismi,
+> Che cos'è dunque la verità? Un esercito mobile di metafore, metonimie, antropomorfismi, [...] le verità sono illusioni, delle quali si è dimenticato che appunto non sono che illusioni
 
 ==Gli uomini hanno idolatrato la verità== e ne hanno fatto qualcosa di straordinario, il problema è che questo meccanismo di difesa ci fa vivere male.
 
