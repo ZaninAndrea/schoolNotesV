@@ -168,7 +168,7 @@ In alcuni casi è utile sostituire utilizzando le parametriche
 $$
 \begin{aligned}
 \sin{x}&=\frac{2\tg{\frac{x}{2}}}{1+\tg^2{\frac{x}{2}}}\\
-\cos{x}&=\frac{1-\tg{\frac{x}{2}}}{1+\tg{\frac{x}{2}}}
+\cos{x}&=\frac{1-\tg^2{\frac{x}{2}}}{1+\tg^2{\frac{x}{2}}}
 \end{aligned}
 $$
 
