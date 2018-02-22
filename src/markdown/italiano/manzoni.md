@@ -160,3 +160,32 @@ Viene proposta come soluzione creare un **lazzareto**.
 | speranze disattese | I contadini venendo alla città rimangono delusi dallo scoprire che tutti sono nella loro stessa situazione |
 
 Dall'ordine (cosmo) della gerarchia sociale si arriva ad un caos indifferenziato della povertà.
+
+## Il lazzareto di Milano
+Viene descritto il **lazzareto di Milano**, che è posizionato fuori dalle mura cittadine.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| architettura | Manzoni descrive la struttura senza trattare il suo utilizzo e le persone che vi abitano | 
+
+Il caos del lazzerto viene organizatto in cosmo attraverso la descrizione precisa
+
+## La peste  ... e il caos politico nel ‘gestirla’
+==Inizialmente la peste non viene creduta tale==, né dal popolo né dalle autorità, ma successivamente per gradi viene accettata e infine viene associata ad un maleficio
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| 5 fasi dell'accetazione della peste | Ci vuole tempo e prove perché la popolazione accetti che è in corso un'epidemia di peste |
+| prima di parlare pensa | Manzoni esorta a ragionare prima di parlare, sebbene parlare e basta sia molto più facile. *" Si potrebbe però, [...] osservare, ascoltare, paragonare, pensare, prima di parlare"* | 
+
+Il caos della peste non riesce ad essere domniato dal tentativo di cosmo dell'autorità e nella popolazione dilagano miti e superstizioni sulla peste.
+
+## Renzo nel caos della peste
+La **madre di Cecilia** affida la figlia morta ad un monatto assicuradosi che verrà **seppelita** dignitosamente e successivamente aspetta la morte con l'altra figlia.
+
+| Focus | Descrizione |
+| ----- | ----------- |
+| morte | La morte viene vista come inevitabile e l'unica cosa che rimane da fare è rassegnarsi. *"passar della falce che pareggia tutte l'erbe del prato"* | 
+| pietà | Il monatto si impietosisce e promette di trattare dignitosamente la bambina. La pietà vince sui sentimenti aspri suscitati dalla peste |
+
+Appare lampante l'assenza dell'intervento della Provvidenza (cosmo) e il conseguente caos della peste. La madre però simboleggia un tentativo di riorganizzare il caos

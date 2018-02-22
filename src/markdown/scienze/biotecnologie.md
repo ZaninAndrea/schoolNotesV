@@ -351,3 +351,39 @@ Le situazioni finali possibili sono:
 - resistente agli antibiotici e a sensibile all'antivirale: ricombinazione non omologa, quindi il gene è mantenuto
 - ==resistente agli antibiotici, ma non sensibile all'antivirale: ricombinazione omologa, il gene è stato rimosso==
 - non resistente agli antibiotici: non è avvenuta ricombinazione, il gene è mantenuto
+
+#### Terapia genica
+L'idea di base è ==sostituire un gene difettoso con uno funzionante==.
+
+Non è applicata sulle **cellule germinali** per via delle implicazioni etiche, viene utilizzata invece sulle **cellule somatiche**.
+
+Fu utilizzata per curare la **ADA-SCID** (una grave immunodeficienza). Le cellule immunitarie vengono prelevate, coltivate in laboratorio ed in esse con un virus viene inserito il gene corretto, una volta amplificate in coltura vengono reinserite nel paziente.
+2/8 pazienti svilupparono però una leucemia. La tecnica venne poi migliorata e questo problema fu risolto.
+
+Il trasferimento del gene può essere fatto su colture in vitro o direttamente sui tessuti del paziente.
+
+#### La tecnologia antisenso
+Questa tecnica verrà rimpiazzata da crispr.
+
+In alcune situazioni ==la cellula produce un RNA complementare al messaggero==, che tende ad appaiarsi con esso in modo da inattivarlo.
+
+Possiamo creare degli anti-RNA sintetici per silenziare un gene, le modalità di produzione di questo anti-RNA sono varie.
+
+### Biotecnologie verdi - agricoltura
+#### Resistenza ai parassiti
+La **piralide** è un insetto che danneggia il mais rendendolo non commestibile. La soluzione tradizionale sono i pesticidi, che però ha il problema della tossicità ambientale e dell'adattamento degli insetti.
+
+Il **Bacillus thuringiensis** produce una proteina tossica per gli insetti, ma innocua per l'uomo e per l'ambiente. Inoltre la tossina è tossica per ingestione, quindi innocua per gli insetti che non vogliono mangiare la pianta.
+Inizialmente la tossina veniva spruzzata come un pesticida sulle piante, poi il gene corrispondente è stato introdotto direttamente nella pianta.
+
+La sensibilità alla tossina è data da un **allele recessivo**, quindi se permettiamo agli insetti di svilupparsi in zone rifugio (alcuni filari di mais non trattati genicamente) non si svilupperà la resistenza. 
+
+#### Resistenza agli erbicidi
+Per uccidere le **piante infestanti** si utilizzano erbicidi a largo spettro, che uccidono tutto tranne una pianta che abbiamo reso resistente.
+
+Il caso del **glifosato** è particolarmente interessante dal punto di vista mediatico, perché è stato soggetto a molte campagne ambientaliste data la sua probabile cancerosità, ignorando il fatto che la dose contenuta negli alimenti è diversi ordini di grandezza minore a quella dannosa.
+
+#### Il golden rice
+Per evitare la carenza di **vitamina A** legata ad un'alimentazione basata solo sul riso venne creato ==il golden rice, geneticamente modificato per produrre il precursore della vitamina A e ferro==.
+
+Una versione con ulteriori miglioramenti èil **green super rice**.
