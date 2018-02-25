@@ -64,7 +64,7 @@ Durante le **radiose giornate di Maggio**, precedenti l'entrata in guerra, una f
 ==Tutti pensavano che la guerra, che già durava da parecchi mesi, sarebbe durata ancora poco== e che quindi bastasse farsi valere fino alla fine della guerra.
 
 ### Le vane promesse del patto di Londra
-Il **patto di Londra** prevedeva che l'Italia avrebbe ricevuto: Trentino, Tirolo Cisalpino (Sudtirol), Trieste, Gorizia, Istria e Grandisca, l'Istria, inoltre avrebbero ottenuto il controllo della capitale dell'Albania, le avrebbero riconosciuto il Dodecaneso e la Libia, e in caso di spartizione delle colonie tedesche, all'Italia sarebbe andato un equo compenso.
+Il **patto di Londra** prevedeva che l'Italia avrebbe ricevuto: Trentino, Tirolo Cisalpino (Sudtirol), Trieste, Gorizia, Istria e Grandisca, inoltre avrebbero ottenuto il controllo della capitale dell'Albania, le avrebbero riconosciuto il Dodecaneso e la Libia, e in caso di spartizione delle colonie tedesche, all'Italia sarebbe andato un equo compenso.
 
 ==Alla fine della guerra l'Italia non ottenne tutto quello che le era stato promesso, in più pretese Fiume, che non ottenne.==
 
