@@ -169,6 +169,8 @@ Le perdite nella Grande guerra sono: ==17 milioni di morti== e 20 milioni di fer
 
 # Trattati di pace
 Con il **trattato di Saint Germaine** Trentino, Trieste e parte della Dalmazia passano all'Italia, ma non Fiume.
+Durante la Pace di Versailles la delegazione di Vittorio Emanuele Orlando se ne andò perché
+indignata: Francia, Inghilterra e, in particolare, Stati Uniti non ascoltano le richieste italiane, ma anzi continuarono le trattative senza l'Italia.
 Nonostante il patto di Londra ==l'Italia non acquisisce nessuna colonia== tedesca.
 
 
