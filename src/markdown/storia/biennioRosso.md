@@ -42,7 +42,7 @@ I bolscevichi non devono appoggiare il governo provvisorio, devono sapere di ess
 La Russia deve essere governata interamente dai soviet.
 
 Deve avvenire una nazionalizzazione delle terre e delle fabbriche, una fusione delle banche in un'unica controllata dai soviet (queste misure erano per distribuire i prodotti che erano carenti nella crisi della guerra).
-Bisogna creare una Internazione dei partiti comunisti, per questo nasce la **Terza Internazionale**.
+Bisogna creare una Internazionale dei partiti comunisti, per questo nasce la **Terza Internazionale**.
 
 # La rivoluzione di Ottobre
 Il governo non aveva la forza di spazzare via i soviet.
