@@ -144,7 +144,7 @@ I 14 punti sono:
 10. Ai popoli dell'Austria–Ungheria deve essere accordata la più ampia possibilità per il loro sviluppo autonomo
 11. Romania, Serbia e Montenegro vanno restaurati
 12. la Turchia si sfalda, i Dardanelli vanno lasciati aperti
-13. la Polonia avrà diritto su tutti i territori di lingua polacca. Creazione dello stretto di Danzica, che separò la Prussia dal Brandeburgo. La città di Danzica sarà indipendente
+13. la Polonia avrà diritto su tutti i territori di lingua polacca. Creazione del corridoio di Danzica, che divise la Germania in 2 parti per dare alla Polonia uno sbocco sul mare. La città di Danzica sarà indipendente
 14. creazione della **Società delle Nazioni** con lo scopo di mantenere la pace
 
 ### La società delle nazioni
