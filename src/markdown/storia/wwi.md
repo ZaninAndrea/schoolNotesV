@@ -172,7 +172,7 @@ Con il **trattato di Saint Germaine** Trentino, Trieste e parte della Dalmazia p
 Durante la Pace di Versailles la delegazione guidata da Vittorio Emanuele Orlando se ne andò perché indignata. Francia, Inghilterra e, in particolare, Stati Uniti non ascoltano le richieste italiane, ma anzi continuarono le trattative senza l'Italia.
 Nonostante il patto di Londra ==l'Italia non acquisisce nessuna colonia== tedesca.
 
-La Germania perde territori a favore della Polonia, ma per garantirle uno sbocco sul mare ==viene creato il corridoio di Danzica==, che divide la Prussia orientale da quella occidentale.
+La Germania perde territori a favore della Polonia, tra cui il **corridoio di Danzica**, che divide la Prussia orientale da quella occidentale.
 Molta popolazione tedesca rimase fuori dalla Germania.
 A nord perde lo Schlesswig, a Est alcuni territori a favore della Cecoslovacchia e a Ovest il Palatinato a favore del Belgio, perde inoltre tutte le colonie e ==deve cedere Alsazia, Lorena e i bacini carboniferi della Saar alla Francia.==
 La Germania potrà avere al massimo 100.000 soldati in servizio, 6 navi da guerra e nessuna forza aerea; un **esercito simbolico**.
@@ -186,6 +186,9 @@ La Romania diventa uno stato multietnico con parte di Bulgaria e Ungheria.
 
 ==La Polonia nasce come stato cuscinetto== tra Russia e l'Europa, così come le repubbliche Baltiche e la Finlandia.
 La Polonia rimane in guerra con la Russia nel 1920, perché la Russia cerca di riprendersi parte dell'Ucraina appartenente alla Polonia, ma viene sconfitta.
+
+Confini prima e dopo la guerra:
+![mappa delle'europa](https://i.pinimg.com/originals/85/72/b2/8572b22af0c972abbded5388d2ea2dba.jpg)
 
 # Il lascito della guerra
 La Grande Guerra fu **monumentalizzata** (monumenti al milite ignoto, nomi di piazze e vie, ...), con essa la guerra inizia ad avere come obiettivo infliggere più vittime possibili.
