@@ -352,6 +352,22 @@ Le situazioni finali possibili sono:
 - ==resistente agli antibiotici, ma non sensibile all'antivirale: ricombinazione omologa, il gene è stato rimosso==
 - non resistente agli antibiotici: non è avvenuta ricombinazione, il gene è mantenuto
 
+#### Animali umanizzati per realizzare xenotrapianti
+Per produrre organi per il trapianto possiamo impiantare dei geni umani in un animale, che ==svilupperà quindi organi umani==, la cui possibilità di rigetto è minore.
+
+Un possibile rischio è la trasmissione di virus o retrovirus animali.
+
+In pratica il procedimento consiste nell'inattivare il gene che permette lo sviluppo di un organo nell'ovocita, ad esempio usando CRISPR.
+Successivamente si inseriscono **cellule pluripotenti umane** in grado di sviluppare l'organo nella blastocisti.
+
+Vengono usati i maiali e non le i primati sia per motivi economici (l'allevamento dei primati e lungo e costoso), che etici (il sacrificio dei suini è già socialmente accettato, quello dei primati no).
+
+#### Vaccini che si mangiano
+I vaccini contengono **antigeni instabili** che necessitano di essere conservati congelati.
+Questo crea gravi problemi dove la **catena del freddo** per la conservazione del prodotto non può essere assicurata per mancanza di frigoriferi o di energia elettrica.
+
+==È possibile inserire all'interno della pianta i geni per la produzione di antigeni==, allo scopo di creare vaccini che possano essere somministrati oralmente. 
+
 #### Terapia genica
 L'idea di base è ==sostituire un gene difettoso con uno funzionante==.
 

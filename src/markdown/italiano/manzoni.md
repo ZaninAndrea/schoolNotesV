@@ -6,7 +6,7 @@ draft: false
 ---
 
 # Vita
-È figlio di Giulia Beccaria, nipote di Cesare Beccaria (Dei delitti e delle pene) eiglio adottivo di Pietro Manzoni. A 7 anni i suoi genitori si separano e ==si trasferisce a Parigi==.
+È figlio di Giulia Beccaria, nipote di Cesare Beccaria (Dei delitti e delle pene) e figlio adottivo di Pietro Manzoni. A 7 anni i suoi genitori si separano e ==si trasferisce a Parigi==.
 
 Nella sua vita perderà otto dei dieci figli e entrambe le mogli.
 
@@ -16,9 +16,9 @@ Il suo periodo più creativo fu dal 1812 al 1827.
 
 # Opere
 Le sue opere principali furono:
-- l'ode **Marzo 1821**: poesia politica basata sulla speranza della liberazione della Lombardia e del Risorgimento, pubblicata nel 1848, quandro sembra che la Lombardia stia per essere liberata
+- l'ode **Marzo 1821**: poesia politica basata sulla speranza della liberazione della Lombardia e del Risorgimento, pubblicata nel 1848, quando sembra che la Lombardia stia per essere liberata
 - **5 Maggio**: scritta dopo la morte di Napoleone come elogio. Supporta l'idea che ==Napoleone si sia convertito in punto di morte== per renderlo più umano e meno divino
-- **Adelchi**: tragedia con una visione pessimistica della storia. Manzoni ritiene che non ci sia un progresso storico e le stragi continuino a ripetersi in modo ciclico. ==Il dolore può essere mandato da Dio come opportunità di purificazione.==
+- **Adelchi**: tragedia con una visione pessimistica della storia. Manzoni ritiene che non ci sia un progresso storico e le stragi continuino a ripetersi in modo ciclico. ==Il dolore può essere mandato da Dio come opportunità di purificazione.== Contrasto con la visione dei Promessi Sposi: *Dio... non turba mai la gioia de' suoi figli, se non per prepararne loro una più certa e più grande.*
 - **Gli Inni Sacri**: la religione viene vista come un'**esperienza collettiva**
 - **I Promessi Sposi**
 
