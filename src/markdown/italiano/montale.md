@@ -154,7 +154,7 @@ Anche in questi versi troviamo fortemente espresso il **pessimismo montaliano** 
 
 La critica ha riconosciuto in questa poesia i reclusi dei campi di sterminio nazisti e stalinisti, ma più verosimilmente il protagonista è il poeta stesso, che rappresenta l’intero genere umano: l’umanità vive infatti intrappolata nelle trame della società moderna. 
 
-Gli unici momenti di positività avvengono durante il **riposo notturno**, durante il quale il prigioniero può sognare l’amata. ==Anche qui vi è l’idea della donna come figura salvifica. ==
+Gli unici momenti di positività avvengono durante il **riposo notturno**, durante il quale il prigioniero può sognare l’amata. ==Anche qui vi è l’idea della donna come figura salvifica.==
 
 C'è un forte utilizzo di **metafore gastronomiche** che hanno l'uomo per soggetto.
 

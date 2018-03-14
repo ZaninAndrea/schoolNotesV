@@ -264,7 +264,7 @@ Possiamo identificare se una cellula ha integrato il DNA utilizzando vari **marc
 
 Posso utilizzare queste cellule con DNA inserito per conservare un determinato frammento di DNA
 
-#### Un esempio di applicazione: l'insulina
+### Un esempio di applicazione: l'insulina
 Nel 1980 si concludono le sperimentazioni sull'uomo della produzione batterica di insulina. Al giorno d'oggi quasi tutta l'insulina somministrata ai diabetici è batterica.
 
 L'insulina è normalmente prodotta dal **pancreas** nelle isole del Langherans. 
@@ -274,7 +274,10 @@ L'insulina stimola la diffusione facilitata del glucosio, stimola la sintesi del
 
 Prima della sintesi batterica l'insulina veniva estratta dai pancreas di suini e bovini, con i collegati alti costi di estrazione e purificazione e il rischio di trasferimento di virus.
 
-##### Ottenere il gene per la sostanza desiderata
+
+<iframe style="margin: 0 15%;" width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/413617200&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
+
+#### Ottenere il gene per la sostanza desiderata
 Da una cellula di pancreas con la **trascriptasi inversa** traduciamo ogni messaggero nel DNA a filamento singolo corrispondente. Questo filamento singolo viene duplicato successivamente da una DNA polimerasi.
 
 Non selezioniamo solo il messaggero per l'insulina, ma **tutti i messaggeri presenti nella cellula**.
@@ -283,7 +286,7 @@ Per ottenere l'mRNA estraiamo il materiale genetico dalla cellula. Per farlo pos
 
 Per separare il materiale genetico dal resto della cellula distrutta usiamo la **centrifugazione differenziale**. Ossia usiamo la centrifugazione per riordinare le particelle in strati in base al peso molecolare.
 
-##### Inserire il gene nel microrganismo
+#### Inserire il gene nel microrganismo
 I plasmidi utilizzati conferiscono la resistenza a **2 antibiotici**, l'enzima di restrizione scelto taglia il gene che dava la resistenza a uno dei 2.
 
 In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano in base alla **resistenza agli antibiotici**:
@@ -293,19 +296,19 @@ In questo modo possiamo riconoscere il batterio che abbia ricevuto il gene umano
 
 Al cDNA ottenuto dalle cellule di pancreas aggiungiamo una sequenza di DNA riconosciuta dagli enzimi di restrizione, in modo da formare le sticky ends che permettono l'inserimento nel plasmide.
 
-##### Il cloning del gene
+#### Il cloning del gene
 I plasmidi tendono naturalmente ad entrare nei batteri.
 
 A questo punto iniziamo la **coltura delle cellule**, ma ==non sappiamo se le cellule hanno preso il plasmide, se il plasmide ha integrato il gene umano e se il gene integrato è quello dell'insulina==.
 
 Per **duplicare una piastra** con una garza sterile si tampona la piastra di coltura e poi si appoggia il tampone su altre piastre mantenendo l'orientazione.
 
-##### Selezionare i batteri con un gene umano
+#### Selezionare i batteri con un gene umano
 Come spiegato precedentemente ==in base alla resistenza agli antibiotici possiamo identificare i batteri che hanno integrato un gene umano==: quelle che hanno la resistenza solo ad un antibiotico.
 
 Una volta individuata la posizione possiamo usare una delle altre copie della piastra per continuare il processo, dato che per identificare il batterio dobbiamo ucciderlo.
 
-##### Identificare il gene corretto
+#### Identificare il gene corretto
 Su un disco di plastica della stessa forma della piastra di petri fisso degli **anticorpi anti-insulina**.
 Per sovrapposizione alla piastra di coltura l'anticorpo aggancierà l'insulina prelevandola dalla colonia batterica.
 
@@ -315,12 +318,12 @@ Abbiamo identificato il batterio che ha integrato il gene dell'insulina!
 
 Un ulteriore complicazione che non abbiamo approfondito è la sostituzione della regione di controllo umana con quella batterica.
 
-##### Raccogliere il prodotto
+#### Raccogliere il prodotto
 Per purificare il prodotto della sintesi fatta dal batterio possiamo usare vari metodi, tra cui la **cromatografia su colonna.**
 
-### I colori delle biotecnologie
-#### Biotecnologie rosse - Medicina
-##### Diagnostica
+# I colori delle biotecnologie
+## Biotecnologie rosse - Medicina
+### Diagnostica
 Per riconoscere se una malattia è di origine batterica abbiamo più tecniche:
 - **coltura in ambiente selettivo**, se il batterio non cresce nell'ambiente selettivo non è il batterio che supponevo
 - **antibiogramma**: controllare la vulnerabilità di un batterio ad un antibiotico per scegliere quello più efficacie
@@ -330,16 +333,16 @@ Ad esempio: amplifico il DNA con la PCR e poi con delle sonde specifiche riconos
 
 Con sostanze marcatore possiamo anche identificare un tumore, perché tumori a organi diversi secernono sostanze diverse e riconoscibili.
 
-##### Prodotti naturali ad uso farmaceutico
+### Prodotti naturali ad uso farmaceutico
 ==Alcune piante producono sostanze utili a scopo terapeutico==, invece che coltivare la piante ed estrarre la sostanza desiderata, utilizziamo le biotecnologie per produrla.
 
-##### Animali transgenici per la produzione di farmaci
+### Animali transgenici per la produzione di farmaci
 Diverse sostanze, in particolare legate alla terapia per problemi di coagulazione del sangue, sono molto **complesse e costose da coltivare**.
 
 Un'alternativa è farle produrre ad un animale. Ad esempio il maiale può essere usato per produrre **proteina C** inserendo il gene corrispondente e la regione di controllo della produzione del latte in un embrione, che poi viene impiantato.
 Quando il maiale inizierà a produrre latte produrrà anche proteina C in esso.
 
-##### Animali transgenici per studiare e sperimentare farmaci
+### Animali transgenici per studiare e sperimentare farmaci
 Un animale viene indotto a sviluppare una malattia umana in modo da poi testare dei farmaci.
 
 Possiamo anche disattivare un gene per vedere che effetto si produce.
@@ -352,7 +355,7 @@ Le situazioni finali possibili sono:
 - ==resistente agli antibiotici, ma non sensibile all'antivirale: ricombinazione omologa, il gene è stato rimosso==
 - non resistente agli antibiotici: non è avvenuta ricombinazione, il gene è mantenuto
 
-#### Animali umanizzati per realizzare xenotrapianti
+### Animali umanizzati per realizzare xenotrapianti
 Per produrre organi per il trapianto possiamo impiantare dei geni umani in un animale, che ==svilupperà quindi organi umani==, la cui possibilità di rigetto è minore.
 
 Un possibile rischio è la trasmissione di virus o retrovirus animali.
@@ -362,13 +365,13 @@ Successivamente si inseriscono **cellule pluripotenti umane** in grado di svilup
 
 Vengono usati i maiali e non le i primati sia per motivi economici (l'allevamento dei primati e lungo e costoso), che etici (il sacrificio dei suini è già socialmente accettato, quello dei primati no).
 
-#### Vaccini che si mangiano
+### Vaccini che si mangiano
 I vaccini contengono **antigeni instabili** che necessitano di essere conservati congelati.
 Questo crea gravi problemi dove la **catena del freddo** per la conservazione del prodotto non può essere assicurata per mancanza di frigoriferi o di energia elettrica.
 
 ==È possibile inserire all'interno della pianta i geni per la produzione di antigeni==, allo scopo di creare vaccini che possano essere somministrati oralmente. 
 
-#### Terapia genica
+### Terapia genica
 L'idea di base è ==sostituire un gene difettoso con uno funzionante==.
 
 Non è applicata sulle **cellule germinali** per via delle implicazioni etiche, viene utilizzata invece sulle **cellule somatiche**.
@@ -378,15 +381,15 @@ Fu utilizzata per curare la **ADA-SCID** (una grave immunodeficienza). Le cellul
 
 Il trasferimento del gene può essere fatto su colture in vitro o direttamente sui tessuti del paziente.
 
-#### La tecnologia antisenso
+### La tecnologia antisenso
 Questa tecnica verrà rimpiazzata da crispr.
 
 In alcune situazioni ==la cellula produce un RNA complementare al messaggero==, che tende ad appaiarsi con esso in modo da inattivarlo.
 
 Possiamo creare degli anti-RNA sintetici per silenziare un gene, le modalità di produzione di questo anti-RNA sono varie.
 
-### Biotecnologie verdi - agricoltura
-#### Resistenza ai parassiti
+## Biotecnologie verdi - agricoltura
+### Resistenza ai parassiti
 La **piralide** è un insetto che danneggia il mais rendendolo non commestibile. La soluzione tradizionale sono i pesticidi, che però ha il problema della tossicità ambientale e dell'adattamento degli insetti.
 
 Il **Bacillus thuringiensis** produce una proteina tossica per gli insetti, ma innocua per l'uomo e per l'ambiente. Inoltre la tossina è tossica per ingestione, quindi innocua per gli insetti che non vogliono mangiare la pianta.
@@ -394,12 +397,12 @@ Inizialmente la tossina veniva spruzzata come un pesticida sulle piante, poi il 
 
 La sensibilità alla tossina è data da un **allele recessivo**, quindi se permettiamo agli insetti di svilupparsi in zone rifugio (alcuni filari di mais non trattati genicamente) non si svilupperà la resistenza. 
 
-#### Resistenza agli erbicidi
+### Resistenza agli erbicidi
 Per uccidere le **piante infestanti** si utilizzano erbicidi a largo spettro, che uccidono tutto tranne una pianta che abbiamo reso resistente.
 
 Il caso del **glifosato** è particolarmente interessante dal punto di vista mediatico, perché è stato soggetto a molte campagne ambientaliste data la sua probabile cancerosità, ignorando il fatto che la dose contenuta negli alimenti è diversi ordini di grandezza minore a quella dannosa.
 
-#### Il golden rice
+### Il golden rice
 Per evitare la carenza di **vitamina A** legata ad un'alimentazione basata solo sul riso venne creato ==il golden rice, geneticamente modificato per produrre il precursore della vitamina A e ferro==.
 
 Una versione con ulteriori miglioramenti èil **green super rice**.
