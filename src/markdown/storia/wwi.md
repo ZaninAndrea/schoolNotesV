@@ -168,6 +168,8 @@ La guerra è un acceleratore del progresso tecnologico, gli USA si svilupparono 
 Le perdite nella Grande guerra sono: ==17 milioni di morti== e 20 milioni di feriti e mutilati. Nella seconda guerra mondiale i morti saranno 68 milioni.
 
 # Trattati di pace
+==In entrambe le paci (Versailles e Saint-Germaine) gli sconfitti non partecipano==
+
 Con il **trattato di Saint Germaine** Trentino, Trieste e parte della Dalmazia passano all'Italia, ma non Fiume.
 Durante la Pace di Versailles la delegazione guidata da Vittorio Emanuele Orlando se ne andò perché indignata. Francia, Inghilterra e, in particolare, Stati Uniti non ascoltano le richieste italiane, ma anzi continuarono le trattative senza l'Italia.
 Nonostante il patto di Londra ==l'Italia non acquisisce nessuna colonia== tedesca.
@@ -178,10 +180,10 @@ A nord perde lo Schlesswig, a Est alcuni territori a favore della Cecoslovacchia
 La Germania potrà avere al massimo 100.000 soldati in servizio, 6 navi da guerra e nessuna forza aerea; un **esercito simbolico**.
 Le vennero imposti 132 miliardi di marchi oro come indennizzi di guerra, una cifra abnorme che non era possibile pagare e non venne pagata
 
-La Germania doveva inoltre prendere su di sé la responsabilità della guerra.
+La Germania doveva inoltre prendere su di sé la responsabilità della guerra e diventa una repubblica: la **repubblica di Weimar**.
 
-L'Austria venne suddivisa secondo il principio di **autodeterminazione dei popoli**, dell'impero solo un terzo rimase Austria e divenne una repubblica.
-==L'Ungheria divenne indipendente==, ma cede la Transilvania alla Romania, la parte Ceca alla Slovacchia e la Slovenia al nuovo Regno della Jugoslavia.
+L'Austria venne suddivisa secondo il principio di **autodeterminazione dei popoli**, dell'impero solo un terzo rimase Austria e divenne una repubblica a maggioranza social-democratica.
+==L'Ungheria divenne indipendente== e l'ammiraglio Horty vi impose un governo autoritario. Cede però la Transilvania alla Romania, la parte Ceca alla Slovacchia e la Slovenia al nuovo Regno della Jugoslavia.
 La Romania diventa uno stato multietnico con parte di Bulgaria e Ungheria.
 
 ==La Polonia nasce come stato cuscinetto== tra Russia e l'Europa, così come le repubbliche Baltiche e la Finlandia.
@@ -195,6 +197,9 @@ La Grande Guerra fu **monumentalizzata** (monumenti al milite ignoto, nomi di pi
 
 Ci si chiede perché si sviluppano scontri così brutali, non era il piacere a muovere l'uomo? Freud risponde introducendo la pulsione di morte.
 Si sviluppa il sentimento del "noi contro loro" che ritroviamo nella Guerra Fredda e nello sterminio degli Armeni.
+
+==La Gran Bretagna perse il predominio economico e politico a favore degli Stati Uniti==.
+
 
 # I ventesimi secoli
 Eric Hobsbawm scrive **Il Secolo Breve**, un libro storico di impostazione marxista (mette i fattori economici al centro), anche se alcuni ritengono che sia troppo di impostazione politica. Per lui il ventesimo secolo inizia nel 1914 e finisce nel 1991.
