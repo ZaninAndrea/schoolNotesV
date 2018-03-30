@@ -4,6 +4,11 @@ body {
   box-sizing: border-box;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+
+strong {
+  color: #0081c6;
+}
+
 div {
   box-sizing: border-box;
 }
@@ -14,7 +19,7 @@ div {
 
 .downloadAppunti,
 .print {
-  background: #ac005d;
+  background: #0081c6;
   padding: 10px;
   height: 30px;
   display: inline-block;
@@ -136,13 +141,13 @@ div {
   display: block;
   text-decoration: none;
   font-size: 20px;
-  color: #ac005d;
+  color: #0081c6;
   padding-left: 38px;
   margin-bottom: 15px;
 }
 
 .header {
-  background: #f85959;
+  background: #0081c6;
   position: fixed;
   top: 0;
   width: 100vw;
@@ -155,11 +160,11 @@ div {
 
 .navigationLinks {
   text-decoration: none;
-  color: #ac005d;
+  color: #0081c6;
 }
 
 p.draft {
-  background: #ac005d;
+  background: #0081c6;
   margin: 15px 0;
   color: white;
   padding: 20px;
