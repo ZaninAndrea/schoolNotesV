@@ -471,3 +471,42 @@ Facendo oscillare il sistema con frequenze vicine a quella naturale si può otte
 Questo fenomeno è detto **risonanza** e una suo applicazione è nella radio, che ci permette di sintonizzarci (mettersi in risonanza) con una frequenza a piacere.
 
 # Capitolo 18: La teoria di Maxwell e le onde elettromagnetiche
+## Equazioni di Maxwell
+==Maxwell riesce ad unificare e riassumere tutta la teoria sull'elettromagnetismo.==
+
+### Prima equazione di Maxwell
+È il **teorema di Gauss** sul campo elettrico
+
+$$
+\begin{aligned}
+\phi(E)&=\frac{q_{\text{interna}}}{\epsilon_0}\\
+\int \vec{E} \cdot d\vec{S}&=\frac{q_{\text{interna}}}{\epsilon_0}\\
+\end{aligned}
+$$
+
+### Seconda equazione di Maxwell
+Analogo nel campo magnetico attraverso una **superficie chiusa** del teorema di Gauss sul campo elettrico.
+
+$$
+\phi(B)=\int_S \vec{B} \cdot d\vec{S}=0
+$$
+
+Spiegazione intuitiva: Le linee di campo magnetico che bucano una superficie chiusa devo uscire e anche rientrare, perché i poli Nord e Sud non possono essere divisi, quindi in totale si cancellano.
+
+### Terza equazione di Maxwell
+Indica la relazione tra variazione di campo magnetico e corrente indotta
+$$
+\oint_\gamma \vec{E} \cdot d\vec{l}=-\frac{d\Phi_B}{dt}
+$$
+
+### Quarta equazione di Maxwell
+È la legge di Ampère sul campo magnetico indotto da una corrente, con l'aggiunta della corrente di spostamento
+$$
+\oint_\gamma\vec{B}d\vec{l}=\mu_0(i_{\text{concatenata}}+i_{\text{spostamento}})
+$$
+
+La **corrente di spostamento** è
+$$
+i_s=\epsilon_0\frac{d\phi_E}{dt}
+$$
+e viene introdotta perchè la legge di Ampère non funziona in processi dinamici, e.g. un condensatore che si carica.
