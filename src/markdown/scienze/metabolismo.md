@@ -2,7 +2,7 @@
 category: "Scienze"
 title: "Metabolismo"
 index: 3
-draft: true
+draft: false
 ---
 
 I nutrienti vengono demoliti, **catabolismo**, ottenendo prodotti utili alla vita, calore e energia.
@@ -58,7 +58,7 @@ Se le vie metabolica vanno in doppio senso si dicono **anfiboliche**
 
 Le vie metaboliche possono essere **convergenti** (se vie diverse producono le stesse molecole), **divergenti** (se vie diverse partono dagli stessi prodotti), **cicliche** (se partono dalla e arrivano alla stessa sostanza).
 
-Un importante prodotto di convergenza e divergenza è l'**Acetil coenzima A**, un tioestere prodotto dalla condensazione di un tiolo (molecola con il gruppo -SH), il coenzima A, e l'acido acetico.
+Un importante prodotto di convergenza e divergenza è l'**Acetil coenzima A**, un tioestere prodotto dalla condensazione di un tiolo (molecola con il gruppo $-\text{SH}$), il coenzima A, e l'acido acetico.
 
 ## Catabolismo e anabolismo
 Il catabolismo è generalmente ossidativo, mentre l'anabolismo è riducente.
@@ -76,22 +76,19 @@ Si dice agente **riducente**, oppure ossidato, il donatore di elettroni e agente
 ## Le molecole dell'energia
 ### ATP
 L'$\text{ATP}$ è un nucleotide trifosfato: il ribosio lega l’adenina, un'ammina aromatica, sul carbonio 1, mentre sul carbonio 5 si legano i gruppi fosfati in catena.
+I gruppi fosforici dell'$\text{ATP}$ possono essere idrolizzati liberando energia.
 
 ![molecola di ATP](/images/atp.PNG)
 
-I gruppi fosforici dell'$\text{ATP}$ possono essere idrolizzati liberando energia.
 
-![idrolisi](/images/idrolisi.PNG)
-
-MANCA LA SPIEGAZIONE DI PERCHÉ L'$\text{ATP}$ È MOLTO ENERGETICA
-$\text{ATP}$ libera tanta energia poiché in ambiente cellulare (ph7) i gruppi OH sono ionizzati e quindi rimangono 3 ossigeni ionizzati con carica negativa che causa repulsione e questo favorisce l’idrolisi(che si lega a P), la stabilità del neonato ADP. Passaggio favorito poiché le cariche interne all’adp sono ottemperate dalle molecole d’acqua ( equilibruo della reazione sbilanciato verso ADP). Energia liberata poiché sono passato da molecola stabile a poco stabile. L’$\text{ATP}$ però è reso stabile dall’alta energia di attivazione.
-
+L'$\text{ATP}$ è una molecola con forti repulsioni interne, quando si idrolizza in $\text{ADP}$ queste vengono meno e il gruppo fosfato libero si stabilizza per risonanza, rendendo quindi la situazione molto stabile.
+==Il passaggio ad uno stato più stabile libera molta energia==, ma non avviene spontaneamente grazie all'alta energia di attivazione.
 
 #### Modalità di azione dell'ATP
 L'$\text{ATP}$ può cedere energia in 2 modi:
 - **indirettamente**: trasferisce un gruppo P al substrato rendendolo più energetico
 - **direttamente**: trasferisce energia ad una proteina mediante **idrolisi**, questa energia può essere usato in vari modi:
-    - contrazione muscolare: dopo il rilascio deglio ioni $Ca^{2+}$ e la conseguente esposizione dei siti di legame per la miosina sui filamenti di actina, l'$\text{ATP}$ si lega alla **miosina** che funziona da **ATPasi**, ossia fa rilasciare un gruppo P, la liberazione di questo provoca un cambiamento nella struttura della miosina e quindi una forza contrattile
+    - contrazione muscolare: dopo il rilascio deglio ioni $\text{Ca}^{2+}$ e la conseguente esposizione dei siti di legame per la miosina sui filamenti di actina, l'$\text{ATP}$ si lega alla **miosina** che funziona da **ATPasi**, ossia fa rilasciare un gruppo P, la liberazione di questo provoca un cambiamento nella struttura della miosina e quindi una forza contrattile
     - far spostare gli enzimi lungo il DNA
     - far spostare i ribosomi lungo l'RNA messaggero
 
@@ -104,16 +101,16 @@ Tra le altre molecole che trasferiscono elettroni ci sono:
 Entrambi hanno una forma ossidata, $\text{NAD}^+$ e $\text{FAD}$, e una ridotta, $\text{NADH}+\text{H}^+$ e $\text{FADH}_2$
 
 ### Composti a elevata energia libera di idrolisi
-La **creatina** può diventare fosfocreatina ossidando un'$\text{ATP}$ in ADP. 
+La **creatina** può diventare fosfocreatina ossidando un'$\text{ATP}$ in $\text{ADP}$. 
 
-Nel momento dello sforzo la fosfocreatina rilascia il gruppo fosfato rigenerando ATP.
+Nel momento dello sforzo la fosfocreatina rilascia il gruppo fosfato rigenerando $\text{ATP}$.
 
 È preferibile all'$\text{ATP}$ perché più facile da immagazzinare.
 
 # Metabolismo dei carboidrati
 La sostanza chiave per il metabolismo dei carboidrati è il **glucosio**, che possiamo ottenere per alimentazione o per glicogenolisi.
 
-Il glucosio può subire glicolisi e diventare **acido piruvico**, che poi può subire metabolismo terminale (sviluppando completamente la sua energia: 30 ATP) o fermentazione (meccanismo di emergenza in assenza di ossigeno: 2 ATP).
+Il glucosio può subire glicolisi e diventare **acido piruvico**, che poi può subire metabolismo terminale (sviluppando completamente la sua energia: $30\:\text{ATP}$) o fermentazione (meccanismo di emergenza in assenza di ossigeno: $2\:\text{ATP}$).
 
 ## Glicolisi
 Via anaerobica, che avviene nel citoplasma, produce 2 molecole di acido piruvico da una di glucosio.
@@ -121,12 +118,12 @@ Via anaerobica, che avviene nel citoplasma, produce 2 molecole di acido piruvico
 Reazione:
 
 $$
-C_6H_{12}O_6+2ADP+2P_i+2NAD \rightarrow 2C_3H_4O_3 + 2ATP + 2NADH + 2H^+
+\text{C}_6\text{H}_{12}\text{O}_6+2\text{ADP}+2\text{P}_i+2\text{NAD} \rightarrow 2\text{C}_3\text{H}_4\text{O}_3 + 2\text{ATP} + 2\text{NADH} + 2\text{H}^+
 $$
 
-La glicolisi in realtà è fatta di 10 reazioni intermedie, la produzione inizia con una spesa di 2 $\text{ATP}$ per rendere le molecole più reattive.
-Queste molecole poi produrranno 4 ATP.
-Si producono anche dei $NADH$, che poi potranno diventare ATP.
+La glicolisi in realtà è fatta di 10 reazioni intermedie, la produzione inizia con una spesa di $2\:\text{ATP}$ per rendere le molecole più reattive.
+Queste molecole poi produrranno $4\: \text{ATP}$.
+Si producono anche dei $\text{NADH}$, che poi potranno diventare $\text{ATP}$.
 
 Gli enzimi metabolici sono spesso in forma fosforilata.
 
@@ -137,7 +134,7 @@ Un gruppo fosfato si lega al carbonio 6, ottenendo glucosio 6-fosfato, l'enzima 
 Per renderla ancora più reattiva la molecola viene prima trasformata in **fruttosio 6-fosfato** dalla **fosfoesoso isomerasi**.
 
 Il fruttosio 6-fosfato potrebbe prendere altre vie metaboliche, per questo viene aggiunto un secondo gruppo fosfato che lo obbliga a procedere nella glicolisi. L'enzima che aggiunge il secondo fosfato è la **fosfofruttochinasi** .
-Questo enzima viene inibito da $\text{ATP}$ e citrato, mentre è attivato da AMP e ADP, in questo modo ==il ciclo è regolato in base alla necessità di energia.==
+Questo enzima viene inibito da $\text{ATP}$ e citrato, mentre è attivato da $\text{AMP}$ e $\text{ADP}$, in questo modo ==il ciclo è regolato in base alla necessità di energia.==
 
 La molecola del fruttosio 1,6-bifosfato si rompe per le forti repulsioni interne e otteniamo diidrossiacetone fosfato e gliceraldeide 3-fosfato, il diidrossiacetone fosfato viene subito convertito in gliceraldeide 3-fosfato per isomeria.
 
@@ -146,13 +143,13 @@ La molecola del fruttosio 1,6-bifosfato si rompe per le forti repulsioni interne
 
 Sruttando la grande ossidabilità delle aldeidi, il carbonio del gruppo aldeidico (carbonio 6) si ossia da +1 a +3 legando un ossigeno legato ad un gruppo fosfato; nel farlo riduce il $\text{NAD}^+$ in $\text{NADH}+\text{H}^+$.
 
-Il fosfato che è stato precedentemente agganciato allo zucchero viene trasferito ad un ADP producendo un ADP.
-Questo processo è detto **fosforilazione a livello del substrato**, ossia il gruppo fosfato passa direttamente da ADP a ATP.
+Il fosfato che è stato precedentemente agganciato allo zucchero viene trasferito ad un $\text{ADP}$ producendo un $\text{ATP}$.
+Questo processo è detto **fosforilazione a livello del substrato**, ossia il gruppo fosfato passa direttamente da $\text{ADP}$ a $\text{ATP}$.
 
 L'ultimo gruppo fosfato è difficile da estrarre in quella forma, la molecola viene quindi resa più instabile spostando il gruppo fosfato dal carbonio 3 al 2.
-Poi l'enolasi fa rilasciare acqua e infine il gruppo fosfato viene ceduto ad una ADP producendo una ATP.
+Poi l'enolasi fa rilasciare acqua e infine il gruppo fosfato viene ceduto ad una $\text{ADP}$ producendo una $\text{ATP}$.
 
-Il prodotto finale sono 2 **piruvato**, 4 $\text{ATP}$ (con però una spesa di 2) e 2 $\text{NADH} + \text{H}^+$ per ogni glucosio.
+Il prodotto finale sono 2 **piruvato**, $4\:\text{ATP}$ (con però una spesa di 2) e $2\:\text{NADH} + \text{H}^+$ per ogni glucosio.
 
 ## Fermentazione lattica
 Nel caso di **condizioni anaerobe** avviene la fermentazione lattica, che non ha lo scopo di produrre energia, bensì produrre il **$\text{NAD}^+$** necessario alla glicolisi.
@@ -171,42 +168,40 @@ I mitocondri hanno 2 membrane di rivestimento, una esterna ed una interna ripieg
 L'acido piruvico si trova quasi sempre in forma ionizzata, motivo per cui lo chiamiamo piruvato.
 
 ## Decarbossilazione in condizioni aerobe
-Il piruvato entra nel mitocondrio per **trasporto attivo** e si lega al CoA formando **Acetil-CoA**, nel farlo si ossida quindi trasforma un $NAD^+$ in $NADH+H^+$.
+Il piruvato entra nel mitocondrio per **trasporto attivo** e si lega al CoA formando **Acetil-CoA**, nel farlo si ossida quindi trasforma un $\text{NAD}^+$ in $\text{NADH}+\text{H}^+$.
 
 L'Acetil-CoA entra nel ciclo di Krebs, ricordiamo che l'Acetil-CoA poteva derivare anche da lipidi e amminoacidi, non solo carboidrati.
 
 ## Ciclo di Krebs
 Otteniamo il citrato (6 atomi di carbonio) tramite condensazione dell'acetil-CoA con l'**ossalacetato** (4 atomi di carbonio).
 
-Il citrato viene ossidato 4 volte in più tappe, dando 3 NAD e un FAD e una fosforilazione che produce un ATP.
+Il citrato viene ossidato 4 volte in più tappe, dando 3 $\text{NAD}$ e un $\text{FAD}$ e una fosforilazione che produce un $\text{ATP}$.
 
 Il citrato (che ha un gruppo alcolico terziario) viene trasformato in alcol secondario in modo da potersi ossidare.
 
-Fino a questo punto l'ossigeno non è stato utilizzato e la resa in $ATP$ è molto bassa.
+Fino a questo punto l'ossigeno non è stato utilizzato e la resa in $\text{ATP}$ è molto bassa.
 
 Il ciclo di Krebs è regolato tramite inibizione a feedback.
-
-APPROFONDIRE MECCANISMO DEL CICLO DI KREBS?
 
 ## Trasporto degli elettroni
 Nella membrana mitocondriale ci sono dei **trasportatori di elettroni** formati da proteine e coenzimi e collocati in sequenze specifiche.
 
-Nel complesso 1 il NADH si ossida e cede gli elettroni al trasportatore, questi vengono ceduti al complesso 2 e nel trasferimento ==si abbassa il loro livello di energia==.
+Nel complesso 1 il $\text{NADH}$ si ossida e cede gli elettroni al trasportatore, questi vengono ceduti al complesso 2 e nel trasferimento ==si abbassa il loro livello di energia==.
 L'energia che si libera viene usata per spostare protoni nella camera interna tra 2 membrane.
 Questo ciclo si ripete nei passaggi tra il complesso 2-3-4.
 
-Il FADH subisce lo stesso processo ma inizia con un livello energetico più basso, ha quindi una resa minore.
+Il $\text{FADH}$ subisce lo stesso processo ma inizia con un livello energetico più basso, ha quindi una resa minore.
 
 Questi elettroni a bassa energia vengono catturati dall'ossigeno, grazie alla sua grande elettronegatività.
 La **riduzione dell'ossigeno** origina molecole di acqua.
 
 ## Produzione di ATP
-Il **gradiente elttrochimico** formato dall'accumulo di protoni li fa fluire attraverso l'ATP sintasi e nel farlo forniscono all'**ATP sintasi** l'energia per caricare l'ADP di un gruppo fosfato producendo ATP.
+Il **gradiente elttrochimico** formato dall'accumulo di protoni li fa fluire attraverso l'ATP sintasi e nel farlo forniscono all'**ATP sintasi** l'energia per caricare l'$\text{ADP}$ di un gruppo fosfato producendo $\text{ATP}$.
 
 ## Via dei pentoso fosfati
 Una **vita metabolica alternativa** per il glucosio è la via dei pentoso fosfati che trasforma glucosio in **ribosio 5-fosfato**.
 
-In questa via viene ridotto un NADP in NADPH, importante nelle vie dei lipidi, e vengono prodotti degli antiossidanti.
+In questa via viene ridotto un $\text{NADP}$ in $\text{NADPH}$, importante nelle vie dei lipidi, e vengono prodotti degli antiossidanti.
 
 ## Via del glicogeno
 ### Glicogenosintesi
@@ -255,7 +250,7 @@ Esistono vari tipi di clorofilla, i principali sono a e b.
 La fotosintesi si divide in fase luminosa e fase indipendente dalla luce.
 
 ## Fase luminosa
-Il fotosistema I e II sono composti da pigmenti e varie molecole reattive di clorofilla ($P_{680}$ e $P_{700}$, in base al picco di assorbimento).
+Il fotosistema I e II sono composti da pigmenti e varie molecole reattive di clorofilla ($\text{P}_{680}$ e $\text{P}_{700}$, in base al picco di assorbimento).
 
 La clorofilla è caratterizzata dalla presenza di un **eterociclo porfirinico** al centro del quale è coordinato uno ione $\text{Mg}$.
 
@@ -269,5 +264,18 @@ Dall'accettore primario gli elettroni iniziano ad essere trasferiti perdendendo 
 
 Il fotosistema I funziona come il II, ma la fonte di elettroni è la catena di trasporto non l'ossidazione dell'acqua.
 
-Dal fotosistema I parte una corta catena di trasporto degli elettroni, che ha lo scopo di ridurre il NADP, che poi permetterà la riduzione della $CO_2$ in $C_6H_{12}O_6$
+Dal fotosistema I parte una corta catena di trasporto degli elettroni, che ha lo scopo di ridurre il $\text{NADP}$, che poi permetterà la riduzione della $\text{CO}_2$ in $\text{C}_6\text{H}_{12}\text{O}_6$
 
+## Fase indipendente dalla luce
+L'enzima chiave è il **RuBisCo**, che **organica** la $\text{CO}_2$ inserendola sul ribulosio 1,5-difosfato, il prodotto si idrolizza naturalmente in 3-fosfoglicerato.
+
+Il **ciclo di Calvin** inizia con l'inserimento di $6\:\text{CO}_2$, utilizzando energia sotto forma di $\text{ATP}$ e potere ossidante sotto forma di $\text{NADPH}$, otteniamo 12 **gliceraldeide 3-fosfato**, 2 di queste escono dal ciclo e formano un glucosio, le altre invece vengono riconvertite in ribulosio 1,5-difosfato.
+
+Quando la pianta chiude gli stomi per evitare dispersione di acqua e quindi manca la $\text{CO}_2$ necessaria per il ciclo di Calvin, allora la pianta fa la **fotorespirazione** per produrre $\text{CO}_2$ ossidando gli zuccheri prodotti dalla fase luminosa.
+
+In alcune piante per evitare questo spreco energetico le **cellule della guaina del fascio** (che circondano i vasi conduttori della foglia) fanno il ciclo di Calvin e le altre cellule invece utilizzano un meccanismo alternativo.
+
+Questo meccanismo alternativo utilizza la PEP carbossilasi invece che il RuBisCo, inoltre la $\text{CO}_2$ viene catturata, ma poi rilasciata. L'intero ciclo consuma $\text{ATP}$ e $\text{NADPH}$ senza produrre nulla.
+
+Questo meccanismo è molto efficiente nel catturare la $\text{CO}_2$, crea un forte gradiente di concentrazione.
+In questo modo lo stoma può stare aperto per poco tempo e dopo la $\text{CO}_2$ verrà rilasciata progressivamente e messa a disposizione del ciclo di Calvin.

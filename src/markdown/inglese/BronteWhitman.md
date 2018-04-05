@@ -2,7 +2,7 @@
 category: "English literature"
 title: "Bronte, Whitman and the Modern Age"
 index: 3
-draft: true
+draft: false
 ---
 
 # Emily Brontë
@@ -32,4 +32,44 @@ Heathcliff is a **dark Romantic hero**, dominated by his self-destructive passio
 She follows social conventions into marrying Edgar Linton, although she truly loves Heathcliff.
 
 The story is narrated by 2 narrators, one of which is Nelly Dean, maid and confidante of Catherine.
+
+# Walt Whitman
+## Life
+Walt Whitman was born in New York in 1819 from a poor family. He had little education and started working at an early age.
+
+In the 1840s and 1850s ==he travelled throughout the USA==, getting to know its people, that will be the subject of his poetry.
+The Civil War was a shock for him.
+
+He died in 1892 after revising his poems.
+
+## Leaves of Grass
+The only work of Whitman is _Leaves of Grass_, he first published it in 1855, but ==kept revising and adding poems== for all his life.
+The fame of the collection kept growing steadily.
+
+The theme of the collection is **America and its people**, his poetry reflects his philosophy of inspired individualism and the **glorification of the self**.
+
+He sees himself as the incarnation of the country's spirit and geography.
+
+He used the **free verse**, that he invented, to reflect the rythm of the ordinary language.
+==His language is simple== yet passionate, sometimes colloquial; he widely used metaphors and similes.
+
+# The Modernist Revolution
+## The loss of certainty
+At the beggining of th 20th century **skepticism** started to emerge among intellectuals.
+
+Nietzsche's moral relativism and Einstein's relativity destroyed the vision of the worlds as certain and understandable.
+
+Freud's discovery of the unconscious gave intellectuals something to hold on, because it meant that consciously or unconsciously human behaviour followed a pattern.
+
+## Modernist literature
+Modernist destroy traditional time, space and literary genres leading to **the collapse of the traditional plot** (clearly defined characters, settings, beginning and end).
+Their language reflects their **rebellion against tradition**: they use a complex language that often ignores syntax, grammar and punctuation. For example they use the free verse.
+
+They put and emphasis on **psychological truth** and integrate different myth, philosophies and traditions.
+
+A key topic for the first-generation modernists is the **unconscious in daily life** and to describe it they often used the **stream of consciousness** technique, as we see in Joyce's *Ulysses*.
+
+Altough inspired by the iconoclastic movements of the early 20th century (Cubism, Futurism, Dadaism, Surrealism), they considered the past valuable, myths in particular.
+
+From the mid-20s the artists started taking a political side, most of them turned to **political left** and some even went to fight in the **Spanish Civil War** against Franco.
 
