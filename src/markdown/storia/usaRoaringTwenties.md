@@ -1,8 +1,8 @@
 ---
 category: "Storia"
-title: "I Roaring Twenties"
+title: "Dai Roaring Twenties alla Grande depressione"
 index: 4
-draft: false
+draft: true
 ---
 
 # Il boom economico

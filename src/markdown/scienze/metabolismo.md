@@ -144,7 +144,7 @@ La molecola del fruttosio 1,6-bifosfato si rompe per le forti repulsioni interne
 Sruttando la grande ossidabilità delle aldeidi, il carbonio del gruppo aldeidico (carbonio 6) si ossia da +1 a +3 legando un ossigeno legato ad un gruppo fosfato; nel farlo riduce il $\text{NAD}^+$ in $\text{NADH}+\text{H}^+$.
 
 Il fosfato che è stato precedentemente agganciato allo zucchero viene trasferito ad un $\text{ADP}$ producendo un $\text{ATP}$.
-Questo processo è detto **fosforilazione a livello del substrato**, ossia il gruppo fosfato passa direttamente da $\text{ADP}$ a $\text{ATP}$.
+Questo processo è detto **fosforilazione a livello del substrato**, ossia il gruppo fosfato passa direttamente da una molecola ad alta energia all'$\text{ADP}$ formando un'$\text{ATP}$.
 
 L'ultimo gruppo fosfato è difficile da estrarre in quella forma, la molecola viene quindi resa più instabile spostando il gruppo fosfato dal carbonio 3 al 2.
 Poi l'enolasi fa rilasciare acqua e infine il gruppo fosfato viene ceduto ad una $\text{ADP}$ producendo una $\text{ATP}$.
@@ -155,6 +155,8 @@ Il prodotto finale sono 2 **piruvato**, $4\:\text{ATP}$ (con però una spesa di 
 Nel caso di **condizioni anaerobe** avviene la fermentazione lattica, che non ha lo scopo di produrre energia, bensì produrre il **$\text{NAD}^+$** necessario alla glicolisi.
 
 Produce **lattato**, che in condizioni aerobe viene revertito a piruvato.
+
+![](\images\fermentazioneLattica.PNG)
 
 ## Fermentazione alcolica
 La fermentazione alcolica ha una fase intermedia in cui il piruvato viene trasformato in acetaldeide liberando $\text{CO}_2$.

@@ -51,7 +51,7 @@ The theme of the collection is **America and its people**, his poetry reflects h
 He sees himself as the incarnation of the country's spirit and geography.
 
 He used the **free verse**, that he invented, to reflect the rythm of the ordinary language.
-==His language is simple== yet passionate, sometimes colloquial; he widely used metaphors and similes.
+==His language is simple== yet passionate, sometimes colloquial; he didn't use much metaphors and similes, because he preferred direct statements.
 
 # The Modernist Revolution
 ## The loss of certainty
@@ -72,4 +72,3 @@ A key topic for the first-generation modernists is the **unconscious in daily li
 Altough inspired by the iconoclastic movements of the early 20th century (Cubism, Futurism, Dadaism, Surrealism), they considered the past valuable, myths in particular.
 
 From the mid-20s the artists started taking a political side, most of them turned to **political left** and some even went to fight in the **Spanish Civil War** against Franco.
-

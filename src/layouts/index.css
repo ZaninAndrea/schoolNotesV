@@ -253,3 +253,13 @@ a.linkPreviewText:hover {
 .sidebarList li a p {
   margin: 5px 0;
 }
+
+.markdown-body img {
+  margin: 0 auto;
+  display: block;
+}
+
+mark {
+  background: #0081c6;
+  color: white;
+}
