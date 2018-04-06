@@ -156,7 +156,7 @@ Nel caso di **condizioni anaerobe** avviene la fermentazione lattica, che non ha
 
 Produce **lattato**, che in condizioni aerobe viene revertito a piruvato.
 
-![](\images\fermentazioneLattica.PNG)
+![](/images/fermentazioneLattica.PNG)
 
 ## Fermentazione alcolica
 La fermentazione alcolica ha una fase intermedia in cui il piruvato viene trasformato in acetaldeide liberando $\text{CO}_2$.
@@ -170,20 +170,20 @@ I mitocondri hanno 2 membrane di rivestimento, una esterna ed una interna ripieg
 L'acido piruvico si trova quasi sempre in forma ionizzata, motivo per cui lo chiamiamo piruvato.
 
 ## Decarbossilazione in condizioni aerobe
-Il piruvato entra nel mitocondrio per **trasporto attivo** e si lega al CoA formando **Acetil-CoA**, nel farlo si ossida quindi trasforma un $\text{NAD}^+$ in $\text{NADH}+\text{H}^+$.
+Il piruvato entra nel mitocondrio per **trasporto attivo** e si lega al Coenzima A formando **Acetil-CoA**, nel farlo si ossida quindi trasforma un $\text{NAD}^+$ in $\text{NADH}+\text{H}^+$.
 
-L'Acetil-CoA entra nel ciclo di Krebs, ricordiamo che l'Acetil-CoA poteva derivare anche da lipidi e amminoacidi, non solo carboidrati.
+L'Acetil-CoA entra nel ciclo di Krebs, ricordiamo che esso poteva derivare anche da lipidi e amminoacidi, non solo carboidrati.
 
 ## Ciclo di Krebs
 Otteniamo il citrato (6 atomi di carbonio) tramite condensazione dell'acetil-CoA con l'**ossalacetato** (4 atomi di carbonio).
+Questa reazione è il principale regolatore del ciclo (inibizione da feedback): la **citrato sintasi** che la catalizza è inibita dal succinil-CoA (un intermedio del ciclo).
 
-Il citrato viene ossidato 4 volte in più tappe, dando 3 $\text{NAD}$ e un $\text{FAD}$ e una fosforilazione che produce un $\text{ATP}$.
-
+Il citrato viene ossidato 4 volte in più tappe, dando 3 $\text{NADH}$ e un $\text{FADH}$ e una fosforilazione che produce un $\text{ATP}$.
 Il citrato (che ha un gruppo alcolico terziario) viene trasformato in alcol secondario in modo da potersi ossidare.
 
-Fino a questo punto l'ossigeno non è stato utilizzato e la resa in $\text{ATP}$ è molto bassa.
+==L'ossalacetato iniziale viene ri-sintetizzato alla fine del ciclo==, mentre dell'Acetil-CoA il CoA viene liberato e il gruppo acetile ossidato a $2\:\text{CO}_2$ (nelle 2 **decarbossilazioni ossidative** da citrato a succinato).
 
-Il ciclo di Krebs è regolato tramite inibizione a feedback.
+Fino a questo punto l'ossigeno non è stato utilizzato e la resa in $\text{ATP}$ è molto bassa.
 
 ## Trasporto degli elettroni
 Nella membrana mitocondriale ci sono dei **trasportatori di elettroni** formati da proteine e coenzimi e collocati in sequenze specifiche.
@@ -197,17 +197,16 @@ Il $\text{FADH}$ subisce lo stesso processo ma inizia con un livello energetico 
 Questi elettroni a bassa energia vengono catturati dall'ossigeno, grazie alla sua grande elettronegatività.
 La **riduzione dell'ossigeno** origina molecole di acqua.
 
-## Produzione di ATP
-Il **gradiente elttrochimico** formato dall'accumulo di protoni li fa fluire attraverso l'ATP sintasi e nel farlo forniscono all'**ATP sintasi** l'energia per caricare l'$\text{ADP}$ di un gruppo fosfato producendo $\text{ATP}$.
+Il **gradiente elettrochimico** formato dall'accumulo di protoni li fa fluire attraverso l'**ATP sintasi** e nel farlo le forniscono l'energia per caricare l'$\text{ADP}$ di un gruppo fosfato producendo $\text{ATP}$.
 
 ## Via dei pentoso fosfati
 Una **vita metabolica alternativa** per il glucosio è la via dei pentoso fosfati che trasforma glucosio in **ribosio 5-fosfato**.
 
 In questa via viene ridotto un $\text{NADP}$ in $\text{NADPH}$, importante nelle vie dei lipidi, e vengono prodotti degli antiossidanti.
 
-## Via del glicogeno
+## Vie del glicogeno
 ### Glicogenosintesi
-Nel fegato avviene la glicogenosintesi, ossia la sintesi del glicogeno da glucosio.
+Nel fegato e nei muscoli avviene la glicogenosintesi, ossia la sintesi del glicogeno da glucosio.
 Ricordiamo che ==il glicogeno non è solubile== e pertanto adatto ad essere immagazzinato senza provocare shock osmotico.
 
 La crescita del glicogeno necessita della glicogenina che fornisce supporto meccanico.
@@ -241,7 +240,7 @@ In inverno le foglie vengono perse per evitare la fuoriuscita di acqua.
 
 I **cloroplasti** sono composti da:
 - tilacoidi, hanno una struttura a doppia membrana
-- stoma, simile alla matrice dei mitocondri
+- stroma (da non condonfere con stoma), simile alla matrice dei mitocondri
 
 Anche i cloroplasti hanno origine endosimbiontica.
 
@@ -262,7 +261,7 @@ I pigmenti ricevono energia dal sole e la trasferiscono tra loro, finchè non ra
 
 La clorifilla si riduce nuovamente grazie all'ossidazione dell'acqua in ossigeno molecolare.
 
-Dall'accettore primario gli elettroni iniziano ad essere trasferiti perdendendo energia, che viene utilizzata per ==creare un gradiente di protoni== (come nel metabolismo degli zuccheri).
+Dall'accettore primario gli elettroni iniziano ad essere trasferiti perdendendo energia, che viene utilizzata per ==creare un gradiente di protoni==, che, come nel metabolismo degli zuccheri, produrrà $\text{ATP}$.
 
 Il fotosistema I funziona come il II, ma la fonte di elettroni è la catena di trasporto non l'ossidazione dell'acqua.
 
@@ -271,9 +270,9 @@ Dal fotosistema I parte una corta catena di trasporto degli elettroni, che ha lo
 ## Fase indipendente dalla luce
 L'enzima chiave è il **RuBisCo**, che **organica** la $\text{CO}_2$ inserendola sul ribulosio 1,5-difosfato, il prodotto si idrolizza naturalmente in 3-fosfoglicerato.
 
-Il **ciclo di Calvin** inizia con l'inserimento di $6\:\text{CO}_2$, utilizzando energia sotto forma di $\text{ATP}$ e potere ossidante sotto forma di $\text{NADPH}$, otteniamo 12 **gliceraldeide 3-fosfato**, 2 di queste escono dal ciclo e formano un glucosio, le altre invece vengono riconvertite in ribulosio 1,5-difosfato.
+Il **ciclo di Calvin** inizia con l'inserimento di $6\:\text{CO}_2$, utilizzando energia sotto forma di $\text{ATP}$ e $\text{NADPH}$, otteniamo 12 **gliceraldeide 3-fosfato**, 2 di queste escono dal ciclo e formano un glucosio, le altre invece vengono riconvertite in ribulosio 1,5-difosfato.
 
-Quando la pianta chiude gli stomi per evitare dispersione di acqua e quindi manca la $\text{CO}_2$ necessaria per il ciclo di Calvin, allora la pianta fa la **fotorespirazione** per produrre $\text{CO}_2$ ossidando gli zuccheri prodotti dalla fase luminosa.
+Per evitare dispersione di acqua talvolta la pianta chiude gli stomi e quindi manca la $\text{CO}_2$ necessaria per il ciclo di Calvin, allora il RuBisCo catalizza la **fotorespirazione** che produce $\text{CO}_2$ ossidando gli zuccheri prodotti dalla fase luminosa (non produce ATP).
 
 In alcune piante per evitare questo spreco energetico le **cellule della guaina del fascio** (che circondano i vasi conduttori della foglia) fanno il ciclo di Calvin e le altre cellule invece utilizzano un meccanismo alternativo.
 
