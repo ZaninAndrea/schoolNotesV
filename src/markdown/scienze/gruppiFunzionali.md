@@ -1,10 +1,57 @@
 ---
 category: "Scienze"
-title: "Gruppi Funzionali"
+title: "Chimica Organica"
 pdfCompletoPath: "chimicaOrganica.pdf"
 index: 1
 draft: true
 ---
+
+# Alcani, alcheni e alchini
+Nomenclatura IUPAC, compresi i principali nomi in tradizionale (etilene, acetilene, vinile, ...)
+- radicali alchilici (-ile):
+	- propile: iso e normal (normal è lineare), iso invece è con una catena di 1 sul penultimo carbonio
+	- butile: iso, sec (ramificazione sul terzultimo), terz (2 ramificazioni sull'ultimo), normal
+	- alternative IUPAC, e.g. iso-propile = 1-metil-etile (posso usare parentesi per chiarificare)
+
+Grado di un carbonio: 
+- legato ad un carbonio--> primario
+- 2 --> secondario
+- 3 --> terziario
+- 4 --> quaternario
+
+Formule: scheletro, condensata, semicondensata, espansa, 
+
+Isomerie:
+- alcani
+	- di catena (cambiano le ramificazioni)
+	- ottica (carbonio chirale): R e S
+- cicloalcani
+	- di catena
+	- conformazionale (barca/sedia)
+	- cis(stesso lato)-trans o E-Z(stesso lato), trans solo con almeno 8C
+- alcheni
+	- catena
+	- ottica
+	- cis trans
+	- di posizione (cambia la posizione del doppio legame)
+
+poliene=alchene con più doppi legami
+
+- reazioni alcani
+	- combustione: eccesso di O_2, libera CO_2 e H_2O
+	- alogenazione, è più facile la sostituzione di un idrogeno legato ad un C di grado più alto
+- reazioni alcheni e alchini
+	- addizione elettrofila, si rompe il doppio legame
+		- regola di Markovnikov: la componente elettrofila si lega all'atomo di C con più atomi di H
+	- combustione
+	- polimerizzazione
+- alogenuri:
+	- l'eliminazione nucleofila (E1, alogenuro terziario, e E2, alogenuro primario) produce un alchene
+		- regola di Zaitsev: l'idrogeno viene sottrato al carbonio con meno H tra quelli legati al carbonio con l'alogeno
+- alcol
+	- la disidratazione (eliminazione nucleofila) di un alcol produce un alchene
+		- predomina l'alchene con il doppio legame più sostituito
+
 
 # Alogenuri
 
