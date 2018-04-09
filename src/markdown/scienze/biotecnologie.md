@@ -204,7 +204,7 @@ Ciò ha anche avuto ricardute filosofiche, ad esempio la profilazione genetica a
 
 ### CRISPR
 
-https://www.youtube.com/watch?v=jAhjPd4uNFY
+![](https://www.youtube.com/watch?v=jAhjPd4uNFY)
 
 I batteri contengono una sequenza in cui viene **conservata una porzione del DNA virale** in modo da poterlo in successive infezioni.
 Quando un secondo virus tenta di infettare la cellula il DNA virale viene subito riconosciuto e il batterio produce un RNA guida, una copia in RNA del DNA virale e un enzima **Cas9**.

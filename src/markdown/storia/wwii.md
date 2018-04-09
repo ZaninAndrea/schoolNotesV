@@ -48,6 +48,8 @@ Questo perchè nelle grandi purghe di Stalin molti ufficiali erano stati giustiz
 Nella primavera del 1940 Hitler aggredisce la Danimarca, che si arrende quasi senza combattere, e la Norvegia, dove si instaura il governo filo-tedesco di Vidkun Quisling, capo del partito nazista norvegese.
 
 # La campagna di Francia
+![](https://www.youtube.com/watch?v=Q-1H5FuB3fo)
+
 ## Attacco a sorpresa
 Il 10 maggio del 1940 Hitler attacca la Francia.
 ==Hitler evita la linea Maginot e passa di nuovo dai Paesi Bassi e dal Belgio.==
