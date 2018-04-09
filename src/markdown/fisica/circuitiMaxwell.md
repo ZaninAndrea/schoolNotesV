@@ -2,7 +2,7 @@
 category: "Fisica"
 title: "Elettromagnetismo"
 index: 1
-draft: true
+draft: false
 ---
 
 Revisione molto schematica di tutto l'elettromagnetismo
@@ -510,3 +510,74 @@ $$
 i_s=\epsilon_0\frac{d\phi_E}{dt}
 $$
 e viene introdotta perchè la legge di Ampère non funziona in processi dinamici, e.g. un condensatore che si carica.
+
+<iframe style="margin: 0 15%;" width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/426564225&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
+
+![](/images/correnteSpostamento.jpeg)
+
+## Luce
+Le equazioni di Maxwell prevedono la presenza anche nel vuoto di campi elettrici e magnetici correlati tra loro (la variazione di uno produce una variaione dell'altro), che oscillano sinusoidalmente nel tempo muovendosi nello spazio.
+Queste configurazioni sono dette **onde elettromagnetiche**.
+
+==Cariche elettriche accelerate irraggiano onde elettromagnetiche==, ad esempio un'antenna percorsa da corrente.
+
+Le onde elettromagnetiche si propagano anche nel vuoto con una velocità costante:
+$$
+c=\frac{1}{\sqrt{\epsilon_0 \mu_0}}\approx 3\cdot 10^{8}\text{ m/s}
+$$
+
+In un'onda elettromagnetica campo elettrico e campo magnetico hanno la seguente relazione
+$$
+E=cBn
+$$
+
+L'**intensità** di un'onda elettromagnetica esprime la quantità di energia che trasporta per unità di superficia per unità di tempo:
+$$
+I=c\epsilon_0 E^2 = \frac{c}{\mu_0}B^2
+$$
+
+### Esperimenti per determinare la velocità della luce
+Galileo tentò per primo di misurare la velocità della luce, ma riuscì a determinare solamente che essa è molto grande.
+
+Romer misurando le eclissi delle lune di Giove notò che quando Giove era alla massima distanza dalla Terra queste avvenivano con 16 minuti di ritardo rispetto a quando la Terra era alla minima distanza.
+Questo scarto è il tempo impiegato dalla luce per percorrere lo spazio da un estermo all'altro dell'orbita terrestre
+
+La prima misura in laboratorio della velocità della luce fu l'**esperimento della ruota dentata**: Fizeau fece passare un fascio luminoso attraverso un incavo di una ruota dentata, essa poi era riflessa da uno specchio e passava nell'incavo successivo. Misurando la velocità di rotazione della ruota e la distanza tra lo specchio e la ruota Fizeau ricavò la velocità della luce.
+
+### Spettro elettromagnetico
+Le onde elettromagnetiche sono suddivise in base alla loro frequenza:
+
+| nome | $f$ | $\lambda$ | caratteristiche |
+| --- | --- | --- | --- | 
+| onde radio | $10^6-10^9$ | $300\text{m} - 0,3 \text{m}$ | Prodotta da corrente alternata in un'antenna |
+| microonde | $10^9 - 10^{12}$ | $300\text{mm} - 0,3 \text{mm}$ | Onde elettromagnetiche a frequenza più alta producibili da circuiti elettronici |
+| infrarossi | $10^{12}-4.3\cdot 10^{14}$ | $0,3 \text{mm} - 700 \text{nm}$ | Vengono assorbiti dalle molecole scaldandole |
+| luce visibile | $4.3\cdot 10^{14}-7.5\cdot 10^{14}$ | $700 \text{nm} - 400 \text{nm}$ | Sono i colori che vediamo e sono prodotte da salti di guscio degli elettroni |
+| ultravioletti | $7.5\cdot 10^{14}-10^{17}$ | $400 \text{nm} - 3 \text{nm}$ | L'esposizione prolungata provoca tumori, sono assorbite dall'ozono e provocano l'abbrozantura |
+| Raggi X | $10^{17}-10^{20}$ | $3 \text{nm} - 3 \text{pm}$ | Molto utilizzate in medicina perchè attraversano i tessuti molli, ma non le ossa. Sono prodotte dalla rapida decelerazioni di elettroni contro un bersaglio metallico |
+
+### Polarizzazione
+La polarizzazione di un'onda elettromagnetica coincide con la direzione del suo campo elettrico.
+
+Un fascio si dice **polarizzato** se tutte le onde hanno la stessa polarizzazione.
+
+Un **polarizzatore** è un materiale composto da lunghe molecole conduttrici parallele, che tende ad assorbire la luce con una certa polarizzazione, di conseguenza ==un fascio di luce che lo attraversa ne esce polarizzato==.
+
+La legge di Malus ci indica l'intensità di un fascio polarizzato che attraversa un polarizzatore:
+$$
+I=I_0 \cos^2{\theta}
+$$
+$\theta$ è l'angola tra la direzione di polarizzazione del fascio in entrata e del polarizzatore.
+
+Se invece la luce in entrata non era polarizzata:
+$$
+I=\frac{1}{2}I_0
+$$
+
+La luce può anche essere **polarizzata per diffusione**: la luce mette in oscillazione gli elettroni della molecola colpita nella direzione di polarizzazione. La molecola quindi si comporta come una piccola antenna emettendo radiazione nelle direzioni perpendicolari a quella di oscillazione.
+==Se il fascio in entrata non è polarizzato otterremo quindi l'emissione di luce non polarizzata nella direzione di propagazione, ma polarizzata nelle direzioni perpendicolari ad essa.==
+
+Inoltre la luce può essere **polarizzata per riflessione**: la luce riflessa da una superficie si polarizza in direzione parallela alla superficie, la polarizzazione è totale se l'angolo di rifrazione è l'**angolo di Brewster**:
+$$
+\tg{\theta_B}=\frac{n_2}{n_1}
+$$

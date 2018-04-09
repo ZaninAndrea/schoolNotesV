@@ -73,7 +73,7 @@ Nel **discorso della responsabilità** tenuto il 3 gennaio 1925, Mussolini assun
 Mussolini prese in pugno la situazione e tra il '25 e il '26 decretò le **leggi fascistissime**: 
 - venne revocato il diritto di sciopero
 - ==tutti i partiti vennero aboliti==
-- le lezioni amministrative rimosse, i sindaci erano eletti dal governo e si chiamavano potestà 
+- le lezioni amministrative rimosse, i sindaci erano scelti dal governo e si chiamavano potestà 
 - venne reintrodotta la pena di morte (tolta da Zanardelli nel 1899)
 - venne istituito un tribunale speciale per la difesa dello Stato
 

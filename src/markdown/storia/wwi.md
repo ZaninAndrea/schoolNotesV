@@ -1,6 +1,6 @@
 ---
 category: "Storia"
-title: "La prima guerra mondiale"
+title: "La Prima Guerra Mondiale"
 index: 1
 draft: false
 ---
