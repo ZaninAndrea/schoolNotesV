@@ -52,6 +52,37 @@ div {
   grid-template-areas: "sidebarDownload main" "sidebarList main";
 }
 
+.fullScreen .notesContainer {
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  grid-template-areas: "main";
+  height: 100vh;
+}
+
+.fullScreen .markdown-body {
+  font-size: 20px;
+}
+
+.fullScreen .sidebarList {
+  display: none;
+}
+
+.fullScreen .notesMain {
+  padding: 15px calc((100% - 1000px)/2) 35px calc((100% - 1000px)/2);
+}
+
+.fullScreen .sidebarDownload {
+  display: none;
+}
+
+.fullScreen .header {
+  display: none;
+}
+
+body.fullScreen {
+  margin: 0;
+}
+
 @media screen and (orientation: portrait), screen and (max-width: 850px) {
   .notesContainer {
     grid-template-columns: auto;

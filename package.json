@@ -17,6 +17,7 @@
     "gatsby-transformer-nimbl": "^1.0.0",
     "gatsby-transformer-yaml": "^1.5.14",
     "github-slugger": "^1.2.0",
+    "material-ui": "^0.20.0",
     "nimbl-renderer": "^1.0.1",
     "react-helmet": "^5.2.0"
   },
