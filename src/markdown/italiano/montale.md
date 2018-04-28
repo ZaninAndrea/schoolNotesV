@@ -24,7 +24,7 @@ Pubblicato nel '25 parla della natura e attraverso di questa dell’esistenza e 
 ## La Bufera
 La Bufera è una raccolta di Montale pubblicata nel 1956. Qui si confronta con la **delusione del dopoguerra** in maniera allegorica, Clizia è l'unica che con le sue virtù può purificare il mondo.
 
-Nella parte finale (*Il sogno del priogioniero*) iniziano ad emergere le **sinistre metafore gastronomiche** che caratterizzerano il suo periodo tardo.
+Nella parte finale (*Il sogno del prigioniero*) iniziano ad emergere le **sinistre metafore gastronomiche** che caratterizzerano il suo periodo tardo.
 
 Tra i brani della Bufera vi è la **primavera Hitleriana** in cui Montale descrive l'incontro tra Mussolini e Hitler a Firenze.
 

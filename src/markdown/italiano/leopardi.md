@@ -172,3 +172,33 @@ Pompei è quindi un monito della potenza distruttiva della natura, Leopardi si p
 
 Leopardi parla direttamente alla ginestra preannunciandole la morte, ma almeno questa è consapevole della sua piccolezza.
 
+
+## A se stesso
+Viene dal Ciclo di Aspasia.
+
+Se l'infinito è il ritiro nell'immaginazione, in a se stesso c'è la **disillusione**
+
+La poesia è un richiamo a se stesso, dei comandi dati a se stesso
+
+## Passero solitario
+- L'elogio alla vita degli altri uccelli serve a contrastare con la sua vita che invece è diametralmente opposta
+- abbondanza di termini per indicare l'esclusione: schivi, disparte, ...
+- la primavera che brilla è una metafora per indicare il culmine
+- personificazione della natura
+- citazione di Dante
+- mi pentirò di questa mia vita, in questo punto Leopardi si discosta dall'analogia con il passero, perché la sua condizione non è naturale
+
+Il Sabato del Villaggio:
+- ricerca della musicalità
+- la prima parte descrive la vita dei vari abitanti che si preparano alla festa
+- prolessi: il mazzolin di fior verrà usato domani
+- il giorno più lieto è quello in cui immagino la festa, il sabato
+- cotesta, ossia tua non mia
+- la noia è il sentimento di base della vita umana
+
+Le ricordanze:
+- colloca al centro della visione di Leopardi un se stesso che vaga nel ricordo. "Io nel pensier mi fingo" attraverso il ricordo
+- la conclusione ci porta a collegare tutto su 2 termini: le ricordanze e acerba, con cui la poesia inizia e finisce
+- viene ancora una volta riproposto l'ostacolo che ci impedisce di vedere  perfettamente le stelle: sono vaghe
+- parallelismo con l'infinito "Mirando il cielo, ed ascoltando il canto"
+- appo = apud, presso le siepi
