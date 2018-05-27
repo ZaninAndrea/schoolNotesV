@@ -188,7 +188,7 @@ La poesia è un richiamo a se stesso, dei comandi dati a se stesso
 - citazione di Dante
 - mi pentirò di questa mia vita, in questo punto Leopardi si discosta dall'analogia con il passero, perché la sua condizione non è naturale
 
-Il Sabato del Villaggio:
+## Il Sabato del Villaggio:
 - ricerca della musicalità
 - la prima parte descrive la vita dei vari abitanti che si preparano alla festa
 - prolessi: il mazzolin di fior verrà usato domani
@@ -196,9 +196,26 @@ Il Sabato del Villaggio:
 - cotesta, ossia tua non mia
 - la noia è il sentimento di base della vita umana
 
-Le ricordanze:
+## Le ricordanze:
 - colloca al centro della visione di Leopardi un se stesso che vaga nel ricordo. "Io nel pensier mi fingo" attraverso il ricordo
 - la conclusione ci porta a collegare tutto su 2 termini: le ricordanze e acerba, con cui la poesia inizia e finisce
 - viene ancora una volta riproposto l'ostacolo che ci impedisce di vedere  perfettamente le stelle: sono vaghe
 - parallelismo con l'infinito "Mirando il cielo, ed ascoltando il canto"
 - appo = apud, presso le siepi
+
+## Passi Zibaldone
+Alcuni passi che ritengo importanti dello Zibaldone
+
+> L'anima umana (e così tutti gli esseri viventi) desidera sempre essenzialmente, e mira unicamente, benchè sotto mille aspetti, al piacere, ossia alla felicità, che considerandola bene, è tutt'uno col piacere. ==Questo desiderio e questa tendenza non ha limiti==; perch'è ingenita o congenita coll'esistenza, e perciò non può aver fine in questo o quel piacere che non può essere infinito, ma solamente termina colla vita. E non ha limiti: 1. né per durata; 2. nè per estensione
+
+> Il fatto è che quando l'anima desidera una cosa piacevole, desidera la soddisfazione di un suo desiderio infinito, desidera veramente il piacere, e non un tal piacere
+
+> Il piacere infinito che non si può trovare nella realtà, si trova così nella **immaginazione**, [...] Perciò non è maraviglia [...] che la felicità umana non possa consistere se non se nella immaginazione e nelle illusioni.
+
+> La cognizione del vero cioè dei limiti e definizioni delle cose, circoscrive l'immaginazione. [...] La speranza propria dell'uomo, degli antichi, fanciulli, ignoranti, è quasi annullata per il moderno sapiente
+
+> Quindi è manifesto: 1. Perchè tutti i beni paiano bellissimi e sommi da lontano, e ==l'ignoto sia più bello del noto==; [...] . 2. Perchè l'anima preferisca in poesia e da per tutto, il bello aereo, le idee infinite. [...] Di questo bello aereo, di queste idee abbondavano gli antichi, [...] Perchè in quel tempo l'anima si spazia in un **vago e indefinito**.
+
+> alle volte l'anima desidererà ed effettivamente desidera una **veduta ristretta** e confinata in certi modi, [...] . L'anima s'immagina quello che non vede, [...] e si figura cose che non potrebbe, se la sua vista si estendesse da per tutto, perchè il reale escluderebbe l'immaginario. 
+
+> In somma la noia non è altro che una mancanza del piacere che è l'elemento della nostra esistenza, e di cosa che ci distragga dal desiderarlo. Se non fosse la tendenza imperiosa dell'uomo al piacere sotto qualunque forma, la noia, quest'affezione tanto comune. tanto frequente, e tanto abborrita, non esisterebbe. 
