@@ -5,11 +5,11 @@ index: 0
 draft: true
 ---
 
-# $\int$ntegrali
+# Integrali
 
 ## Integrali indefiniti
 
-$F\(x\)$ è primitiva di $f\(x\)$ in un intervallo $I$ se $F\(x\)$ è derivabile e $F'\(x\)=f\(x\)$
+$$F(x)$$ è primitiva di $$f(x)$$ in un intervallo $$I$$ se $$F(x)$$ è derivabile e $F'\(x\)=f\(x\)$
 
 L'integrale indefinito di una funzione $f\(x\)$ è l'insieme di tutte le sue primitive e si indica in questo modo
 

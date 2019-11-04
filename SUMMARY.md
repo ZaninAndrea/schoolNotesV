@@ -35,5 +35,5 @@
   * [terzaProva](inglese/terzaprova.md)
   * [BronteWhitman](inglese/brontewhitman.md)
 * [matematica](matematica/README.md)
-  * [$\int$ntegrali](matematica/integrali.md)
+  * [Integrali](matematica/integrali.md)
 
