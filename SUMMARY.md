@@ -36,4 +36,5 @@
   * [BronteWhitman](inglese/brontewhitman.md)
 * [matematica](matematica/README.md)
   * [Integrali](matematica/integrali.md)
+  * [Equazioni differenziali](matematica/equazioni-differenziali.md)
 
