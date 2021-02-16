@@ -1,4 +1,3 @@
-# Home
+# School Notes V
 
-Questa è la home
-
+Notes taken during the last year of High School
